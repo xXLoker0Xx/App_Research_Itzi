@@ -1,0 +1,38 @@
+{
+  "search_info": {
+    "search_engine": "PubMed",
+    "date": "2025-07-09",
+    "search_terms": "Leptin AND \"metaflammation\" AND (\"review\" OR \"systematic review”) AND (\"not meta-analysis of RCTs\"[Publication Type] OR \"review\"[Publication Type])",
+    "hits": 3
+  },
+  "total_encontrados": 3,
+  "papers_procesados": 3,
+  "papers_con_errores": 0,
+  "termino_busqueda": "Leptin AND \"metaflammation\" AND (\"review\" OR \"systematic review”) AND (\"not meta-analysis of RCTs\"[Publication Type] OR \"review\"[Publication Type])",
+  "resultados": [
+    {
+      "paper_name": "Obesity and Leptin Resistance in the Regulation of the Type I Interferon Early Response and the Increased Risk for Severe COVID-19.",
+      "paper_year": "2022",
+      "paper_authors": "Muskiet FAJ, Carrera-Bastos P, Pruimboom L, Lucia A, Furman D",
+      "journal": "Nutrients",
+      "publisher": "Nutrients",
+      "resumen": "Obesity, and obesity-associated conditions such as hypertension, chronic kidney disease, type 2 diabetes, and cardiovascular disease, are important risk factors for severe Coronavirus disease-2019 (COVID-19). The common denominator is metaflammation, a portmanteau of metabolism and inflammation, which is characterized by chronically elevated levels of leptin and pro-inflammatory cytokines. These induce the \"Suppressor Of Cytokine Signaling 1 and 3\" (SOCS1/3), which deactivates the leptin receptor and also other SOCS1/3 sensitive cytokine receptors in immune cells, impairing the type I and III interferon early responses. By also upregulating SOCS1/3, Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV)-2 adds a significant boost to this. The ensuing consequence is a delayed but over-reactive immune response, characterized by high-grade inflammation (e.g., cytokine storm), endothelial damage, and hypercoagulation, thus leading to severe COVID-19. Superimposing an acute disturbance, such as a SARS-CoV-2 infection, on metaflammation severely tests resilience. In the long run, metaflammation causes the \"typical western\" conditions associated with metabolic syndrome. Severe COVID-19 and other serious infectious diseases can be added to the list of its short-term consequences. Therefore, preventive measures should include not only vaccination and the well-established actions intended to avoid infection, but also dietary and lifestyle interventions aimed at improving body composition and preventing or reversing metaflammation."
+    },
+    {
+      "paper_name": "The Role of Fatty Acids in Ceramide Pathways and Their Influence on Hypothalamic Regulation of Energy Balance: A Systematic Review.",
+      "paper_year": "2021",
+      "paper_authors": "Reginato A, Veras ACC, Baqueiro MDN, Panzarin C, Siqueira BP, Milanski M, Lisboa PC, Torsoni AS",
+      "journal": "International journal of molecular sciences",
+      "publisher": "Int J Mol Sci",
+      "resumen": "Obesity is a global health issue for which no major effective treatments have been well established. High-fat diet consumption is closely related to the development of obesity because it negatively modulates the hypothalamic control of food intake due to metaflammation and lipotoxicity. The use of animal models, such as rodents, in conjunction with in vitro models of hypothalamic cells, can enhance the understanding of hypothalamic functions related to the control of energy balance, thereby providing knowledge about the impact of diet on the hypothalamus, in addition to targets for the development of new drugs that can be used in humans to decrease body weight. Recently, sphingolipids were described as having a lipotoxic effect in peripheral tissues and the central nervous system. Specifically, lipid overload, mainly from long-chain saturated fatty acids, such as palmitate, leads to excessive ceramide levels that can be sensed by the hypothalamus, triggering the dysregulation of energy balance control. However, no systematic review has been undertaken regarding studies of sphingolipids, particularly ceramide and sphingosine-1-phosphate (S1P), the hypothalamus, and obesity. This review confirms that ceramides are associated with hypothalamic dysfunction in response to metaflammation, endoplasmic reticulum (ER) stress, and lipotoxicity, leading to insulin/leptin resistance. However, in contrast to ceramide, S1P appears to be a central satiety factor in the hypothalamus. Thus, our work describes current evidence related to sphingolipids and their role in hypothalamic energy balance control. Hypothetically, the manipulation of sphingolipid levels could be useful in enabling clinicians to treat obesity, particularly by decreasing ceramide levels and the inflammation/endoplasmic reticulum stress induced in response to overfeeding with saturated fatty acids."
+    },
+    {
+      "paper_name": "Obesity and inflammation: the effects of weight loss.",
+      "paper_year": "2008",
+      "paper_authors": "Forsythe LK, Wallace JM, Livingstone MB",
+      "journal": "Nutrition research reviews",
+      "publisher": "Nutr Res Rev",
+      "resumen": "Following the discovery of TNF-alpha and leptin as secretory products of adipocytes in the early 1990s, subsequent obesity research focused on the new functional role of adipose tissue, as an active endocrine organ. Many more inflammatory peptides have been linked to adiposity, which ultimately characterised obesity as a state of low-grade systemic inflammation, or 'metaflammation' which may link obesity to its co-morbidities. The aim of the present review is to examine the effects of weight loss on inflammation in overweight and obese, but otherwise healthy, populations. Studies were broadly classified into four types (diet, physical activity, diet and physical activity combined, and surgical interventions) and discussed according to the method used to induce weight loss. All studies measured at least one obesity-related inflammatory marker (ORIM). The overall finding from the present review is that weight loss does improve inflammation in terms of both the inflammatory (C-reactive protein, TNF-alpha, IL-6 and leptin) and anti-inflammatory (adiponectin) ORIM. Within this, the greatest improvements in ORIM are observed in studies achieving a weight loss of at least 10 %. However, a number of methodological issues have been identified as potential limitations within the literature including the sex and age of subjects, sample size, study duration and the assessment of body composition. In conclusion, although a period of weight loss per se is capable of reversing the unfavourable inflammatory profile evident in the obese state, further studies are required to determine the time needed, in which a reduced weight is maintained, in order to benefit from improved inflammatory status long term."
+    }
+  ]
+}

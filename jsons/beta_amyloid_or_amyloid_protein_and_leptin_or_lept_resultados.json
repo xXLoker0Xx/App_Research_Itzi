@@ -1,0 +1,366 @@
+{
+  "search_info": {
+    "search_engine": "PubMed",
+    "date": "2025-07-09",
+    "search_terms": "(\"beta amyloid\" OR \"Amyloid protein\") AND (\"leptin\" OR \"leptin resistance”)",
+    "hits": 44
+  },
+  "total_encontrados": 44,
+  "papers_procesados": 44,
+  "papers_con_errores": 0,
+  "termino_busqueda": "(\"beta amyloid\" OR \"Amyloid protein\") AND (\"leptin\" OR \"leptin resistance”)",
+  "resultados": [
+    {
+      "paper_name": "Native Mass Spectrometry-Centric Approaches Revealed That Neuropeptides Frequently Interact with Amyloid-β.",
+      "paper_year": "2024",
+      "paper_authors": "Wang D, Wang G, Wang X, Ren Z, Jia C",
+      "journal": "ACS chemical neuroscience",
+      "publisher": "ACS Chem Neurosci",
+      "resumen": "Amyloid-β (Aβ) aggregates are recognized as initiators of Alzheimer's disease, and their interaction with the nervous system contributes to the progression of neurodegeneration. Herein, we investigated the frequency at which neuropeptides interact with Aβ and affect the aggregation kinetics and cytotoxicity of Aβ. To this end, we established a native mass spectrometry (MS)-centric workflow for screening Aβ-interacting neuropeptides, and six out of 12 neuropeptides formed noncovalent complexes with Aβ species in the MS gas phase. Thioflavin-T fluorescence assays and gel separation indicated that leptin and cerebellin decreased Aβ aggregation, whereas kisspeptin increased this process. In addition, leptin and cerebellin attenuated Aβ-induced cytotoxicity, which was independent of the influence of metal ions. Leptin can chelate copper from copper-bound Aβ species, reducing the cytotoxicity caused by the aggregation of Aβ and metal ion complexes. Overall, our study demonstrated that neuropeptides frequently interact with Aβ and revealed that leptin and cerebellin are potential inhibitors of Aβ aggregation, providing great insight into understanding the molecular mechanism of Aβ interacting with the nervous system and facilitating drug development."
+    },
+    {
+      "paper_name": "Adiponectin receptor 1 could explain the sex differences in molecular basis of cognitive improvements induced by exercise training in type 2 diabetic rats.",
+      "paper_year": "2023",
+      "paper_authors": "Rajizadeh MA, Moslemizadeh A, Hosseini MS, Rafiei F, Soltani Z, Khoramipour K",
+      "journal": "Scientific reports",
+      "publisher": "Sci Rep",
+      "resumen": "Adipokines dysregulation, the main reason for cognitive impairments (CI) induced by diabetes, shows a sex-dependent pattern inherently and in response to exercise. This study aimed to compare the attenuating effect of 8-week high intensity-interval training (HIIT) on type 2 diabetes (T2D)-induced CI between male and female rats with a special focus on adiponectin and leptin. 28 male & 28 female Wistar rats with an average age of 8 weeks were randomly assigned into four groups: control (Con), exercise (EX), Diabetes (T2D), and Type 2 diabetes + exercise (T2D + Ex). Rats in EX and T2D + EX groups performed HIIT for eight weeks (80-100% Vmax, 4-10 intervals). T2D was induced by 2 months of a high-fat diet and a single dose of STZ (35 mg/kg) administration. Leptin and adiponectin levels in serum were measured along with hippocampal expression of leptin and adiponectin receptors, AMP-activated protein kinase (AMPK), dephosphorylated glycogen synthase kinase-3 beta (Dep-GSK3β), Tau, and beta-amyloid (Aβ). Homeostasis model assessments (HOMAs) and quantitative insulin-sensitivity check index (QUICKI) indices were calculated. Our results showed that following T2D, serum levels of APN, and hippocampal levels of adiponectin receptor 1 (APNR1) were higher and HOMA-IR was lower in female than male rats (P < 0.05). However, after 8 weeks of HIIT, hippocampal levels of APNR1 and AMPK as well as QUICKI were lower and hippocampal levels of GSK, Tau, and Aβ were higher in females compared to male rats (P < 0.05). While the risk of CI following T2D was more in male than female rats HIIT showed a more ameliorating effect in male animals with APN1 as the main player."
+    },
+    {
+      "paper_name": "Microbiota dysbiosis caused by dietetic patterns as a promoter of Alzheimer's disease through metabolic syndrome mechanisms.",
+      "paper_year": "2023",
+      "paper_authors": "Navalón-Monllor V, Soriano-Romaní L, Silva M, de Las Hazas ML, Hernando-Quintana N, Suárez Diéguez T, Esteve PM, Nieto JA",
+      "journal": "Food & function",
+      "publisher": "Food Funct",
+      "resumen": "Microbiota dysbiosis and metabolic syndrome, consequences of a non-adequate diet, generate a feedback pathogenic state implicated in Alzheimer's disease development. The lower production of short chain fatty acids (SCFAs) under dysbiosis status leads to lipid homeostasis deregulation and decreases Angptl4 release and AMPK activation in the adipose tissue, promoting higher lipid storage (adipocyte hypertrophy) and cholesterol levels. Also, low SCFA generation reduces GPR41 and GPR43 receptor activation at the adipose tissue (increasing leptin release and leptin receptor resistance) and intestinal levels, reducing the release of GLP-1 and YPP. Therefore, lower satiety sensation and energy expenditure occur, promoting a weight gaining environment mediated by higher food intake and lipid storage, developing dyslipemia. In this context, higher glucose levels, together with higher free fatty acids in the bloodstream, promote glycolipotoxicity, provoking a reduction in insulin released, insulin receptor resistance, advanced glycation products (AGEs) and type 2 diabetes. Intestinal dysbiosis and low SCFAs reduce bacterial biodiversity, increasing lipopolysaccharide (LPS)-producing bacteria and intestinal barrier permeability. Higher amounts of LPS pass to the bloodstream (endotoxemia), causing a low-grade chronic inflammatory state characterized by higher levels of leptin, IL-1β, IL-6 and TNF-α, together with a reduced release of adiponectin and IL-10. At the brain and neuronal levels, the generated insulin resistance, low-grade chronic inflammation, leptin resistance, AGE production and LPS increase directly impact the secretase enzymes and tau hyperphosphorylation, creating an enabling environment for β-amyloid senile plaque and tau tangled formations and, as a consequence, Alzheimer's initiation, development and maintenance."
+    },
+    {
+      "paper_name": "Leptin Signaling Could Mediate Hippocampal Decumulation of Beta-Amyloid and Tau Induced by High-Intensity Interval Training in Rats with Type 2 Diabetes.",
+      "paper_year": "2023",
+      "paper_authors": "Rezaei MH, Madadizadeh E, Aminaei M, Abbaspoor M, Schierbauer J, Moser O, Khoramipour K, Chamari K",
+      "journal": "Cellular and molecular neurobiology",
+      "publisher": "Cell Mol Neurobiol",
+      "resumen": "Leptin (LEP) can cross the blood-brain barrier and facilitate cross-talk between the adipose tissue and central nerve system (CNS). This study aimed to investigate the effect of 8-week high-intensity interval training (HIIT) on the LEP signaling in the hippocampus of rats with type 2 diabetes. 20 rats were randomly divided into four groups: (i) control (Con), (ii) type 2 diabetes (T2D), (iii) exercise (EX), and (iv) type 2 diabetes + exercise (T2D + EX). The rats in the T2D and T2D + EX were fed a high-fat diet for two months, then a single dose of STZ (35 mg/kg) was injected to induce diabetes. The EX and T2D + EX groups performed 4-10 intervals of treadmill running at 80-100% of V<sub>max</sub>. Serum and hippocampal levels of LEP as well as hippocampal levels of LEP receptors (LEP-R), Janus kinase 2 (JAK-2), signal transducer and activator of transcription 3 (STAT-3), activated protein kinase (AMP-K), proxy zoster receptor α (PGC-1α), beta-secretase 1 (BACE1), Beta-Amyloid (Aβ), Phosphoinositide 3-kinases (PI3K), protein kinase B (AKT), mammalian target of rapamycin (mTOR), Glycogen Synthase Kinase 3 Beta (GSK3β), and hyperphosphorylated tau proteins (TAU) were measured. One-way ONOVA and Tukey post-hoc tests were used to analyze the data. Serum and hippocampal levels of LEP as well as hippocampal levels of LEP-R, JAK-2, STAT-3, AMP-K, PGC1α, PI3K, AKT, and mTOR were increased while hippocampal levels of BACE1, GSK3B, TAU, and Aβ were decreased in T2D + EX compared with T2D group. Serum LEP and hippocampal levels of LEP, LEP-R, JAK-2, STAT-3, AMP-K, PGC1α, PI3K, AKT, and mTOR were decreased. Conversely hippocampal levels of BACE1, GSK3B, TAU, and Aβ were increased in T2D group compared with CON group. HIIT could improve LEP signaling in the hippocampus of rats with type 2 diabetes and decrease the accumulation of Tau and Aβ, which may reduce the risk of memory impairments."
+    },
+    {
+      "paper_name": "High energy diet of beef cows during gestation promoted growth performance of calves by improving placental nutrients transport.",
+      "paper_year": "2022",
+      "paper_authors": "Kang K, Zeng L, Ma J, Shi L, Hu R, Zou H, Peng Q, Wang L, Xue B, Wang Z",
+      "journal": "Frontiers in veterinary science",
+      "publisher": "Front Vet Sci",
+      "resumen": "The aim of this study was to explore the effects of dietary energy level during gestation on growth performance and serum parameters in offspring using beef cattle as research objects. Additionally, the gene expressions associated with nutrients transport in the placenta were evaluated. Eighteen Simmental crossbred cows (body weight = 338.44 ± 16.03 kg and 760 ± 6 days of age) were randomly assigned to 3 dietary treatment groups: low energy (LE, metabolic energy = 8.76 MJ/kg), medium (ME, 9.47 MJ/kg) and high (HE, 10.18 MJ/kg). The dietary treatments were introduced from day 45 before expected date of parturition. The pre-experiment lasted for 15 days and formal experiment lasted for 30 days. Growth performance data and blood samples of calves were collected at birth and day 30 post-birth. The placental tissue was collected at parturition. The results indicated that the birth weight and average daily gain of calves in HE group were higher (<i>P</i> < 0.05) than those in LE group. After parturition, the serum contents of glucose, total protein, cortisol and leptin in neonatal calves were significantly increased (<i>P</i> < 0.05) with the elevation of dietary energy levels. At 30 days postpartum, the glucose, glutathione peroxidase, growth hormone, insulin-like growth factor 1 and leptin concentrations of HE group were significantly increased (<i>P</i> < 0.05) as compared with LE group, while the serum amyloid protein A displayed an opposite trend between two groups. With the increase of dietary energy concentration, placental mRNA expressions of vascular endothelial growth factor A, glucose transporter 1 and 3 were significantly up-regulated (<i>P</i> < 0.05). Furthermore, the amino acid transporter solute carrier family 38 member 1, hydroxysteroid 11-beta dehydrogenase 2, insulin-like growth factor 1 and 2 mRNA expressions of HE group were higher (<i>P</i> < 0.05) than those of LE and ME groups. In conclusion, the improved growth performance of calves from the high energy ration supplemented beef cows may be attributed to the increased placental nutrients transport, which may lead to the increased nutrient supply to the fetus."
+    },
+    {
+      "paper_name": "Plasma Leptin Is Associated With Amyloid CSF Biomarkers and Alzheimer's Disease Diagnosis in Cognitively Impaired Patients.",
+      "paper_year": "2023",
+      "paper_authors": "Lilamand M, Bouaziz-Amar E, Dumurgier J, Cognat E, Hourregue C, Mouton-Liger F, Sanchez M, Troussière AC, Martinet M, Hugon J, Paquet C",
+      "journal": "The journals of gerontology. Series A, Biological sciences and medical sciences",
+      "publisher": "J Gerontol A Biol Sci Med Sci",
+      "resumen": "Metabolic dysfunction and dysregulation of leptin signaling have been linked to Alzheimer's disease (AD)'s pathophysiology. The objectives of this study were to examine the associations between plasma leptin, cerebrospinal fluid (CSF), beta-amyloid (Aβ), and tau biomarkers (AT[N] status) and with the stage of cognitive impairment."
+    },
+    {
+      "paper_name": "Decreased resistin plasmatic concentrations in patients with Alzheimer's disease: A case-control study.",
+      "paper_year": "2022",
+      "paper_authors": "Marcinnò A, Gallo E, Roveta F, Boschi S, Grassini A, Rainero I, Rubino E",
+      "journal": "Heliyon",
+      "publisher": "Heliyon",
+      "resumen": "Previous studies suggested a role for adipokines in ageing and in several age-related diseases. The purpose of our study was to further elucidate adipokines involvement in neurodegeneration, investigating adiponectin, leptin and resistin in Alzheimer's disease (AD) and Frontotemporal Dementia (FTD). We enrolled for the study 70 subjects: 26 AD, 21 FTD, and 23 with other neurological (but not neurodegenerative) conditions (CTR, control group). According to a standardized protocol, we measured adipokines plasmatic levels, blood parameters of glucidic and lipidic metabolism, ESR, cerebrospinal fluid (CSF) markers of neurodegeneration (beta-amyloid, total-Tau, phosphorylated-Tau) and anthropometric parameters. In comparison with control group, we found lower resistin concentrations in patients with dementia, and in particular in AD (p < 0.001). In multivariate analysis, AD relative risk was reduced by resistin, when controlling for sex, age and anthropometric/metabolic parameters (RR = 0.71, P < 0.0001). Considering CSF biomarkers, we found a direct correlation between resistin and Aβ<sub>1-42</sub> CSF concentration in patients (p < 0.001, r = 0.50). Lower resistin characterized AD patients in our study and AD, but not FTD, diagnosis risk was found to be inversely associated with resistin when controlling for confounders. We hypothesize that resistin-linked metabolic profile has to be reconsidered and further investigated in AD."
+    },
+    {
+      "paper_name": "Plasma adiponectin levels predict cognitive decline and cortical thinning in mild cognitive impairment with beta-amyloid pathology.",
+      "paper_year": "2022",
+      "paper_authors": "Kim KY, Ha J, Kim M, Cho SY, Kim H, Kim E",
+      "journal": "Alzheimer's research & therapy",
+      "publisher": "Alzheimers Res Ther",
+      "resumen": "Blood adiponectin and leptin are adipokines that emerged as potential biomarkers for predicting Alzheimer's disease (AD) owing to their strong connection with obesity. Although obesity affects the relation between beta-amyloid (Aβ) aggregation and cognitive decline, the longitudinal interactive effect of adipokines and Aβ on cognition and brain structures in humans remains unexplored. Hence, we investigated whether plasma levels of adiponectin and leptin are associated with future cognitive decline and cortical thinning across Aβ conditions (Aβ [+] and Aβ [-]) in individuals with mild cognitive impairment (MCI)."
+    },
+    {
+      "paper_name": "Integrated Analyses of Microbiomics and Metabolomics Explore the Effect of Gut Microbiota Transplantation on Diabetes-Associated Cognitive Decline in Zucker Diabetic Fatty Rats.",
+      "paper_year": "2022",
+      "paper_authors": "Bi T, Zhang L, Zhan L, Feng R, Zhao T, Ren W, Hang T, Zhou W, Lu X",
+      "journal": "Frontiers in aging neuroscience",
+      "publisher": "Front Aging Neurosci",
+      "resumen": "Diabetes-associated cognitive decline (DACD), one of the complications of type 2 diabetes (T2DM), correlates significantly with the disorder in glycolipid metabolism, insulin/leptin resistance, and accumulation of β-amyloid (Aβ). Although gut microbiota transplantation (GMT), a novel non-invasive physiotherapy strategy, has been a promising intervention to alleviate the symptoms of T2DM, its protective effect on progressive cognitive decline remains elusive. Here, we transplanted the gut microbiota of healthy or cognitive decline donor rats into ZDF or LZ rats, and integrated microbiomics and metabolomics to evaluate the directional effect of the gut microbiota on the recipient rats. The basal metabolism phenotype changed in ZDF rats instead of in LZ rats. One possible mechanism is that the microbiota and metabolites alter the structure of the intestinal tract, stimulate the brain insulin and leptin signaling pathways, and regulate the deposition of Aβ in the brain. It is worth noting that 10 species of genera, such as <i>Parabacteroides</i>, <i>Blautia</i>, and <i>Lactobacillus</i>, can regulate 20 kinds of metabolites, such as propanoic acid, acetic acid, and citramalic acid, and having a significant improvement on the cognitive behavior of ZDF rats. In addition, the correlation analysis indicated the gut microbiota and metabolites are highly associated with host phenotypes affected by GMT. In summary, our study indicates that altering the microbiota-gut-brain axis by reshaping the composition of gut microbiota is a viable strategy that has great potential for improving cognitive function and combatting DACD."
+    },
+    {
+      "paper_name": "Effects of Soy-Based Infant Formula on Weight Gain and Neurodevelopment in an Autism Mouse Model.",
+      "paper_year": "2022",
+      "paper_authors": "Westmark CJ, Filon MJ, Maina P, Steinberg LI, Ikonomidou C, Westmark PR",
+      "journal": "Cells",
+      "publisher": "Cells",
+      "resumen": "Mice fed soy-based diets exhibit increased weight gain compared to mice fed casein-based diets, and the effects are more pronounced in a model of fragile X syndrome (FXS; <i>Fmr1<sup>KO</sup></i>). FXS is a neurodevelopmental disability characterized by intellectual impairment, seizures, autistic behavior, anxiety, and obesity. Here, we analyzed body weight as a function of mouse age, diet, and genotype to determine the effect of diet (soy, casein, and grain-based) on weight gain. We also assessed plasma protein biomarker expression and behavior in response to diet. Juvenile <i>Fmr1<sup>KO</sup></i> mice fed a soy protein-based rodent chow throughout gestation and postnatal development exhibit increased weight gain compared to mice fed a casein-based purified ingredient diet or grain-based, low phytoestrogen chow. Adolescent and adult <i>Fmr1<sup>KO</sup></i> mice fed a soy-based infant formula diet exhibited increased weight gain compared to reference diets. Increased body mass was due to increased lean mass. Wild-type male mice fed soy-based infant formula exhibited increased learning in a passive avoidance paradigm, and <i>Fmr1<sup>KO</sup></i> male mice had a deficit in nest building. Thus, at the systems level, consumption of soy-based diets increases weight gain and affects behavior. At the molecular level, a soy-based infant formula diet was associated with altered expression of numerous plasma proteins, including the adipose hormone leptin and the β-amyloid degrading enzyme neprilysin. In conclusion, single-source, soy-based diets may contribute to the development of obesity and the exacerbation of neurological phenotypes in developmental disabilities, such as FXS."
+    },
+    {
+      "paper_name": "BACE1: More than just a β-secretase.",
+      "paper_year": "2022",
+      "paper_authors": "Taylor HA, Przemylska L, Clavane EM, Meakin PJ",
+      "journal": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
+      "publisher": "Obes Rev",
+      "resumen": "β-site amyloid precursor protein cleaving enzyme-1 (BACE1) research has historically focused on its actions as the β-secretase responsible for the production of β-amyloid beta, observed in Alzheimer's disease. Although the greatest expression of BACE1 is found in the brain, BACE1 mRNA and protein is also found in many cell types including pancreatic β-cells, adipocytes, hepatocytes, and vascular cells. Pathologically elevated BACE1 expression in these cells has been implicated in the development of metabolic diseases, including type 2 diabetes, obesity, and cardiovascular disease. In this review, we examine key questions surrounding the BACE1 literature, including how is BACE1 regulated and how dysregulation may occur in disease, and understand how BACE1 regulates metabolism via cleavage of a myriad of substrates. The phenotype of the BACE1 knockout mice models, including reduced weight gain, increased energy expenditure, and enhanced leptin signaling, proposes a physiological role of BACE1 in regulating energy metabolism and homeostasis. Taken together with the weight loss observed with BACE1 inhibitors in clinical trials, these data highlight a novel role for BACE1 in regulation of metabolic physiology. Finally, this review aims to examine the possibility that BACE1 inhibitors could provide a innovative treatment for obesity and its comorbidities."
+    },
+    {
+      "paper_name": "MA-[D-Leu-4]-OB3, a small molecule synthetic peptide leptin mimetic, improves episodic memory, and reduces serum levels of tumor necrosis factor-alpha and neurodegeneration in mouse models of Type 1 and Type 2 Diabetes Mellitus.",
+      "paper_year": "2020",
+      "paper_authors": "Hirschstein Z, Vanga GR, Wang G, Novakovic ZM, Grasso P",
+      "journal": "Biochimica et biophysica acta. General subjects",
+      "publisher": "Biochim Biophys Acta Gen Subj",
+      "resumen": "Extracellular beta-amyloid (Aβ), intra-neuronal hyper-phosphorylated tau protein, and chronic inflammation are neuropathological hallmarks of Alzheimer's Disease (AD). A link between AD, insulin dysfunction, and tumor necrosis factor-alpha (TNF-α) in promoting both tau and Aβ pathologies in vivo has been proposed."
+    },
+    {
+      "paper_name": "Aging Reduces Estradiol Protection Against Neural but Not Metabolic Effects of Obesity in Female 3xTg-AD Mice.",
+      "paper_year": "2020",
+      "paper_authors": "Christensen A, Liu J, Pike CJ",
+      "journal": "Frontiers in aging neuroscience",
+      "publisher": "Front Aging Neurosci",
+      "resumen": "Vulnerability to Alzheimer's disease (AD) is increased by several risk factors, including midlife obesity, female sex, and the depletion of estrogens in women as a consequence of menopause. Conversely, estrogen-based hormone therapies have been linked with protection from age-related increases in adiposity and dementia risk, although treatment efficacy appears to be affected by the age of initiation. Potential interactions between obesity, AD, aging, and estrogen treatment are likely to have significant impact on optimizing the use of hormone therapies in postmenopausal women. In the current study, we compared how treatment with the primary estrogen, 17β-estradiol (E2), affects levels of AD-like neuropathology, behavioral impairment, and other neural and systemic effects of preexisting diet-induced obesity in female 3xTg-AD mice. Importantly, experiments were conducted at chronological ages associated with both the early and late stages of reproductive senescence. We observed that E2 treatment was generally associated with significantly improved metabolic outcomes, including reductions in body weight, adiposity, and leptin, across both age groups. Conversely, neural benefits of E2 in obese mice, including decreased β-amyloid burden, improved behavioral performance, and reduced microglial activation, were observed only in the early aging group. These results are consistent with the perspective that neural benefits of estrogen-based therapies require initiation of treatment during early rather than later phases of reproductive aging. Further, the discordance between E2 protection against systemic versus neural effects of obesity across age groups suggests that pathways other than general metabolic function, perhaps including reduced microglial activation, contribute to the mechanism(s) of the observed E2 actions. These findings reinforce the potential systemic and neural benefits of estrogen therapies against obesity, while also highlighting the critical role of aging as a mediator of estrogens' protective actions."
+    },
+    {
+      "paper_name": "Bace1-dependent amyloid processing regulates hypothalamic leptin sensitivity in obese mice.",
+      "paper_year": "2018",
+      "paper_authors": "Meakin PJ, Jalicy SM, Montagut G, Allsop DJP, Cavellini DL, Irvine SW, McGinley C, Liddell MK, McNeilly AD, Parmionova K, Liu YR, Bailey CLS, Dale JK, Heisler LK, McCrimmon RJ, Ashford MLJ",
+      "journal": "Scientific reports",
+      "publisher": "Sci Rep",
+      "resumen": "Obesity places an enormous medical and economic burden on society. The principal driver appears to be central leptin resistance with hyperleptinemia. Accordingly, a compound that reverses or prevents leptin resistance should promote weight normalisation and improve glucose homeostasis. The protease Bace1 drives beta amyloid (Aβ) production with obesity elevating hypothalamic Bace1 activity and Aβ<sub>1-42</sub> production. Pharmacological inhibition of Bace1 reduces body weight, improves glucose homeostasis and lowers plasma leptin in diet-induced obese (DIO) mice. These actions are not apparent in ob/ob or db/db mice, indicating the requirement for functional leptin signalling. Decreasing Bace1 activity normalises hypothalamic inflammation, lowers PTP1B and SOCS3 and restores hypothalamic leptin sensitivity and pSTAT3 response in obese mice, but does not affect leptin sensitivity in lean mice. Raising central Aβ<sub>1-42</sub> levels in the early stage of DIO increases hypothalamic basal pSTAT3 and reduces the amplitude of the leptin pSTAT3 signal without increased inflammation. Thus, elevated Aβ<sub>1-42</sub> promotes hypothalamic leptin resistance, which is associated with diminished whole-body sensitivity to exogenous leptin and exacerbated body weight gain in high fat fed mice. These results indicate that Bace1 inhibitors, currently in clinical trials for Alzheimer's disease, may be useful agents for the treatment of obesity and associated diabetes."
+    },
+    {
+      "paper_name": "A blood-based biomarker panel indicates IL-10 and IL-12/23p40 are jointly associated as predictors of β-amyloid load in an AD cohort.",
+      "paper_year": "2017",
+      "paper_authors": "Pedrini S, Gupta VB, Hone E, Doecke J, O'Bryant S, James I, Bush AI, Rowe CC, Villemagne VL, Ames D, Masters CL, Martins RN",
+      "journal": "Scientific reports",
+      "publisher": "Sci Rep",
+      "resumen": "Alzheimer's Disease (AD) is the most common form of dementia, characterised by extracellular amyloid deposition as plaques and intracellular neurofibrillary tangles of tau protein. As no current clinical test can diagnose individuals at risk of developing AD, the aim of this project is to evaluate a blood-based biomarker panel to identify individuals who carry this risk. We analysed the levels of 22 biomarkers in clinically classified healthy controls (HC), mild cognitive impairment (MCI) and Alzheimer's participants from the well characterised Australian Imaging, Biomarker and Lifestyle (AIBL) study of aging. High levels of IL-10 and IL-12/23p40 were significantly associated with amyloid deposition in HC, suggesting that these two biomarkers might be used to detect at risk individuals. Additionally, other biomarkers (Eotaxin-3, Leptin, PYY) exhibited altered levels in AD participants possessing the APOE ε4 allele. This suggests that the physiology of some potential biomarkers may be altered in AD due to the APOE ε4 allele, a major risk factor for AD. Taken together, these data highlight several potential biomarkers that can be used in a blood-based panel to allow earlier identification of individuals at risk of developing AD and/or early stage AD for which current therapies may be more beneficial."
+    },
+    {
+      "paper_name": "Combination treatment with leptin and pioglitazone in a mouse model of Alzheimer's disease.",
+      "paper_year": "2017",
+      "paper_authors": "Fernandez-Martos CM, Atkinson RAK, Chuah MI, King AE, Vickers JC",
+      "journal": "Alzheimer's & dementia (New York, N. Y.)",
+      "publisher": "Alzheimers Dement (N Y)",
+      "resumen": "Combination therapy approaches may be necessary to address the many facets of pathologic change in the brain in Alzheimer's disease (AD). The drugs leptin and pioglitazone have previously been shown individually to have neuroprotective and anti-inflammatory actions, respectively, in animal models."
+    },
+    {
+      "paper_name": "Chronic diabetic states worsen Alzheimer neuropathology and cognitive deficits accompanying disruption of calcium signaling in leptin-deficient APP/PS1 mice.",
+      "paper_year": "2017",
+      "paper_authors": "Zhang S, Chai R, Yang YY, Guo SQ, Wang S, Guo T, Xu SF, Zhang YH, Wang ZY, Guo C",
+      "journal": "Oncotarget",
+      "publisher": "Oncotarget",
+      "resumen": "The coincidences between Alzheimer's disease (AD) and type 2 diabetes mellitus (T2DM) are so compelling that it is attractive to speculate that diabetic conditions might aggravate AD pathologies by calcium dysfunction, although the understanding of the molecular mechanisms involved remains elusive. The present work was undertaken to investigate whether calcium dyshomeostasis is associated with the exacerbated Alzheimer-like cognitive dysfunction observed in diabetic conditions in APP/PS1-ob/ob mice, which were generated by crossing ob/ob mice with APP/PS1 mice. We confirmed that the diabetic condition can aggravate not only Aβ deposition but also tau phosphorylation, synaptic loss, neuronal death, and inflammation, exacerbating cognitive impairment in AD mice. More importantly, we found that the diabetic condition dramatically elevated calcium levels in APP/PS1 mice, thereby stimulating the phosphorylation of the calcium-dependent kinases. Our findings suggest that controlling over-elevation of intracellular calcium may provide novel insights for approaching AD in diabetic patients and delaying AD progression."
+    },
+    {
+      "paper_name": "Geniposide attenuates the level of Aβ<sub>1-42</sub> via enhancing leptin signaling in cellular and APP/PS1 transgenic mice.",
+      "paper_year": "2017",
+      "paper_authors": "Liu Z, Zhang Y, Liu J, Yin F",
+      "journal": "Archives of pharmacal research",
+      "publisher": "Arch Pharm Res",
+      "resumen": "An large body of evidence indicates that leptin has protective role against Alzheimer's disease, where it reduces β-amyloid (Aβ) production in both cell culture and animal models. Our previous studies revealed that geniposide could attenuate the production of Aβ<sub>1-42</sub> and antagonize the neurotoxicity of Aβ<sub>1-42</sub> in neurons. However, the mechanism that underlies these effects remains to be clarified. To investigate whether leptin signaling is involved in regulating the production of Aβ<sub>1-42</sub> by geniposide, we treated primary neurons with leptin antagonist (LA), and determined the influence of LA on the activities of leptin signaling molecules and the expressions of secretases associated with the production of Aβ<sub>1-42</sub>. The finding showed that, accompanied with the inhibition on the level of Aβ<sub>1-42</sub> in primary neurons and APP/PS1 transgenic mice, geniposide induced the phosphorylation of JAK2 and STAT3, regulated the expression level of α- and β-secretase, and all of these could be prevented by the pre-incubation with LA. The results of this study suggest that geniposide may regulate the production of Aβ<sub>1-42</sub> via leptin signaling."
+    },
+    {
+      "paper_name": "Leptin-Sensitive JAK2 Activation in the Regulation of Tau Phosphorylation in PC12 Cells.",
+      "paper_year": "2016",
+      "paper_authors": "Guo M, Li D, Shen H, Jin B, Ren Y, Li M, Xing Y",
+      "journal": "Neuro-Signals",
+      "publisher": "Neurosignals",
+      "resumen": "Alzheimer's disease (AD) is characterized by two major hallmarks: the deposition and accumulation of β-amyloid (Aβ) peptide and hyperphosphorylated tau in intracellular neurofibrillary tangles. Sets of evidence show that leptin reduces Aβ production and tau phosphorylation. Herein, we investigated the signaling pathways activated by leptin, to extensively understand its mechanism."
+    },
+    {
+      "paper_name": "Association between Plasma Leptin and Estrogen in Female Patients of Amnestic Mild Cognitive Impairment.",
+      "paper_year": "2015",
+      "paper_authors": "Xing Y, Liu J, Xu J, Yin L, Wang L, Li J, Yu Z, Li F, Gao R, Jia J",
+      "journal": "Disease markers",
+      "publisher": "Dis Markers",
+      "resumen": "Increasing evidences suggested the association between leptin and cognitive functions. Estrogen is an important factor that regulates the production and metabolism of leptin. However, little is known about the relationship between leptin and estrogen in mild cognitive impairment (MCI). Plasma levels of leptin, total estradiol, and β-amyloid protein (Aβ) were measured in a total of 23 female amnestic MCI (aMCI) patients and 19 female cognitively normal controls. This study showed that female aMCI patients had lower plasma levels of leptin and higher levels of estradiol compared to female normal controls. Leptin and estradiol levels were not correlated with cognitive performances or plasma Aβ levels in either aMCI patients or normal controls. There was a significant negative correlation between leptin and estrogen in female aMCI patients (r = -0.633, p = 0.002) but not in female normal controls. The potential mechanisms of this disease-stage-specific association between leptin and estrogen need further investigations."
+    },
+    {
+      "paper_name": "Reduction in Aβ-induced cell death in the hippocampus of 17β-estradiol-treated female rats is associated with an increase in IGF-I signaling and somatostatinergic tone.",
+      "paper_year": "2015",
+      "paper_authors": "Perianes-Cachero A, Canelles S, Aguado-Llera D, Frago LM, Toledo-Lobo MV, Carrera I, Cacabelos R, Chowen JA, Argente J, Arilla-Ferreiro E, Barrios V",
+      "journal": "Journal of neurochemistry",
+      "publisher": "J Neurochem",
+      "resumen": "Several studies indicate that 17β-estradiol (E2) protects against amyloid β-peptide (Aβ)-induced cell death and activates factors associated with learning and memory, a function involving the hippocampal somatostatinergic system. As alterations in somatostatin have been demonstrated in Alzheimer's disease, we examined whether E2 prevents changes in the hippocampal somatostatinergic system induced by Aβ25-35 and cell death, as well as the possible involvement of leptin and insulin-like growth factor (IGF)-I signaling. We also measured the levels of Aβ proteases neprilysin and insulin-degrading-enzyme. Co-administration of E2 with Aβ25-35 reduced both its levels and cell death, in addition to preventing the Aβ-induced depletion of some somatostatinergic parameters. Activation of leptin and IGF-I pathways increased after E2 co-administration, and this correlated with changes in the somatostatinergic system. Changes in some components of this system were inversely related with Aβ levels and cell death. Moreover, neprilysin levels were increased only in Aβ plus E2-treated rats and E2 prevented the Aβ-induced insulin-degrading-enzyme reduction. Our results suggest that the E2-induced reduction in cell death is related to lower Aβ levels, probably because of IGF-I and somatostatin modulation of Aβ proteases. We asked how 17β-estradiol (E2) protects against β-amyloid (Aβ)-induced cell death. E2 co-administration prevents Aβ-produced depletion of hippocampal somatostatin (SRIF) by an IGF-I-mediated mechanism, being related this protective effect with an increase in Aβ proteases. Our results suggest that the E2-induced reduction in cell death is related to lower Aβ levels, probably because of SRIF modulation of Aβ proteases. CREB, cAMP response element-binding protein; IGF-I, insulin-like growth factor-I; STAT3, signal transducer and activator of transcription-3."
+    },
+    {
+      "paper_name": "Effect of apolipoprotein E (APO E) polymorphism on leptin in Alzheimer's disease.",
+      "paper_year": "2015",
+      "paper_authors": "Agarwal R, Talwar P, Kushwaha SS, Tripathi CB, Kukreti R",
+      "journal": "Annals of Indian Academy of Neurology",
+      "publisher": "Ann Indian Acad Neurol",
+      "resumen": "Leptin, a 16 kDa peptide hormone synthesized and secreted specifically from white adipose cells protects neurons against amyloid β-induced toxicity, by increasing Apolipoprotein E (APO E)-dependent uptake of β amyloid into the cells, thereby, protect individuals from developing Alzheimer's disease (AD). The APO E ε4 allele is a known genetic risk factor for AD by accelerating onset. It is estimated that the lifetime risk of developing AD increases to 29% for carriers with one ε4 allele and 9% for those with no ε4 allele."
+    },
+    {
+      "paper_name": "Treatment of Alzheimer's Disease: The Legacy of the Cholinergic Hypothesis, Neuroplasticity, and Future Directions.",
+      "paper_year": "2015",
+      "paper_authors": "Ashford JW",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "publisher": "J Alzheimers Dis",
+      "resumen": "In this issue, an article by Waring et al. provides a meta-analysis of the effects of apo-lipo-protein E (APOE) genotype on the beneficial effect of acetyl-cholinesterase inhibitors (AChEIs) in patients with Alzheimer's disease (AD). There was no significant effect found. As of 2015, AChEI medications are the mainstay of AD treatment, and APOE genotype is the most significant factor associated with AD causation. This lack of a significant effect of APOE is analyzed with respect to the \"Cholinergic Hypothesis\" of AD, dating from 1976, through the recognition that cholinergic neurons are not the sole target of AD, but rather that AD attacks all levels of neuroplasticity in the brain, an idea originated by Ashford and Jarvik in 1985 and which still provides the clearest explanation for AD dementia. The \"Amyloid Hypothesis\" is dissected back to the alpha/beta pathway switching mechanism affecting the nexin-amyloid pre-protein (NAPP switch). The NAPP switch may be the critical neuroplasticity component of all learning involving synapse remodeling and subserve all learning mechanisms. The gamma-secretase cleavage is discussed, and its normal complementary products, beta-amyloid and the NAPP intracellular domain (NAICD), appear to be involved in natural synapse removal, but the link to AD dementia may involve the NAICD rather than beta-amyloid. Understanding neuroplasticity and the critical pathways to AD dementia are needed to determine therapies and preventive strategies for AD. In particular, the effect of APOE on AD predisposition needs to be established and a means found to adjust its effect to prevent AD."
+    },
+    {
+      "paper_name": "Obesity and Hepatic Steatosis Are Associated with Elevated Serum Amyloid Beta in Metabolically Stressed APPswe/PS1dE9 Mice.",
+      "paper_year": "2015",
+      "paper_authors": "Shie FS, Shiao YJ, Yeh CW, Lin CH, Tzeng TT, Hsu HC, Huang FL, Tsay HJ, Liu HK",
+      "journal": "PloS one",
+      "publisher": "PLoS One",
+      "resumen": "Diabesity-associated metabolic stresses modulate the development of Alzheimer's disease (AD). For further insights into the underlying mechanisms, we examine whether the genetic background of APPswe/PS1dE9 at the prodromal stage of AD affects peripheral metabolism in the context of diabesity. We characterized APPswe/PS1dE9 transgenic mice treated with a combination of high-fat diet with streptozotocin (HFSTZ) in the early stage of AD. HFSTZ-treated APPswe/PS1dE9 transgenic mice exhibited worse metabolic stresses related to diabesity, while serum β-amyloid levels were elevated and hepatic steatosis became apparent. Importantly, two-way analysis of variance shows a significant interaction between HFSTZ and genetic background of AD, indicating that APPswe/PS1dE9 transgenic mice are more vulnerable to HFSTZ treatment. In addition, body weight gain, high hepatic triglyceride, and hyperglycemia were positively associated with serum β-amyloid, as validated by Pearson's correlation analysis. Our data suggests that the interplay between genetic background of AD and HFSTZ-induced metabolic stresses contributes to the development of obesity and hepatic steatosis. Alleviating metabolic stresses including dysglycemia, obesity, and hepatic steatosis could be critical to prevent peripheral β-amyloid accumulation at the early stage of AD."
+    },
+    {
+      "paper_name": "Leptin attenuates the detrimental effects of β-amyloid on spatial memory and hippocampal later-phase long term potentiation in rats.",
+      "paper_year": "2015",
+      "paper_authors": "Tong JQ, Zhang J, Hao M, Yang J, Han YF, Liu XJ, Shi H, Wu MN, Liu QS, Qi JS",
+      "journal": "Hormones and behavior",
+      "publisher": "Horm Behav",
+      "resumen": "β-Amyloid (Aβ) is the main component of amyloid plaques developed in the brain of patients with Alzheimer's disease (AD). The increasing burden of Aβ in the cortex and hippocampus is closely correlated with memory loss and cognition deficits in AD. Recently, leptin, a 16kD peptide derived mainly from white adipocyte tissue, has been appreciated for its neuroprotective function, although less is known about the effects of leptin on spatial memory and synaptic plasticity. The present study investigated the neuroprotective effects of leptin against Aβ-induced deficits in spatial memory and in vivo hippocampal late-phase long-term potentiation (L-LTP) in rats. Y maze spontaneous alternation was used to assess short term working memory, and the Morris water maze task was used to assess long term reference memory. Hippocampal field potential recordings were performed to observe changes in L-LTP. We found that chronically intracerebroventricular injection of leptin (1μg) effectively alleviated Aβ1-42 (20μg)-induced spatial memory impairments of Y maze spontaneous alternation and Morris water maze. In addition, chronic administration of leptin also reversed Aβ1-42-induced suppression of in vivo hippocampal L-LTP in rats. Together, these results suggest that chronic leptin treatments reversed Aβ-induced deficits in learning and memory and the maintenance of L-LTP."
+    },
+    {
+      "paper_name": "Beta-amyloid plasma levels in adolescents with anorexia nervosa of the restrictive type.",
+      "paper_year": "2015",
+      "paper_authors": "Conti E, Nacinovich R, Bomba M, Raggi ME, Neri F, Ferrarese C, Tremolizzo L",
+      "journal": "Neuropsychobiology",
+      "publisher": "Neuropsychobiology",
+      "resumen": "Reduced plasma leptin and elevated homocysteine (Hcy) are known to lead to increased β-amyloid (Aβ) production, besides being hallmarks of anorexia nervosa (AN) of the restrictive type. AN subjects display several neuropsychiatric manifestations, which may entail Aβ-mediated altered synaptic functions. The aim of this study consisted in assessing Aβ plasma levels in AN patients."
+    },
+    {
+      "paper_name": "Adipokine pathways are altered in hippocampus of an experimental mouse model of Alzheimer's disease.",
+      "paper_year": "2015",
+      "paper_authors": "Pedrós I, Petrov D, Artiach G, Abad S, Ramon-Duaso C, Sureda F, Pallàs M, Beas-Zarate C, Folch J, Camins A",
+      "journal": "The journal of nutrition, health & aging..",
+      "publisher": "J Nutr Health Aging",
+      "resumen": "A growing body of evidence suggests that β-amyloid peptides (Aβ) are unlikely to be the only factor involved in Alzheimer's disease (AD) aetiology. In fact, a strong correlation has been established between AD patients and patients with type 2 diabetes and/or cholesterol metabolism alterations. In addition, a link between adipose tissue metabolism, leptin signalling in particular, and AD has also been demonstrated. In the present study we analyzed the expression of molecules related to metabolism, with the main focus on leptin and prolactin signalling pathways in an APPswe/PS1dE9 (APP/PS1) transgenic mice model, at 3 and 6 months of age, compared to wild-type controls. We have chosen to study 3 months-old APP/PS1 animals at an age when neither the cognitive deficits nor significant Aβ plaques in the brain are present, and to compare them to the 6 months-old mice, which exhibit elevated levels of Aβ in the hippocampus and memory loss. A significant reduction in both mRNA and protein levels of the prolactin receptor (PRL-R) was detected in the hippocampi of 3 months old APP/PS1 mice, with a decrease in the levels of the leptin receptor (OB-R) first becoming evident at 6 months of age. We proceeded to study the expression of the intracellular signalling molecules downstream of these receptors, including stat (1-5), sos1, kras and socs (1-3). Our data suggest a downregulation in some of these molecules such as stat-5b and socs (1-3), in 3 months-old APP/PS1 brains. Likewise, at the same age, we detected a significant reduction in mRNA levels of lrp1 and cyp46a1, both of which are involved in cholesterol homeostasis. Taken together, these results demonstrate a significative impairment in adipokine receptors signalling and cholesterol regulation pathways in the hippocampus of APP/PS1 mice at an early age, prior to the Aβ plaque formation."
+    },
+    {
+      "paper_name": "Serum leptin and age-related macular degeneration.",
+      "paper_year": "2015",
+      "paper_authors": "Seshasai S, Liao J, Toh QC, Cheng CY, Cheung GC, Sethi S, Wong TY, Sabanayagam C",
+      "journal": "Investigative ophthalmology & visual science",
+      "publisher": "Invest Ophthalmol Vis Sci",
+      "resumen": "Leptin, a 167-amino acid protein secreted by adipocytes, has been shown to reduce beta-amyloid deposition and intracellular lipid concentration in animal models, two key pathogenic mechanisms underlying aging. We examined the association between serum leptin levels and AMD."
+    },
+    {
+      "paper_name": "Is Alzheimer's disease related to metabolic syndrome? A Wnt signaling conundrum.",
+      "paper_year": "2014",
+      "paper_authors": "Ríos JA, Cisternas P, Arrese M, Barja S, Inestrosa NC",
+      "journal": "Progress in neurobiology",
+      "publisher": "Prog Neurobiol",
+      "resumen": "Alzheimer's disease (AD) is the most common cause of dementia, affecting more than 36 million people worldwide. AD is characterized by a progressive loss of cognitive functions. For years, it has been thought that age is the main risk factor for AD. Recent studies suggest that life style factors, including nutritional behaviors, play a critical role in the onset of dementia. Evidence about the relationship between nutritional behavior and AD includes the role of conditions such as obesity, hypertension, dyslipidemia and elevated glucose levels. The coexistence of some of these cardio-metabolic risk factors is generally known as metabolic syndrome (MS). Some clinical studies support the role of MS in the onset of AD. However, the cross-talk between the molecular signaling implicated in these disorders is unknown. In the present review, we focus on the molecular correlates that support the relationship between MS and the onset of AD. We also discuss relevant issues such as the role of leptin, insulin and renin-angiotensin signaling in the brain and the possible role of Wnt signaling in both MS and AD. We discuss the evidence supporting the use of ob/ob mice, high-fructose diets, aortic coarctation-induced hypertension and Octodon degus, which spontaneously develops β-amyloid deposits and metabolic derangements, as suitable animal models to address the relationships between MS and AD. Finally, we examine emergent data supporting the role of Wnt signaling in the modulation of AD and MS, implicating this pathway as a therapeutic target in both conditions."
+    },
+    {
+      "paper_name": "Obesity and diabetes cause cognitive dysfunction in the absence of accelerated β-amyloid deposition in a novel murine model of mixed or vascular dementia.",
+      "paper_year": "2014",
+      "paper_authors": "Niedowicz DM, Reeves VL, Platt TL, Kohler K, Beckett TL, Powell DK, Lee TL, Sexton TR, Song ES, Brewer LD, Latimer CS, Kraner SD, Larson KL, Ozcan S, Norris CM, Hersh LB, Porter NM, Wilcock DM, Murphy MP",
+      "journal": "Acta neuropathologica communications",
+      "publisher": "Acta Neuropathol Commun",
+      "resumen": "Mid-life obesity and type 2 diabetes mellitus (T2DM) confer a modest, increased risk for Alzheimer's disease (AD), though the underlying mechanisms are unknown. We have created a novel mouse model that recapitulates features of T2DM and AD by crossing morbidly obese and diabetic db/db mice with APPΔNL/ΔNLx PS1P264L/P264L knock-in mice. These mice (db/AD) retain many features of the parental lines (e.g. extreme obesity, diabetes, and parenchymal deposition of β-amyloid (Aβ)). The combination of the two diseases led to additional pathologies-perhaps most striking of which was the presence of severe cerebrovascular pathology, including aneurysms and small strokes. Cortical Aβ deposition was not significantly increased in the diabetic mice, though overall expression of presenilin was elevated. Surprisingly, Aβ was not deposited in the vasculature or removed to the plasma, and there was no stimulation of activity or expression of major Aβ-clearing enzymes (neprilysin, insulin degrading enzyme, or endothelin-converting enzyme). The db/AD mice displayed marked cognitive impairment in the Morris Water Maze, compared to either db/db or APPΔNLx PS1P264L mice. We conclude that the diabetes and/or obesity in these mice leads to a destabilization of the vasculature, leading to strokes and that this, in turn, leads to a profound cognitive impairment and that this is unlikely to be directly dependent on Aβ deposition. This model of mixed or vascular dementia provides an exciting new avenue of research into the mechanisms underlying the obesity-related risk for age-related dementia, and will provide a useful tool for the future development of therapeutics."
+    },
+    {
+      "paper_name": "Identification of microRNAs involved in Alzheimer's progression using a rabbit model of the disease.",
+      "paper_year": "2014",
+      "paper_authors": "Liu QY, Chang MN, Lei JX, Koukiekolo R, Smith B, Zhang D, Ghribi O",
+      "journal": "American journal of neurodegenerative disease",
+      "publisher": "Am J Neurodegener Dis",
+      "resumen": "Alzheimer's disease (AD) is the most common neurodegenerative disorder characterized by the presence of extracellular plaques of β-amyloid peptides and intracellular tangles of hyperphosphorylated tau proteins in the brain. The vast majority of cases are late onset AD (LOAD), which are genetically heterogeneous and occur sporadically. High blood cholesterol is suggested to be a risk factor for this disease. Several neuropathological changes of LOAD can be reproduced by supplementing a rabbit's diet with 2% cholesterol for 12 weeks. Accumulating data in the literature suggest that microRNAs (miRNA) participate in the development of AD pathology. The present study focuses on the survey of changes of miRNA expression in rabbit brains during the progression of AD-like pathology using microarray followed by Taq-Man qRT-PCR analyses. Out of 1769 miRNA probes used in the experiments, 99 miRNAs were found to be present in rabbit brain, 57 were newly identified as miRNAs from rabbit brain. Eleven miRNAs showed significant changes over AD-like pathology progression. Among them, the changes of miR-125b, miR-98, miR-107, miR-30, along with 3 members of the let-7 family were similar to those observed in human AD samples, whereas the expression patterns of miR-15a, miR-26b, miR-9 and miR-576-3p were unique to this rabbit LOAD model. The significant up regulation of miR-26b is consistent with the decrease of leptin levels in the brains of cholesterol fed rabbit model for AD, confirming that miR-26b is indeed regulated by leptin and that both leptin and miR-26b may be involved in cholesterol induced AD-like pathology."
+    },
+    {
+      "paper_name": "Obesity as a risk factor for Alzheimer's disease: the role of adipocytokines.",
+      "paper_year": "2014",
+      "paper_authors": "Letra L, Santana I, Seiça R",
+      "journal": "Metabolic brain disease",
+      "publisher": "Metab Brain Dis",
+      "resumen": "Alzheimer's disease is the leading cause of dementia and the most prevalent neurodegenerative disease. It is an aging-related multi-factorial disorder and growing evidence support the contribution of metabolic factors to what was formerly thought to be a centrally mediated process. Obesity has already been recognized as an important player in the pathogenesis of this type of dementia, independently of insulin resistance or other vascular risk factors. Although the exact underlying mechanisms are still unknown, adipocyte dysfunction and concomitant alteration in adipocyte-derived protein secretion seem to be involved, since these adipocytokines can cross the blood-brain barrier and influence cognitive-related structures. Very few studies have assessed the role of adipocytokines dysfunction on cognitive impaired patients and yielded contradictory results. Interestingly, extensive research on the central effects of leptin in Alzheimer's disease-transgenic mice has demonstrated its capacity to enhance synaptic plasticity and strength, as well as to prevent beta-amyloid deposition and tau phosphorylation. In addition, adiponectin, the most abundant adipocytokine whose levels are inversely correlated to adiposity, has shown to be neuroprotective to hippocampal cells. Many other adipose-derived cytokines have mainly pro-inflammatory properties, being able to trigger and/or enhance central inflammatory cascades and also to influence the secretion of other adipocytokines involved in cognition. This paper pretends to review the existing evidence on the contribution of adipocytokines dysfunction to the increased risk of dementia associated with mid-life obesity, unraveling its insulin-independent effects on cognition."
+    },
+    {
+      "paper_name": "Molecular linkages between diabetes and Alzheimer's disease: current scenario and future prospects.",
+      "paper_year": "2014",
+      "paper_authors": "Dar TA, Sheikh IA, Ganie SA, Ali R, Singh LR, Gan SH, Kamal MA, Zargar MA",
+      "journal": "CNS & neurological disorders drug targets",
+      "publisher": "CNS Neurol Disord Drug Targets",
+      "resumen": "After the revolutionary Rotterdam study that suggested there was an increased risk of developing Alzheimer's disease (AD) in patients with type-2 diabetes mellitus (T2DM), a number of studies have provided direct evidence for the linkage between AD and T2DM. In recent years, AD is considered as a neuroendocrine disorder, also referred as type-3 diabetes. There is a growing list of evidence to suggest that, in addition to impaired insulin signaling, there are a number of additional factors that may act as mechanistic links between AD and T2DM. These factors mainly include hypercholesterolemia, dyslipidemia, hypercystinemia, inflammation, impaired insulin signaling and impaired central nervous response to the adipose tissue-derived hormone leptin. Increased cholesterol plays a crucial role in the abnormal metabolism of the amyloid precursor protein, leading to the accumulation of β-amyloid. In addition to impaired insulin signaling, diabetes has been found to accelerate the appearance of cerebrovascular inflammation and β-amyloid peptide (Aβ) deposition. Increased oxidative stress and production of advanced glycation end products are other probable marker linkages. However, the details of many of these molecular links still require extensive investigation. It is possible that a number of common molecular linkages exist between T2DM and AD. Understanding and analyzing the various molecular linkages between AD and T2DM may shed light on new tools that can be used for the early diagnosis and treatment of AD and also accelerate the identification of T2DM patients who are at high risk of AD."
+    },
+    {
+      "paper_name": "Leptin regulates amyloid β production via the γ-secretase complex.",
+      "paper_year": "2013",
+      "paper_authors": "Niedowicz DM, Studzinski CM, Weidner AM, Platt TL, Kingry KN, Beckett TL, Bruce-Keller AJ, Keller JN, Murphy MP",
+      "journal": "Biochimica et biophysica acta",
+      "publisher": "Biochim Biophys Acta",
+      "resumen": "Alzheimer's disease (AD) is the most common age-related neurodegenerative disease, affecting an estimated 5.3million people in the United States. While many factors likely contribute to AD progression, it is widely accepted that AD is driven by the accumulation of β-amyloid (Aβ), a small, fibrillogenic peptide generated by the sequential proteolysis of the amyloid precursor protein by the β- and γ-secretases. Though the underlying causes of Aβ accumulation in sporadic AD are myriad, it is clear that lifestyle and overall health play a significant role. The adipocyte-derived hormone leptin has varied systemic affects, including neuropeptide release and neuroprotection. A recent study by Lieb et al. (2009) showed that individuals with low plasma leptin levels are at greater risk of developing AD, through unknown mechanisms. In this report, we show that plasma leptin is a strong negative predictor of Aβ levels in the mouse brain, supporting a protective role for the hormone in AD onset. We also show that the inhibition of Aβ accumulation is due to the downregulation of transcription of the γ-secretase components. On the other hand, β-secretase expression is either unchanged (BACE1) or increased (BACE2). Finally, we show that only presenilin 1 (PS1) is negatively correlated with plasma leptin at the protein level (p<0.0001). These data are intriguing and may highlight a role for leptin in regulating the onset of amyloid pathology and AD."
+    },
+    {
+      "paper_name": "Metformin attenuates Alzheimer's disease-like neuropathology in obese, leptin-resistant mice.",
+      "paper_year": "2012",
+      "paper_authors": "Li J, Deng J, Sheng W, Zuo Z",
+      "journal": "Pharmacology, biochemistry, and behavior",
+      "publisher": "Pharmacol Biochem Behav",
+      "resumen": "Diabetes increases the risk of Alzheimer's disease (AD). The pathological hallmarks for AD brains are extracellular amyloid plaques formed by β-amyloid peptide (Aβ) and intracellular neurofibrillary tangles consisting of hyperphosphorylated tau protein. This study was designed to determine AD-like brain changes in mice modeling for type 2 diabetes. The effects of metformin on these changes also were studied. Seven-week old male db/db mice received intraperitoneal injection of 200 mg kg⁻¹ d⁻¹ metformin for 18 weeks. They were subjected to Barnes maze at an age of 21 weeks and fear conditioning at an age of 24 weeks to assess their cognitive functions. Hippocampus was harvested after these tests for biochemical evaluation. The db/db mice had more tau phosphorylated at S396 and total tau in their hippocampi than their non-diabetic control db+mice. Activated/phosphorylated c-jun N-terminal kinase (JNK), a tau kinase, was increased in the db/db mouse hippocampus. Metformin attenuated the increase of total tau, phospho-tau and activated JNK. The db/db mice had increased Aβ levels. Metformin attenuated the reduction of synaptophysin, a synaptic protein, in the db/db mouse hippocampus. Metformin did not attenuate the impairments of spatial learning and memory as well as long-term hyperglycemia in the db/db mice. Our results suggest that the db/db mice have multiple AD-like brain changes including impaired cognitive functions, increased phospho-tau and Aβ as well as decreased synaptic proteins. Activation of JNK may contribute to the increased phospho-tau in the db/db mice. Metformin attenuates AD-like biochemical changes in the brain of these mice."
+    },
+    {
+      "paper_name": "Effects of energy restriction and wheel running on mammary carcinogenesis and host systemic factors in a rat model.",
+      "paper_year": "2012",
+      "paper_authors": "Zhu Z, Jiang W, Zacher JH, Neil ES, McGinley JN, Thompson HJ",
+      "journal": "Cancer prevention research (Philadelphia, Pa.)",
+      "publisher": "Cancer Prev Res (Phila)",
+      "resumen": "Limiting energy availability via diet or physical activity has health benefits; however, it is not known whether these interventions have similar effects on the development of cancer. Two questions were addressed as follows: (i) Does limiting energy availability by increasing physical activity have the same effect on mammary carcinogenesis as limiting caloric intake? and (ii) Are host systemic factors, implicated as risk biomarkers for breast cancer, similarly affected by these interventions? Female Sprague Dawley rats were injected with 50-mg 1-methyl-1-nitrosourea per kg body weight at 21 days of age and randomized to one of five groups (30 rats per group) as follows: (i) sham running wheel control; (ii) restricted fed to 85% of the sham control; (iii and iv) voluntary running in a motorized activity wheel (37 m/min) to a maximum of 3,500 m/d or 1,750 m/d; and (v) sedentary ad libitum fed control with no access to a running wheel. The three energetics interventions inhibited the carcinogenic response, reducing cancer incidence (P = 0.01), cancer multiplicity (P < 0.001), and cancer burden (P < 0.001) whereas prolonging cancer latency (P = 0.004) although differences among energetics interventions were not significant. Of the plasma biomarkers associated with the development of cancer, the energetics interventions reduced bioavailable insulin-like growth factor-1 (IGF-1), insulin, interleukin-6, serum amyloid protein, TNF-α, and leptin and increased IGF-binding protein 3 (IGFBP-3) and adiponectin. Plasma-fasting glucose, C-reactive protein, estradiol, and progesterone were unaffected. The plasma biomarkers of greatest value in predicting the carcinogenic response were adiponectin > IGF-1/IGFBP-3 > IGFBP-3 > leptin > IGF-1."
+    },
+    {
+      "paper_name": "Leptin boosts cellular metabolism by activating AMPK and the sirtuins to reduce tau phosphorylation and β-amyloid in neurons.",
+      "paper_year": "2011",
+      "paper_authors": "Greco SJ, Hamzelou A, Johnston JM, Smith MA, Ashford JW, Tezapsidis N",
+      "journal": "Biochemical and biophysical research communications",
+      "publisher": "Biochem Biophys Res Commun",
+      "resumen": "Leptin is a pleiotropic hormone primarily secreted by adipocytes. A high density of functional Leptin receptors has been reported to be expressed in the hippocampus and other cortical regions of the brain, the physiological significance of which has not been explored extensively. Alzheimer's disease (AD) is marked by impaired brain metabolism with decreased glucose utilization in those regions which often precede pathological changes. Recent epidemiological studies suggest that plasma Leptin is protective against AD. Specifically, elderly with plasma Leptin levels in the lowest quartile were found to be four times more likely to develop AD than those in the highest quartile. We have previously reported that Leptin modulates AD pathological pathways in vitro through a mechanism involving the energy sensor, AMP-activated protein kinase (AMPK). To this end, we investigated the extent to which activation of AMPK as well as another class of sensors linking energy availability to cellular metabolism, the sirtuins (SIRT), mediate Leptin's biological activity. Leptin directly activated neuronal AMPK and SIRT in cell lines. Additionally, the ability of Leptin to reduce tau phosphorylation and β-amyloid production was sensitive to the AMPK and sirtuin inhibitors, compound C and nicotinamide, respectively. These findings implicate that Leptin normally acts as a signal for energy homeostasis in neurons. Perhaps Leptin deficiency in AD contributes to a neuronal imbalance in handling energy requirements, leading to higher Aβ and phospho-tau, which can be restored by replenishing low Leptin levels. This may also be a legitimate strategy for therapy."
+    },
+    {
+      "paper_name": "Molecular interplay between leptin, insulin-like growth factor-1, and β-amyloid in organotypic slices from rabbit hippocampus.",
+      "paper_year": "2011",
+      "paper_authors": "Marwarha G, Prasanthi JR, Schommer J, Dasari B, Ghribi O",
+      "journal": "Molecular neurodegeneration",
+      "publisher": "Mol Neurodegener",
+      "resumen": "Evidence shows that the insulin-like growth factor-1 (IGF-1) and leptin reduce β-amyloid (Aβ) production and tau phosphorylation, two major hallmarks of Alzheimer's disease (AD). IGF-1 expression involves the JAK/STAT pathway and the expression of leptin is regulated by the mammalian target of rapamycin complex 1 (mTORC1). We have previously shown that Aβ reduces leptin by inhibiting the mTORC1 pathway and Aβ was also suggested to inhibit the JAK/STAT pathway, potentially attenuating IGF-1 expression. As IGF-1 can activate mTORC1 and leptin can modulate JAK/STAT pathway, we determined the extent to which IGF-1 and leptin can upregulate the expression of one another and protect against Aβ-induced downregulation."
+    },
+    {
+      "paper_name": "The procognitive effects of leptin in the brain and their clinical implications.",
+      "paper_year": "2010",
+      "paper_authors": "Paz-Filho G, Wong ML, Licinio J",
+      "journal": "International journal of clinical practice",
+      "publisher": "Int J Clin Pract",
+      "resumen": "Leptin is a pleiotropic hormone produced mainly by the adipose tissue. Its most well-known effect is to regulate food intake and energy metabolism within the hypothalamus. More recently, several peripheral and extra-hypothalamic effects have been described, expanding leptin's actions far beyond energy balance."
+    },
+    {
+      "paper_name": "β-Amyloid regulates leptin expression and tau phosphorylation through the mTORC1 signaling pathway.",
+      "paper_year": "2010",
+      "paper_authors": "Marwarha G, Dasari B, Prabhakara JP, Schommer J, Ghribi O",
+      "journal": "Journal of neurochemistry",
+      "publisher": "J Neurochem",
+      "resumen": "High levels of the adipocytokine leptin are associated with reduced risk of Alzheimer's disease. Leptin treatment also reduces β-amyloid (Aβ) levels in in vivo and in vitro models of Alzheimer's disease. Aβ and leptin interact with the Akt/mammalian target of rapamycin complex 1 (mTORC1) signaling pathway. Akt/mTORC1 activation reduces tau phosphorylation through the inhibition of the downstream enzyme GSK-3β. mTORC1 also regulates translation of many proteins including leptin. While Aβ has been shown to inactivate Akt, inhibit mTORC1, and facilitate the phosphorylation of tau, leptin activates both Akt and mTORC1 and reduces tau phosphorylation. However, the extent to which Aβ may modulate leptin expression and increase tau phosphorylation involving Akt/mTORC1 has not been determined. In this study, we show that incubation of organotypic slices from rabbit hippocampus with Aβ down-regulates leptin expression, inhibits Akt, activates GSK-3β, increases tau phosphorylation, and inactivates mTORC1. Leptin treatment reverses Aβ effects by alleviating Akt inhibition, preventing GSK-3β activation, reducing tau phosphorylation, and activating mTORC1. On the other hand, Rapamycin, an allosteric inhibitor of mTORC1, down-regulates leptin expression, increases tau phosphorylation, and does not affect Akt and GSK-3β. Our results demonstrate for the first time that Aβ regulates leptin expression and tau phosphorylation through mTORC1."
+    },
+    {
+      "paper_name": "Lack of association between the leptin receptor gene (LEPR) Gln223Arg polymorphism and late-onset Alzheimer disease.",
+      "paper_year": "2010",
+      "paper_authors": "Utsunomiya K, Shinkai T, Sakata S, Hwang R, Yamada K, Chen HI, Fukunaka Y, Ohmori O, Nakamura J",
+      "journal": "Alzheimer disease and associated disorders",
+      "publisher": "Alzheimer Dis Assoc Disord",
+      "resumen": "The principal hypothesis for pathogenesis of Alzheimer disease (AD) is the amyloid cascade hypothesis, which emphasizes an imbalance between production and clearance of beta-amyloid (Abeta) in the brain. Insulin has important effects on the regulation of the Abeta level in the brain, modulating both Abeta production and clearance. An optimal brain insulin level promotes Abeta clearance, which may play protective roles against AD. A functional human leptin receptor gene (LEPR) polymorphism, a glutamine to an arginine substitution at codon 223 (Gln223Arg), has been associated with insulin resistance capacity and an altered leptin-binding activity. The LEPR Gln223Arg polymorphism may thus play an important role in the pathogenesis of AD. In this study, we examined the association between the LEPR Gln223Arg polymorphism and late-onset Alzheimer disease (LOAD) in a Japanese population. Our sample includes 49 patients with LOAD and 134 normal controls. Our preliminary data showed no significant association between the LEPR Gln223Arg polymorphism and LOAD (genotype distribution: chi=0.11, df=2, P=0.945; allele frequency: chi=0.058, df=1, P=0.81, odds ratio=1.08, 95% confidence interval=0.59 to 2.03). Our results suggest that the LEPR polymorphism may not play a major role in the development of LOAD."
+    },
+    {
+      "paper_name": "Association of plasma leptin levels with incident Alzheimer disease and MRI measures of brain aging.",
+      "paper_year": "2009",
+      "paper_authors": "Lieb W, Beiser AS, Vasan RS, Tan ZS, Au R, Harris TB, Roubenoff R, Auerbach S, DeCarli C, Wolf PA, Seshadri S",
+      "journal": "JAMA",
+      "publisher": "JAMA",
+      "resumen": "The adipokine leptin facilitates long-term potentiation and synaptic plasticity in the hippocampus, promotes beta-amyloid clearance, and improves memory function in animal models of aging and Alzheimer disease (AD)."
+    },
+    {
+      "paper_name": "The role of insulin receptor signaling in the brain.",
+      "paper_year": "2005",
+      "paper_authors": "Plum L, Schubert M, Brüning JC",
+      "journal": "Trends in endocrinology and metabolism: TEM",
+      "publisher": "Trends Endocrinol Metab",
+      "resumen": "The insulin receptor (IR) is expressed in various regions of the developing and adult brain, and its functions have become the focus of recent research. Insulin enters the central nervous system (CNS) through the blood-brain barrier by receptor-mediated transport to regulate food intake, sympathetic activity and peripheral insulin action through the inhibition of hepatic gluconeogenesis and reproductive endocrinology. On a molecular level, some of the effects of insulin converge with those of the leptin signaling machinery at the point of activation of phosphatidylinositol 3-kinase (PI3K), resulting in the regulation of ATP-dependent potassium channels. Furthermore, insulin inhibits neuronal apoptosis via activation of protein kinase B in vitro, and it regulates phosphorylation of tau, metabolism of the amyloid precursor protein and clearance of beta-amyloid from the brain in vivo. These findings indicate that neuronal IR signaling has a direct role in the link between energy homeostasis, reproduction and the development of neurodegenerative diseases."
+    },
+    {
+      "paper_name": "Dietary fat up-regulates the apolipoprotein E mRNA level in the Zucker lean rat brain.",
+      "paper_year": "2001",
+      "paper_authors": "Knight DS, Mahajan DK, Qiao X",
+      "journal": "Neuroreport",
+      "publisher": "Neuroreport",
+      "resumen": "High-fat diet alters apo E-dependent processing of beta-amyloid precursor protein. Here we have evaluated the effects of dietary fat on brain apo E mRNA in Zucker lean and obese rats. After approximately 2 months on a high-fat diet, there was significant up-regulation of brain apo E mRNA in the Zucker lean rat in parallel with weight gain. Densitometric quantification revealed a 17% increase in apo E mRNA in the brains of lean rats fed high-fat diet compared with those of lean rats fed rat chow. No significant difference in brain apo E mRNA of Zucker obese rats fed different diets was found. These results suggest that dietary fat alters brain apo E levels, which may be regulated, in part, through the leptin receptor."
+    }
+  ]
+}
