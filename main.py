@@ -11,17 +11,20 @@ def proceso_completo(query,
                      study_type="No especificado",
                      primary_topic_area="No especificado",
                      exclusion_criteria="No especificado",
-                     max_papers=None):
+                     max_papers=None,
+                     sort_by="relevance"):
     """
     Ejecuta el proceso completo: extracción + conversión
     
     Args:
         max_papers (int, optional): Límite máximo de papers a procesar. Si es None, no hay límite.
+        sort_by (str): Criterio de ordenamiento: "relevance", "date", "title", "author"
     """
     # Extracción
     resultados = buscar_pubmed(
         termino_busqueda=query,
-        max_papers=max_papers
+        max_papers=max_papers,
+        sort_by=sort_by
     )
     
     if resultados and resultados.get('papers_procesados', 0) > 0:
@@ -72,6 +75,9 @@ if __name__ == "__main__":
     
     # Límite de papers (opcional)
     max_papers = None  # Si quieres limitar, pon un número como: max_papers = 50
+    
+    # Ordenamiento (opcional)
+    sort_by = "relevance"  # Opciones: "relevance", "date", "title", "author"
 
     # Ejecutar proceso completo
     json_file, excel_file = proceso_completo(
@@ -81,5 +87,6 @@ if __name__ == "__main__":
         study_type=study_type,
         primary_topic_area=primary_topic_area,
         exclusion_criteria=exclusion_criteria,
-        max_papers=max_papers
+        max_papers=max_papers,
+        sort_by=sort_by
     )

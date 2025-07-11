@@ -10,13 +10,15 @@ load_dotenv()
 Entrez.email = os.getenv("NCBI_EMAIL")
 Entrez.api_key = os.getenv("NCBI_API_KEY")
 
-def buscar_pubmed(termino_busqueda, max_papers=None):
+def buscar_pubmed(termino_busqueda, max_papers=None, sort_by="relevance"):
     if max_papers:
         print(f"🔍 Buscando: {termino_busqueda}")
         print(f"📊 Límite de papers: {max_papers}")
+        print(f"📈 Ordenamiento: {sort_by}")
     else:
         print(f"🔍 Buscando: {termino_busqueda}")
         print(f"📊 Obteniendo TODOS los resultados disponibles")
+        print(f"📈 Ordenamiento: {sort_by}")
     
     # Información de la búsqueda
     search_info = {
@@ -28,10 +30,21 @@ def buscar_pubmed(termino_busqueda, max_papers=None):
     # Determinar el número máximo de resultados a obtener
     retmax_value = max_papers if max_papers else 100000
     
+    # Configurar el ordenamiento
+    sort_param = "relevance"  # Por defecto PubMed usa relevancia (best match)
+    if sort_by == "date":
+        sort_param = "pub_date"
+    elif sort_by == "title":
+        sort_param = "title"
+    elif sort_by == "author":
+        sort_param = "author"
+    # Para "relevance" o "best_match" usamos el default de PubMed
+    
     handle = Entrez.esearch(
         db="pubmed",
         term=termino_busqueda,
-        retmax=retmax_value
+        retmax=retmax_value,
+        sort=sort_param
     )
     record = Entrez.read(handle)
     

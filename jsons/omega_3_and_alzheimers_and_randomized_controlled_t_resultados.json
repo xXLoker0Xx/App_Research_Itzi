@@ -1,7 +1,7 @@
 {
   "search_info": {
     "search_engine": "PubMed",
-    "date": "2025-07-09",
+    "date": "2025-07-11",
     "search_terms": "Omega 3 AND Alzheimer´s AND \"Randomized Controlled Trial\"[pt]",
     "hits": 88
   },
@@ -10,94 +10,6 @@
   "papers_con_errores": 0,
   "termino_busqueda": "Omega 3 AND Alzheimer´s AND \"Randomized Controlled Trial\"[pt]",
   "resultados": [
-    {
-      "paper_name": "Association between inflammatory biomarkers and the cognitive response to a multidomain intervention: secondary longitudinal analyses from the MAPT study.",
-      "paper_year": "2025",
-      "paper_authors": "Gonzalez-Bautista E, Soto M, Abellan van Kan G, Delrieu J",
-      "journal": "GeroScience",
-      "publisher": "Geroscience",
-      "resumen": "The aim of this study is to evaluate the association of systemic inflammation measured by plasma biomarkers with the change in cognitive function among participants from the Multidomain Alzheimer Preventive Trial (MAPT) exposed to the multidomain intervention (MI). Secondary analysis of the MAPT longitudinal data. MAPT is a randomized, placebo-controlled trial with 3 interventional groups (omega-3 only, MI only, omega-3 plus MI) and a control group. We tested the association of the change in cognitive function with inflammatory biomarkers (tumoral necrosis factor receptor-1 (TNFR1), monocyte chemoattractant protein-1 (MCP1), Growth Differentiation Factor-15 (GDF15), Interleukin-6 (IL6) and C reactive protein (CRP)) using mixed-effects models. A subgroup analysis was performed in those exposed to the MI. The response to the MI was defined as the change in the composite cognitive score over the 2-year clinical follow-up period. by modeling the response to the intervention and identifying \"good responders\", i.e., those in the 5th quintile of response at the end of the intervention period (2 years after the measurement of inflammatory markers). We included 1,527 participants (mean age 75.3, SD = 4.4; 64% female). Higher levels of GDF15 and TNFR1 were associated with a worse trajectory in the cognitive composite score in adjusted models. \"Good responders\" had an estimated mean change in the composite score of 0.051 (SD 0.062) over two years of intervention, compared to -0.136 (SD = 0.111) for the \"not-good responders\". Higher IL6 levels were associated with a decreased likelihood of being a \"good responder\" (OR = 0.22, p = 0.018, 95% CI 0.06; 0.78), with similar results for CRP (OR = 0.48, p = 0.009, 95% CI 0.28; 0.84). Higher inflammation was associated with a worse cognitive trajectory among nondemented participants and a lower likelihood of being classified as a \"good responder\" in those receiving a MI. Further confirmation of these findings could lead to the use of systemic inflammation as inclusion or stratification criteria in prevention trials."
-    },
-    {
-      "paper_name": "ω-3 PUFA for Secondary Prevention of White Matter Lesions and Neuronal Integrity Breakdown in Older Adults: A Randomized Clinical Trial.",
-      "paper_year": "2024",
-      "paper_authors": "Shinto LH, Murchison CF, Silbert LC, Dodge HH, Lahna D, Rooney W, Kaye J, Quinn JF, Bowman GL",
-      "journal": "JAMA network open",
-      "publisher": "JAMA Netw Open",
-      "resumen": "Older adults with lower intake and tissue levels of long-chain ω-3 polyunsaturated fatty acids (PUFAs) eicosapentaenoic acid (EPA; 20:5) and docosahexaenoic acid (DHA; 22:6) have more brain white matter lesions (WMLs), an association suggesting that small-vessel ischemic disease, a major contributor to the development of dementia, including Alzheimer disease, may be preventable through ω-3 treatment."
-    },
-    {
-      "paper_name": "Baseline Findings of PreventE4: A Double-Blind Placebo Controlled Clinical Trial Testing High Dose DHA in APOE4 Carriers before the Onset of Dementia.",
-      "paper_year": "2023",
-      "paper_authors": "Yassine HN, Arellanes IC, Mazmanian A, De La Cruz L, Martinez J, Contreras L, Kono N, Liu BS, Badie D, Bantugan MA, Grindon A, Urich T, D'Orazio L, Emmanuel BA, Chui HC, Mack WJ, Harrington MG, Braskie MN, Schneider LS",
-      "journal": "The journal of prevention of Alzheimer's disease..",
-      "publisher": "J Prev Alzheimers Dis",
-      "resumen": "Lower blood levels of the omega-3 polyunsaturated fatty acid docosahexaenoic acid (DHA) are correlated with worse cognitive functions, particularly among APOE ε4 carriers. Whether DHA supplementation in APOE ε4 carriers with limited DHA consumption and dementia risk factors can delay or slow down disease progression when started before the onset of clinical dementia is not known."
-    },
-    {
-      "paper_name": "Cognitive impact of multidomain intervention and omega 3 according to blood Aβ42/40 ratio: a subgroup analysis from the randomized MAPT trial.",
-      "paper_year": "2023",
-      "paper_authors": "Delrieu J, Vellas B, Guyonnet S, Cantet C, Ovod V, Li Y, Bollinger J, Bateman R, Andrieu S",
-      "journal": "Alzheimer's research & therapy",
-      "publisher": "Alzheimers Res Ther",
-      "resumen": "In MAPT (Multidomain Alzheimer Preventive Trial), a cognitive effect of multidomain intervention (MI) was showed in non-demented subjects with positive amyloid PET. However, screening eligible patients for multidomain intervention by PET is difficult to generalize in real-world settings."
-    },
-    {
-      "paper_name": "Supplementation with Flaxseed Oil Rich in Alpha-Linolenic Acid Improves Verbal Fluency in Healthy Older Adults.",
-      "paper_year": "2023",
-      "paper_authors": "Ogawa T, Sawane K, Ookoshi K, Kawashima R",
-      "journal": "Nutrients",
-      "publisher": "Nutrients",
-      "resumen": "The effects of docosahexaenoic acid supplements on cognitive function have long been demonstrated, but the effects of alpha-linolenic acid, a precursor of docosahexaenoic acid, have not been fully tested. The search for functional foods that delay cognitive decline in the older adults is considered a very important area from a preventive perspective. The aim of this study was to conduct an exploratory evaluation of alpha-linolenic acid on various cognitive functions in healthy older subjects. Sixty healthy older adults aged 65 to 80 years, living in Miyagi prefecture, without cognitive impairment or depression, were included in the randomized, double-blinded, placebo-controlled clinical trial. Study subjects were randomly divided into two groups and received either 3.7 g/day of flaxseed oil containing 2.2 g of alpha-linolenic acid, or an isocaloric placebo (corn oil) containing 0.04 g of alpha-linolenic acid for 12 weeks. The primary endpoints were six cognitive functions closely related to everyday life: attention and concentration, executive function, perceptual reasoning, working memory, processing speed and memory function. After 12 weeks of intake, changes in verbal fluency scores on the frontal assessment battery at bedside, a neuropsychological test assessing executive function, in which participants are asked to answer as many words as possible in Japanese, were significantly greater in the intervention group (0.30 ± 0.53) than in the control group (0.03 ± 0.49, <i>p</i> < 0.05). All other cognitive test scores were not significantly different between the groups. In conclusion, daily consumption of flaxseed oil containing 2.2 g alpha-linolenic acid improved cognitive function, specifically verbal fluency, despite the age-related decline, in healthy individuals with no cognitive abnormalities. Further validation studies focusing on the effects of alpha-linolenic acid on verbal fluency and executive function in older adults are needed, as verbal fluency is a predictor of Alzheimer's disease development, important for cognitive health."
-    },
-    {
-      "paper_name": "Dietary fish oil increases catalase activity in patients with probable Alzheimer's disease.",
-      "paper_year": "2022",
-      "paper_authors": "Torres-Mendoza BMG, Ortiz GG, Sánchez-Romero L, Delgado-Lara DLC, García Martínez MT, Mireles-Ramírez MA, Cruz Serrano JA, Pacheco Moisés FP",
-      "journal": "Nutricion hospitalaria",
-      "publisher": "Nutr Hosp",
-      "resumen": "Background: Alzheimer's disease (AD) is a neurodegenerative disorder characterized by the presence of neuritic plaques and neurofibrillary tangles that finally result in synaptic and neuronal loss. Oxidative stress accompanies pathological changes in AD. Objective: to assess the efficacy of dietary omega 3 polyunsaturated fatty acids supplementation on the levels of proteins oxidation, hydroperoxides and enzymatic activities of catalase and superoxide dismutase in AD patients. Methods: clinical, controlled, randomized, double-blind trial. Patients consumed fish oil or placebo for one year. Oxidative stress markers were assessed in plasma using spectrophotometric methods. Results: carbonyl groups in proteins and hydroperoxides in plasma have similar values in both treatment groups at the beginning of the study. At six and 12 months of treatment, these values decreased significantly in the fish oil group, while in the placebo group no changes were observed in both oxidative stress markers. Catalase activity increased significantly at six and twelve months after treatment in patients treated with fish oil. While the superoxide dismutase activity was not modified in both study groups. Conclusions: patients who consume omega 3 polyunsaturated fatty acids at a stable dose of docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA) show decreased oxidation of proteins and lipids in plasma. In addition, an increase in catalase activity was detected. Thus, the presented data warrants further studies evaluating the antioxidant effect of omega 3 polyunsaturated fatty acids."
-    },
-    {
-      "paper_name": "Supplementation With Carotenoids, Omega-3 Fatty Acids, and Vitamin E Has a Positive Effect on the Symptoms and Progression of Alzheimer's Disease.",
-      "paper_year": "2022",
-      "paper_authors": "Nolan JM, Power R, Howard AN, Bergin P, Roche W, Prado-Cabrero A, Pope G, Cooke J, Power T, Mulcahy R",
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "publisher": "J Alzheimers Dis",
-      "resumen": "Preliminary work by our center has reported behavior and functional benefits in patients with Alzheimer's disease (AD) following targeted micronutritional supplementation."
-    },
-    {
-      "paper_name": "Effect of Vitamin D Supplementation on Overactive Bladder and Urinary Incontinence Symptoms in Older Men: Ancillary Findings From a Randomized Trial.",
-      "paper_year": "2023",
-      "paper_authors": "Markland AD, Vaughan CP, Huang AJ, Kim E, Bubes VY, Tangpricha V, Buring JR, Lee IM, Cook NR, Manson JE, Grodstein F",
-      "journal": "The Journal of urology",
-      "publisher": "J Urol",
-      "resumen": "Our goal was to evaluate vitamin D supplementation for preventing or treating overactive bladder and urinary incontinence in men."
-    },
-    {
-      "paper_name": "Effects of a 6-Month Multifaceted Diet and Exercise Intervention on Cognition in Older Adults at Risk of Cognitive Decline: The PONDER Double-Blind, Placebo-Controlled Randomized Trial.",
-      "paper_year": "2022",
-      "paper_authors": "Macpherson H, Brownell S, Harris E, Duckham RL, O'Connell S, Meyer BJ, Mirzaee S, Daly RM",
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "publisher": "J Alzheimers Dis",
-      "resumen": "Multidomain interventions which incorporate exercise and dietary supplementation to target both cognitive and physical health domains may be an important approach to delay cognitive decline."
-    },
-    {
-      "paper_name": "Omega-3 Supplementation for the Prevention of Cognitive Decline in Older Adults: Does It Depend on Homocysteine Levels?",
-      "paper_year": "2022",
-      "paper_authors": "Maltais M, de Souto Barreto P, Bowman GL, Smith AD, Cantet C, Andrieu S, Rolland Y",
-      "journal": "The journal of nutrition, health & aging..",
-      "publisher": "J Nutr Health Aging",
-      "resumen": "Recent evidence point towards an interaction between omega-3 (n-3) polyunsaturated fatty acids (PUFA) and plasma homocysteine (Hcy)."
-    },
-    {
-      "paper_name": "Is more always better? Dose effect in a multidomain intervention in older adults at risk of dementia.",
-      "paper_year": "2022",
-      "paper_authors": "Belleville S, Cloutier S, Mellah S, Willis S, Vellas B, Andrieu S, Coley N, Ngandu T",
-      "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
-      "publisher": "Alzheimers Dement",
-      "resumen": "Little is known regarding the dose-response function in multidomain interventions for dementia prevention."
-    },
     {
       "paper_name": "Omega-3 fatty acid, carotenoid and vitamin E supplementation improves working memory in older adults: A randomised clinical trial.",
       "paper_year": "2022",
@@ -115,68 +27,20 @@
       "resumen": "Increased serum levels of pro-inflammatory biomarkers are consistently associated with cognitive decline. The omega-3 unsaturated fatty acids (n-3 PUFAs) had been linked to slowing cognitive decline due to their potential anti-inflammatory effects. To our knowledge, the different regiments of pure DHA, pure EPA, and their combination on various associated symptoms of dementia, including a mild form of cognitive impairment (MCI) and Alzheimer's disease (AD), have never been studied."
     },
     {
-      "paper_name": "The Cost-Effectiveness of Three Prevention Strategies in Alzheimer's Disease: Results from the Multidomain Alzheimer Preventive Trial (MAPT).",
-      "paper_year": "2021",
-      "paper_authors": "Costa N, Mounié M, Pagès A, Derumeaux H, Rapp T, Guyonnet S, Coley N, Cantet C, Carrié I, Andrieu S, Molinier L",
-      "journal": "The journal of prevention of Alzheimer's disease..",
-      "publisher": "J Prev Alzheimers Dis",
-      "resumen": "To date, no curative treatment is available for Alzheimer's disease (AD). Therefore, efforts should focus on prevention strategies to improve the efficiency of healthcare systems."
+      "paper_name": "Effect of long-term omega 3 polyunsaturated fatty acid supplementation with or without multidomain intervention on cognitive function in elderly adults with memory complaints (MAPT): a randomised, placebo-controlled trial.",
+      "paper_year": "2017",
+      "paper_authors": "Andrieu S, Guyonnet S, Coley N, Cantet C, Bonnefoy M, Bordes S, Bories L, Cufi MN, Dantoine T, Dartigues JF, Desclaux F, Gabelle A, Gasnier Y, Pesce A, Sudres K, Touchon J, Robert P, Rouaud O, Legrand P, Payoux P, Caubere JP, Weiner M, Carrié I, Ousset PJ, Vellas B",
+      "journal": "The Lancet. Neurology",
+      "publisher": "Lancet Neurol",
+      "resumen": "No large trials have been done to investigate the efficacy of an intervention combining a specific compound and several lifestyle interventions compared with placebo for the prevention of cognitive decline. We tested the effect of omega 3 polyunsaturated fatty acid supplementation and a multidomain intervention (physical activity, cognitive training, and nutritional advice), alone or in combination, compared with placebo, on cognitive decline."
     },
     {
-      "paper_name": "Disparities in the participation and adherence of older adults in lifestyle-based multidomain dementia prevention and the motivational role of perceived disease risk and intervention benefits: an observational ancillary study to a randomised controlled trial.",
-      "paper_year": "2021",
-      "paper_authors": "Coley N, Coniasse-Brioude D, Igier V, Fournier T, Poulain JP, Andrieu S",
-      "journal": "Alzheimer's research & therapy",
-      "publisher": "Alzheimers Res Ther",
-      "resumen": "Preventive interventions for dementia are urgently needed and must be tested in randomised controlled trials (RCTs). Selection (volunteer) bias may limit efficacy, particularly in trials testing multidomain interventions and may also be indicative of disparities in intervention uptake in real-world settings. We identified factors associated with participation and adherence in a 3-year RCT of multidomain lifestyle intervention and/or omega-3 supplementation for prevention of cognitive decline and explored reasons for (non-) participation."
-    },
-    {
-      "paper_name": "Effects of Peroral Omega-3 Fatty Acid Supplementation on Cerebrospinal Fluid Biomarkers in Patients with Alzheimer's Disease: A Randomized Controlled Trial-The OmegAD Study.",
-      "paper_year": "2021",
-      "paper_authors": "Tofiq A, Zetterberg H, Blennow K, Basun H, Cederholm T, Eriksdotter M, Faxén-Irving G, Hjorth E, Jernerén F, Schultzberg M, Wahlund LO, Palmblad J, Freund-Levi Y",
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "publisher": "J Alzheimers Dis",
-      "resumen": "Studies have suggested a connection between a decrease in the levels of polyunsaturated fatty acids (PUFAs) and Alzheimer's disease (AD). We aimed to assess the effect of supplementation with omega-3 fatty acids (n-3 FAs) on biomarkers analyzed in the cerebrospinal fluid (CSF) of patients diagnosed with AD."
-    },
-    {
-      "paper_name": "Omega-3 polyunsaturated fatty acids protect against inflammation through production of LOX and CYP450 lipid mediators: relevance for major depression and for human hippocampal neurogenesis.",
-      "paper_year": "2021",
-      "paper_authors": "Borsini A, Nicolaou A, Camacho-Muñoz D, Kendall AC, Di Benedetto MG, Giacobbe J, Su KP, Pariante CM",
-      "journal": "Molecular psychiatry",
-      "publisher": "Mol Psychiatry",
-      "resumen": "Eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) can exert antidepressant, anti-inflammatory and neuroprotective properties, but the exact molecular mechanism underlying their effects is still not fully understood. We conducted both in vitro and clinical investigations to test which EPA or DHA metabolites are involved in these anti-inflammatory, neuroprotective and antidepressant effects. In vitro, we used the human hippocampal progenitor cell line HPC0A07/03C, and pre-treated cells with either EPA or DHA, followed by interleukin 1beta (IL1β), IL6 and interferon-alpha (IFN-α). Both EPA and DHA prevented the reduction in neurogenesis and the increase in apoptosis induced by these cytokines; moreover, these effects were mediated by the lipoxygenase (LOX) and cytochrome P450 (CYP450) EPA/DHA metabolites, 5-hydroxyeicosapentaenoic acid (HEPE), 4-hydroxydocosahexaenoic acid (HDHA), 18-HEPE, 20-HDHA, 17(18)-epoxyeicosatetraenoic acid (EpETE) and 19(20)-epoxydocosapentaenoic acid (EpDPA), detected here for the first time in human hippocampal neurones using mass spectrometry lipidomics of the supernatant. In fact, like EPA/DHA, co-treatment with these metabolites prevented cytokines-induced reduction in neurogenesis and apoptosis. Moreover, co-treatment with 17(18)-EpETE and 19(20)-EpDPA and the soluble epoxide hydroxylase (sEH) inhibitor, TPPU (which prevents their conversion into dihydroxyeicosatetraenoic acid (DiHETE)/ dihydroxydocosapentaenoic acid (DiHDPA) metabolites) further enhanced their neurogenic and anti-apoptotic effects. Interestingly, these findings were replicated in a sample of n = 22 patients with a DSM-IV Major Depressive Disorder, randomly assigned to treatment with either EPA (3.0 g/day) or DHA (1.4 g/day) for 12 weeks, with exactly the same LOX and CYP450 lipid metabolites increased in the plasma of these patients following treatment with their precursor, EPA or DHA, and some evidence that higher levels of these metabolites were correlated with less severe depressive symptoms. Overall, our study provides the first evidence for the relevance of LOX- and CYP450-derived EPA/DHA bioactive lipid metabolites as neuroprotective molecular targets for human hippocampal neurogenesis and depression, and highlights the importance of sEH inhibitors as potential therapeutic strategy for patients suffering from depressive symptoms."
-    },
-    {
-      "paper_name": "Effects of Aerobic Exercise Training on Systemic Biomarkers and Cognition in Late Middle-Aged Adults at Risk for Alzheimer's Disease.",
-      "paper_year": "2021",
-      "paper_authors": "Gaitán JM, Moon HY, Stremlau M, Dubal DB, Cook DB, Okonkwo OC, van Praag H",
-      "journal": "Frontiers in endocrinology",
-      "publisher": "Front Endocrinol (Lausanne)",
-      "resumen": "Increasing evidence indicates that physical activity and exercise training may delay or prevent the onset of Alzheimer's disease (AD). However, systemic biomarkers that can measure exercise effects on brain function and that link to relevant metabolic responses are lacking. To begin to address this issue, we utilized blood samples of 23 asymptomatic late middle-aged adults, with familial and genetic risk for AD (mean age 65 years old, 50% female) who underwent 26 weeks of supervised treadmill training. Systemic biomarkers implicated in learning and memory, including the myokine Cathepsin B (CTSB), brain-derived neurotrophic factor (BDNF), and klotho, as well as metabolomics were evaluated. Here we show that aerobic exercise training increases plasma CTSB and that changes in CTSB, but not BDNF or klotho, correlate with cognitive performance. BDNF levels decreased with exercise training. Klotho levels were unchanged by training, but closely associated with change in VO<sub>2</sub>peak. Metabolomic analysis revealed increased levels of polyunsaturated free fatty acids (PUFAs), reductions in ceramides, sphingo- and phospholipids, as well as changes in gut microbiome metabolites and redox homeostasis, with exercise. Multiple metabolites (~30%) correlated with changes in BDNF, but not CSTB or klotho. The positive association between CTSB and cognition, and the modulation of lipid metabolites implicated in dementia, support the beneficial effects of exercise training on brain function. Overall, our analyses indicate metabolic regulation of exercise-induced plasma BDNF changes and provide evidence that CTSB is a marker of cognitive changes in late middle-aged adults at risk for dementia."
-    },
-    {
-      "paper_name": "Effects of Folic Acid Combined with DHA Supplementation on Cognitive Function and Amyloid-β-Related Biomarkers in Older Adults with Mild Cognitive Impairment by a Randomized, Double Blind, Placebo-Controlled Trial.",
-      "paper_year": "2021",
-      "paper_authors": "Bai D, Fan J, Li M, Dong C, Gao Y, Fu M, Huang G, Liu H",
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "publisher": "J Alzheimers Dis",
-      "resumen": "The neuroprotective benefits of combined folic acid and docosahexaenoic acid (DHA) on cognitive function in mild cognitive impairment (MCI) patients are suggested but unconfirmed."
-    },
-    {
-      "paper_name": "The impact of a multi-domain intervention on cerebral glucose metabolism: analysis from the randomized ancillary FDG PET MAPT trial.",
-      "paper_year": "2020",
-      "paper_authors": "Delrieu J, Voisin T, Saint-Aubert L, Carrie I, Cantet C, Vellas B, Payoux P, Andrieu S",
-      "journal": "Alzheimer's research & therapy",
-      "publisher": "Alzheimers Res Ther",
-      "resumen": "The Multidomain Alzheimer Preventive Trial (MAPT) was designed to assess the efficacy of omega-3 fatty acid supplementation, multidomain intervention (MI), or a combination of both on cognition. Although the MAPT study was negative, an effect of MI in maintaining cognitive functions compared to placebo group was showed in positive amyloid subjects. A FDG PET study (MAPT-NI) was implemented to test the impact of MI on brain glucose metabolism."
-    },
-    {
-      "paper_name": "Effect of long-term omega-3 supplementation and a lifestyle multidomain intervention on intrinsic capacity among community-dwelling older adults: Secondary analysis of a randomized, placebo-controlled trial (MAPT study).",
-      "paper_year": "2020",
-      "paper_authors": "Giudici KV, de Souto Barreto P, Beard J, Cantet C, Araujo de Carvalho I, Rolland Y, Vellas B",
-      "journal": "Maturitas",
-      "publisher": "Maturitas",
-      "resumen": "To investigate the effect of omega-3 (ω-3) polyunsaturated fatty acid supplementation and a multidomain intervention (MI) (physical activity counselling, cognitive training and nutritional advice) among community-dwelling older adults on levels of intrinsic capacity (IC), a construct recently proposed by the World Health Organization."
+      "paper_name": "ω-3 PUFA for Secondary Prevention of White Matter Lesions and Neuronal Integrity Breakdown in Older Adults: A Randomized Clinical Trial.",
+      "paper_year": "2024",
+      "paper_authors": "Shinto LH, Murchison CF, Silbert LC, Dodge HH, Lahna D, Rooney W, Kaye J, Quinn JF, Bowman GL",
+      "journal": "JAMA network open",
+      "publisher": "JAMA Netw Open",
+      "resumen": "Older adults with lower intake and tissue levels of long-chain ω-3 polyunsaturated fatty acids (PUFAs) eicosapentaenoic acid (EPA; 20:5) and docosahexaenoic acid (DHA; 22:6) have more brain white matter lesions (WMLs), an association suggesting that small-vessel ischemic disease, a major contributor to the development of dementia, including Alzheimer disease, may be preventable through ω-3 treatment."
     },
     {
       "paper_name": "36-month LipiDiDiet multinutrient clinical trial in prodromal Alzheimer's disease.",
@@ -187,6 +51,14 @@
       "resumen": "The LipiDiDiet trial investigates the effects of the specific multinutrient combination Fortasyn Connect on cognition and related measures in prodromal Alzheimer's disease (AD). Based on previous results we hypothesized that benefits increase with long-term intervention."
     },
     {
+      "paper_name": "Omega-3 polyunsaturated fatty acids protect against inflammation through production of LOX and CYP450 lipid mediators: relevance for major depression and for human hippocampal neurogenesis.",
+      "paper_year": "2021",
+      "paper_authors": "Borsini A, Nicolaou A, Camacho-Muñoz D, Kendall AC, Di Benedetto MG, Giacobbe J, Su KP, Pariante CM",
+      "journal": "Molecular psychiatry",
+      "publisher": "Mol Psychiatry",
+      "resumen": "Eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) can exert antidepressant, anti-inflammatory and neuroprotective properties, but the exact molecular mechanism underlying their effects is still not fully understood. We conducted both in vitro and clinical investigations to test which EPA or DHA metabolites are involved in these anti-inflammatory, neuroprotective and antidepressant effects. In vitro, we used the human hippocampal progenitor cell line HPC0A07/03C, and pre-treated cells with either EPA or DHA, followed by interleukin 1beta (IL1β), IL6 and interferon-alpha (IFN-α). Both EPA and DHA prevented the reduction in neurogenesis and the increase in apoptosis induced by these cytokines; moreover, these effects were mediated by the lipoxygenase (LOX) and cytochrome P450 (CYP450) EPA/DHA metabolites, 5-hydroxyeicosapentaenoic acid (HEPE), 4-hydroxydocosahexaenoic acid (HDHA), 18-HEPE, 20-HDHA, 17(18)-epoxyeicosatetraenoic acid (EpETE) and 19(20)-epoxydocosapentaenoic acid (EpDPA), detected here for the first time in human hippocampal neurones using mass spectrometry lipidomics of the supernatant. In fact, like EPA/DHA, co-treatment with these metabolites prevented cytokines-induced reduction in neurogenesis and apoptosis. Moreover, co-treatment with 17(18)-EpETE and 19(20)-EpDPA and the soluble epoxide hydroxylase (sEH) inhibitor, TPPU (which prevents their conversion into dihydroxyeicosatetraenoic acid (DiHETE)/ dihydroxydocosapentaenoic acid (DiHDPA) metabolites) further enhanced their neurogenic and anti-apoptotic effects. Interestingly, these findings were replicated in a sample of n = 22 patients with a DSM-IV Major Depressive Disorder, randomly assigned to treatment with either EPA (3.0 g/day) or DHA (1.4 g/day) for 12 weeks, with exactly the same LOX and CYP450 lipid metabolites increased in the plasma of these patients following treatment with their precursor, EPA or DHA, and some evidence that higher levels of these metabolites were correlated with less severe depressive symptoms. Overall, our study provides the first evidence for the relevance of LOX- and CYP450-derived EPA/DHA bioactive lipid metabolites as neuroprotective molecular targets for human hippocampal neurogenesis and depression, and highlights the importance of sEH inhibitors as potential therapeutic strategy for patients suffering from depressive symptoms."
+    },
+    {
       "paper_name": "Brain delivery of supplemental docosahexaenoic acid (DHA): A randomized placebo-controlled clinical trial.",
       "paper_year": "2020",
       "paper_authors": "Arellanes IC, Choe N, Solomon V, He X, Kavin B, Martinez AE, Kono N, Buennagel DP, Hazra N, Kim G, D'Orazio LM, McCleary C, Sagare A, Zlokovic BV, Hodis HN, Mack WJ, Chui HC, Harrington MG, Braskie MN, Schneider LS, Yassine HN",
@@ -195,388 +67,28 @@
       "resumen": "Past clinical trials of docosahexaenoic Acid (DHA) supplements for the prevention of Alzheimer's disease (AD) dementia have used lower doses and have been largely negative. We hypothesized that larger doses of DHA are needed for adequate brain bioavailability and that APOE4 is associated with reduced delivery of DHA and eicosapentaenoic acid (EPA) to the brain before the onset of cognitive impairment."
     },
     {
-      "paper_name": "Cortical β-Amyloid in Older Adults Is Associated with Multidomain Interventions with and without Omega 3 Polyunsaturated Fatty Acid Supplementation.",
+      "paper_name": "Supplementation With Carotenoids, Omega-3 Fatty Acids, and Vitamin E Has a Positive Effect on the Symptoms and Progression of Alzheimer's Disease.",
+      "paper_year": "2022",
+      "paper_authors": "Nolan JM, Power R, Howard AN, Bergin P, Roche W, Prado-Cabrero A, Pope G, Cooke J, Power T, Mulcahy R",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "publisher": "J Alzheimers Dis",
+      "resumen": "Preliminary work by our center has reported behavior and functional benefits in patients with Alzheimer's disease (AD) following targeted micronutritional supplementation."
+    },
+    {
+      "paper_name": "Effects of Aerobic Exercise Training on Systemic Biomarkers and Cognition in Late Middle-Aged Adults at Risk for Alzheimer's Disease.",
+      "paper_year": "2021",
+      "paper_authors": "Gaitán JM, Moon HY, Stremlau M, Dubal DB, Cook DB, Okonkwo OC, van Praag H",
+      "journal": "Frontiers in endocrinology",
+      "publisher": "Front Endocrinol (Lausanne)",
+      "resumen": "Increasing evidence indicates that physical activity and exercise training may delay or prevent the onset of Alzheimer's disease (AD). However, systemic biomarkers that can measure exercise effects on brain function and that link to relevant metabolic responses are lacking. To begin to address this issue, we utilized blood samples of 23 asymptomatic late middle-aged adults, with familial and genetic risk for AD (mean age 65 years old, 50% female) who underwent 26 weeks of supervised treadmill training. Systemic biomarkers implicated in learning and memory, including the myokine Cathepsin B (CTSB), brain-derived neurotrophic factor (BDNF), and klotho, as well as metabolomics were evaluated. Here we show that aerobic exercise training increases plasma CTSB and that changes in CTSB, but not BDNF or klotho, correlate with cognitive performance. BDNF levels decreased with exercise training. Klotho levels were unchanged by training, but closely associated with change in VO<sub>2</sub>peak. Metabolomic analysis revealed increased levels of polyunsaturated free fatty acids (PUFAs), reductions in ceramides, sphingo- and phospholipids, as well as changes in gut microbiome metabolites and redox homeostasis, with exercise. Multiple metabolites (~30%) correlated with changes in BDNF, but not CSTB or klotho. The positive association between CTSB and cognition, and the modulation of lipid metabolites implicated in dementia, support the beneficial effects of exercise training on brain function. Overall, our analyses indicate metabolic regulation of exercise-induced plasma BDNF changes and provide evidence that CTSB is a marker of cognitive changes in late middle-aged adults at risk for dementia."
+    },
+    {
+      "paper_name": "Effect of long-term omega-3 supplementation and a lifestyle multidomain intervention on intrinsic capacity among community-dwelling older adults: Secondary analysis of a randomized, placebo-controlled trial (MAPT study).",
       "paper_year": "2020",
-      "paper_authors": "Hooper C, Coley N, De Souto Barreto P, Payoux P, Salabert AS, Andrieu S, Weiner M, Vellas B",
-      "journal": "The journal of prevention of Alzheimer's disease..",
-      "publisher": "J Prev Alzheimers Dis",
-      "resumen": "Multidomain lifestyle interventions (including combinations of physical exercise, cognitive training and nutritional guidance) are attracting increasing research attention for reducing the risk of Alzheimer's disease (AD). Here we examined for the first time the cross-sectional relationship between cortical β-amyloid (Aβ) and multidomain lifestyle interventions (nutritional and exercise counselling and cognitive training), omega 3 polyunsaturated fatty acid (n-3 PUFA) supplementation or their combination in 269 participants of the Multidomain Alzheimer Preventive Trial (MAPT). In adjusted multiple linear regression models, compared to the control group (receiving placebo alone), cortical Aβ, measured once during follow-up (mean 512.7 ± 249.6 days post-baseline), was significantly lower in the groups receiving multidomain lifestyle intervention + placebo (mean difference, -0.088, 95 % CI, -0.148,-0.029, p = 0.004) or multidomain lifestyle intervention + n-3 PUFA (-0.100, 95 % CI, -0.160,-0.041, p = 0.001), but there was no difference in the n-3 PUFA supplementation alone group (-0.011, 95 % CI, -0.072,0.051, p = 0.729). Secondary analysis provided mixed results. Our findings suggest that multidomain interventions both with and without n-3 PUFA supplementation might be associated with lower cerebral Aβ. Future trials should investigate if such multidomain lifestyle interventions are causally associated with a reduction or the prevention of the accumulation of cerebral Aβ."
-    },
-    {
-      "paper_name": "Effect of APOE Genotype on Plasma Docosahexaenoic Acid (DHA), Eicosapentaenoic Acid, Arachidonic Acid, and Hippocampal Volume in the Alzheimer's Disease Cooperative Study-Sponsored DHA Clinical Trial.",
-      "paper_year": "2020",
-      "paper_authors": "Tomaszewski N, He X, Solomon V, Lee M, Mack WJ, Quinn JF, Braskie MN, Yassine HN",
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "publisher": "J Alzheimers Dis",
-      "resumen": "Docosahexaenoic acid (DHA), eicosapentaenoic acid (EPA), and arachidonic acid (AA) play key roles in several metabolic processes relevant to Alzheimer's disease (AD) pathogenesis and neuroinflammation. Carrying the APOEɛ4 allele (APOE4) accelerates omega-3 polyunsaturated fatty acid (PUFA) oxidation. In a pre-planned subgroup analysis of the Alzheimer's Disease Cooperative Study-sponsored DHA clinical trial, APOE4 carriers with mild probable AD had no improvements in cognitive outcomes compared to placebo, while APOE 4 non-carriers showed a benefit from DHA supplementation."
-    },
-    {
-      "paper_name": "Effect of a 2-year diet intervention with walnuts on cognitive decline. The Walnuts And Healthy Aging (WAHA) study: a randomized controlled trial.",
-      "paper_year": "2020",
-      "paper_authors": "Sala-Vila A, Valls-Pedret C, Rajaram S, Coll-Padrós N, Cofán M, Serra-Mir M, Pérez-Heras AM, Roth I, Freitas-Simoes TM, Doménech M, Calvo C, López-Illamola A, Bitok E, Buxton NK, Huey L, Arechiga A, Oda K, Lee GJ, Corella D, Vaqué-Alcázar L, Sala-Llonch R, Bartrés-Faz D, Sabaté J, Ros E",
-      "journal": "The American journal of clinical nutrition",
-      "publisher": "Am J Clin Nutr",
-      "resumen": "Walnut consumption counteracts oxidative stress and inflammation, 2 drivers of cognitive decline. Clinical data concerning effects on cognition are lacking."
-    },
-    {
-      "paper_name": "Association of Fish Oil and Physical Activity on Mobility Disability in Older Adults.",
-      "paper_year": "2020",
-      "paper_authors": "Balachandran A, Gundermann DM, Walkup MP, King AC, Ambrosius WT, Kritchevsky SB, Pahor M, Newman AB, Manini TM",
-      "journal": "Medicine and science in sports and exercise",
-      "publisher": "Med Sci Sports Exerc",
-      "resumen": "This study aimed to examine whether long-term fish oil (FO) supplementation is associated with a lower risk of mobility disability and enhances benefits of physical activity (PA)."
-    },
-    {
-      "paper_name": "The LipiDiDiet trial: what does it add to the current evidence for Fortasyn Connect in early Alzheimer's disease?",
-      "paper_year": "2019",
-      "paper_authors": "Rasmussen J",
-      "journal": "Clinical interventions in aging",
-      "publisher": "Clin Interv Aging",
-      "resumen": "Nutritional factors can influence the risk of developing Alzheimer's disease (AD) and its rate of progression, and there is, therefore, increasing interest in nutrition as a modifiable risk factor for the disease. Synaptic loss is an important feature of early AD, and the formation of new synapses is dependent on key nutritional elements that are known to be deficient in patients with AD. The daily medical food, Souvenaid, contains Fortasyn Connect, a multinutrient combination developed to specifically address these deficiencies, comprising docosahexaenoic acid, eicosapentaenoic acid, uridine monophosphate, choline, phospholipids, selenium, folic acid, and vitamins B12, B6, C, and E. Although yielding heterogeneous findings, clinical studies of Fortasyn Connect provide preliminary evidence of clinically relevant benefits on cognitive outcomes in prodromal and early AD. The LipiDiDiet trial investigated the effects of Fortasyn Connect on cognition and related measures in prodromal AD, and is the first randomized, controlled, double-blind, multicenter trial study of a non-pharmacological intervention in this setting. The primary efficacy endpoint was change over 24 months in a composite score of cognitive performance using a neuropsychological test battery. Fortasyn Connect had no significant effect on this endpoint, but demonstrated a significant benefit on secondary endpoints, including domains of cognition affected by AD (attention, memory, executive function) and hippocampal atrophy, suggesting a potential benefit on disease progression. Other studies have demonstrated benefits for Fortasyn Connect on nutritional markers and levels of plasma homocysteine. Taken together, current evidence indicates that Fortasyn Connect may show benefit on domains of cognition affected by AD and nutritional measures that influence risk factors for its progression; that it has greater potential for benefit earlier rather than later in the disease; and that it is safe and well tolerated, alone or in combination with AD medications. Further research into its potential role in AD management is therefore warranted."
-    },
-    {
-      "paper_name": "Effect of Long-Term Omega 3 Polyunsaturated Fatty Acid Supplementation with or without Multidomain Lifestyle Intervention on Muscle Strength in Older Adults: Secondary Analysis of the Multidomain Alzheimer Preventive Trial (MAPT).",
-      "paper_year": "2019",
-      "paper_authors": "Rolland Y, Barreto PS, Maltais M, Guyonnet S, Cantet C, Andrieu S, Vellas B",
-      "journal": "Nutrients",
-      "publisher": "Nutrients",
-      "resumen": "The benefits of long-term omega 3 polyunsaturated fatty acid (ω3-PUFA) supplementation on muscle strength in older adults remains to be investigated."
-    },
-    {
-      "paper_name": "Using joint models to disentangle intervention effect types and baseline confounding: an application within an intervention study in prodromal Alzheimer's disease with Fortasyn Connect.",
-      "paper_year": "2019",
-      "paper_authors": "van Oudenhoven FM, Swinkels SHN, Hartmann T, Soininen H, van Hees AMJ, Rizopoulos D",
-      "journal": "BMC medical research methodology",
-      "publisher": "BMC Med Res Methodol",
-      "resumen": "Many prodromal Alzheimer's disease trials collect two types of data: the time until clinical diagnosis of dementia and longitudinal patient information. These data are often analysed separately, although they are strongly associated. By combining the longitudinal and survival data into a single statistical model, joint models can account for the dependencies between the two types of data."
-    },
-    {
-      "paper_name": "Association of 3-Year Multidomain Intervention and Omega-3 Supplementation with Frailty Incidence.",
-      "paper_year": "2019",
-      "paper_authors": "Guerville F, de Souto Barreto P, Giudici KV, Rolland Y, Vellas B",
-      "journal": "Journal of the American Geriatrics Society",
-      "publisher": "J Am Geriatr Soc",
-      "resumen": "To assess the associations of long-term lifestyle multidomain intervention (MI) and omega-3 supplementation with frailty level evolution and frailty incidence in community-dwelling older persons."
-    },
-    {
-      "paper_name": "Exercise as a potential modulator of inflammation in patients with Alzheimer's disease measured in cerebrospinal fluid and plasma.",
-      "paper_year": "2019",
-      "paper_authors": "Jensen CS, Bahl JM, Østergaard LB, Høgh P, Wermuth L, Heslegrave A, Zetterberg H, Heegaard NHH, Hasselbalch SG, Simonsen AH",
-      "journal": "Experimental gerontology",
-      "publisher": "Exp Gerontol",
-      "resumen": "Neuroinflammation is recognized as part of the pathological progression of Alzheimer's disease (AD), but the molecular mechanisms are still not entirely clear. Systemically, physical exercise has shown to have a positive modulating effect on markers of inflammation. It is not known if this general effect also takes place in the central nervous system in AD. The aim of this study was to investigate the effect of 16 weeks of moderate to high-intensity physical exercise on selected biomarkers of inflammation both systemically and in the CNS, in patients with AD."
-    },
-    {
-      "paper_name": "Homocysteine Status Modifies the Treatment Effect of Omega-3 Fatty Acids on Cognition in a Randomized Clinical Trial in Mild to Moderate Alzheimer's Disease: The OmegAD Study.",
-      "paper_year": "2019",
-      "paper_authors": "Jernerén F, Cederholm T, Refsum H, Smith AD, Turner C, Palmblad J, Eriksdotter M, Hjorth E, Faxen-Irving G, Wahlund LO, Schultzberg M, Basun H, Freund-Levi Y",
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "publisher": "J Alzheimers Dis",
-      "resumen": "Trials of supplementation with omega-3 fatty acids (ω3-FAs) in patients with mild cognitive impairment or Alzheimer's disease (AD) have produced inconsistent effects on cognitive decline. There is evidence of an interaction between B vitamin status and ω3-FAs in relation to brain atrophy and cognitive decline."
-    },
-    {
-      "paper_name": "Lifestyle multidomain intervention, omega-3 supplementation, or both for reducing the risk of developing clinically relevant depressive symptoms in older adults with memory complaints? Secondary analysis from the MAPT trial.",
-      "paper_year": "2019",
-      "paper_authors": "Maltais M, de Souto Barreto P, Pothier K, Cantet C, Andrieu S, Rolland Y, Vellas B",
-      "journal": "Experimental gerontology",
-      "publisher": "Exp Gerontol",
-      "resumen": "We tested the associations of a lifestyle multidomain intervention (MI), omega-3 supplementation (O3) or their combination with the change of clinically meaningful depressive symptoms in older adults."
-    },
-    {
-      "paper_name": "Outcomes of Perilla Seed Oil as an Additional Neuroprotective Therapy in Patients with Mild to Moderate Dementia: A Randomized Control Trial.",
-      "paper_year": "2019",
-      "paper_authors": "Kamalashiran C, Sriyakul K, Pattaraarchachai J, Muengtaweepongsa S",
-      "journal": "Current Alzheimer research",
-      "publisher": "Curr Alzheimer Res",
-      "resumen": "Dementia is a common medical disorder in the elderly. Oxidative stress plays a major role in the process of cognitive decline in dementia. Perilla seed oil demonstrates its neuroprotective effects via anti-oxidative mechanisms against dementia. We investigate neuroprotective effects of perilla seed oil as an additional treatment in patients with mild to moderate dementia."
-    },
-    {
-      "paper_name": "Effect of Multidomain Intervention, Omega-3 Polyunsaturated Fatty Acids Supplementation or their Combinaison on Cognitive Function in Non-Demented Older Adults According to Frail Status: Results from the MAPT Study.",
-      "paper_year": "2018",
-      "paper_authors": "Tabue-Teguo M, Barreto de Souza P, Cantet C, Andrieu S, Simo N, Fougère B, Dartigues JF, Vellas B",
-      "journal": "The journal of nutrition, health & aging..",
-      "publisher": "J Nutr Health Aging",
-      "resumen": "Aim: The aim of this study was to explore whether multidomain intervention (MI) and Omega-3 Polyunsaturated Fatty Acids supplementation can modify the cognitive function on elderly according to frail status."
-    },
-    {
-      "paper_name": "Effects of a Six-Month Multi-Ingredient Nutrition Supplement Intervention of Omega-3 Polyunsaturated Fatty Acids, vitamin D, Resveratrol, and Whey Protein on Cognitive Function in Older Adults: A Randomised, Double-Blind, Controlled Trial.",
-      "paper_year": "2018",
-      "paper_authors": "Moran C, Scotto di Palumbo A, Bramham J, Moran A, Rooney B, De Vito G, Egan B",
-      "journal": "The journal of prevention of Alzheimer's disease..",
-      "publisher": "J Prev Alzheimers Dis",
-      "resumen": "To investigate the impact of a six-month multi-ingredient nutrition supplement intervention (Smartfish®), containing omega-3 polyunsaturated fatty acids (PUFAs), vitamin D, resveratrol, and whey protein, on cognitive function in Irish older adults."
-    },
-    {
-      "paper_name": "Commentary: Fatty acids and Alzheimer's disease: evidence on cognition and cortical β-amyloid from secondary analyses of the Multidomain Alzheimer Preventive Trial.",
-      "paper_year": "2018",
-      "paper_authors": "Hooper C, Vellas B",
-      "journal": "The journal of prevention of Alzheimer's disease..",
-      "publisher": "J Prev Alzheimers Dis",
-      "resumen": ""
-    },
-    {
-      "paper_name": "Effects of a 3-Year Multi-Domain Intervention with or without Omega-3 Supplementation on Cognitive Functions in Older Subjects with Increased CAIDE Dementia Scores.",
-      "paper_year": "2018",
-      "paper_authors": "Chhetri JK, de Souto Barreto P, Cantet C, Pothier K, Cesari M, Andrieu S, Coley N, Vellas B",
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "publisher": "J Alzheimers Dis",
-      "resumen": "Findings from recent Alzheimer's disease prevention trials have shown subjects with increased dementia score based upon mid-life cardiovascular risk factors, to benefit from multi-domain intervention strategies to some extent. The effects of such interventions on cognitive functions remains yet to be well-established. This study is a secondary analysis of the MAPT study, 1,293 older subjects (mean age 75 years) with high CAIDE score (i.e., ≥6) were classified according to the four intervention groups: 1) multi-domain intervention plus placebo, 2) isolated supplementation with Omega-3 polyunsaturated fatty acid (n-3 PUFA), 3) combination of the two interventions, and 4) placebo alone. Linear mixed-model repeated-measures analyses were used to assess the cognitive changes according to various neuropsychological test scores between intervention groups compared to the placebo at 36 months from baseline. Compared to the placebo, group with multi-domain intervention in combination withn-3PUFA was found to show significant improvement in the delayed total recall test of the free and cued selective reminding test (FCSRT) (mean±standard error(SE) = 0.20±0.10) and MMSE orientation test (mean±SE = 0.15±0.06) at 36 months. Isolated multi-domain intervention group showed significant less decline in the MMSE orientation test (mean±SE = 0.12±0.06) compared to the placebo. There was significant less improvement (mean±SE = - 1.01±0.46) in the FCSRT free recall test in the n-3 PUFA intervention group compared to the placebo at 36 months. Our findings show high-risk subjects for dementia screened with CAIDE dementia score might benefit from multi-domain intervention strategies as in the MAPT study, particularly in the orientation and delayed recall domain."
-    },
-    {
-      "paper_name": "Effects of Fish Oil on HIV-Related Inflammation and Markers of Immunosenescence: A Randomized Clinical Trial.",
-      "paper_year": "2018",
-      "paper_authors": "Swanson B, Keithley J, Baum L, Leurgans S, Adeyemi O, Barnes LL, Mata M, Rosdil A",
-      "journal": "Journal of alternative and complementary medicine (New York, N.Y.)",
-      "publisher": "J Altern Complement Med",
-      "resumen": "To explore the safety and efficacy of fish oil to modulate parameters of inflammation and immunosenescence in HIV-infected older adults."
-    },
-    {
-      "paper_name": "Effects of Omega-3 Fatty Acids on Resting Cerebral Perfusion in Patients with Mild Cognitive Impairment: A Randomized Controlled Trial.",
-      "paper_year": "2018",
-      "paper_authors": "Schwarz C, Wirth M, Gerischer L, Grittner U, Witte AV, Köbe T, Flöel A",
-      "journal": "The journal of prevention of Alzheimer's disease..",
-      "publisher": "J Prev Alzheimers Dis",
-      "resumen": "Alteration of cerebral perfusion can be considered as a possible therapeutic target in mild cognitive impairment. This randomized, placebo-controlled, double-blind proof-of-concept study assessed effects of omega-3 fatty acids on cerebral perfusion in patients with mild cognitive impairment. In thirteen patients (omega:n=5; placebo:n=8) cerebral perfusion was measured before and after 26-weeks intervention within posterior cortical regions using magnetic resonance imaging. There was a medium effect of intervention on cerebral blood flow (η2=0.122) and blood volume (η2=0.098). The omega group showed an increase in blood flow (mean difference: 0.02 [corresponds to 26.1%], 95% confidence interval:0.00-0.05) and blood volume (mean difference: 0.08 [corresponds to 18.5%], 95% confidence interval:0.01-0.15), which was not observed in the placebo group. These preliminary findings suggest that omega-3 fatty acids supplementation may improve perfusion in cerebral regions typically affected in mild cognitive impairment.Regulation of perfusion may help to maintain brain structure and function and potentially delay conversion to dementia."
-    },
-    {
-      "paper_name": "Selective enrichment of n-3 fatty acids in human plasma lipid motifs following intake of marine fish.",
-      "paper_year": "2018",
-      "paper_authors": "Žáček P, Bukowski M, Johnson L, Raatz SK, Picklo M",
-      "journal": "The Journal of nutritional biochemistry",
-      "publisher": "J Nutr Biochem",
-      "resumen": "Plasma levels of n-3 long chain polyunsaturated fatty acids (LCPUFA) are associated with a reduction in risk of cardiovascular disease and other chronic, age-related diseases like Alzheimer's disease. In this work, we tested the hypothesis that n-3 LCPUFA fatty acids in human plasma are incorporated into selective lipid species following intake of n-3 LCPUFA rich marine fish. To test this hypothesis, we performed lipidomic analysis on plasma samples from a clinical trial in which participants consumed increasing amounts of farmed Atlantic salmon (Salmo salar). Under basal conditions, n-3 and n-6 LCPUFA were selectively incorporated into plasma phosphatidylcholine (PC) species containing saturated fatty acids (SFA) versus unsaturated fatty acids as the complementary fatty acids. LCPUFA were incorporated into selective triacylglycerol (TAG) species with complementary diacylglyceryl environments of 34:1 or 34:2 (for 20:5 and 22:5) and 36:2>36:3>36:4 and 36:1 (for 20:4 and 22:6). High n-3 LCPUFA marine fish intake resulted in selective increases of PC SFA_n-3 LCPUFA species and LCPUFA-containing TAG species. Changes in cholesteryl esters and phosphatidylethanolamines also occurred following fish intake. Our results highlight the importance of discriminating phospholipid and TAG species and dietary background when evaluating lipidomic outcomes and disease associations."
-    },
-    {
-      "paper_name": "Cross-Sectional Associations of Total Plasma Homocysteine with Cortical β-Amyloid Independently and as a Function of Omega 3 Polyunsaturated Fatty Acid Status in Older Adults at Risk of Dementia.",
-      "paper_year": "2017",
-      "paper_authors": "Hooper C, De Souto Barreto P, Coley N, Caussé E, Payoux P, Salabert AS, Cesari M, Andrieu S, Bowman GL, Weiner M, Vellas B",
-      "journal": "The journal of nutrition, health & aging..",
-      "publisher": "J Nutr Health Aging",
-      "resumen": "Elevated total plasma homocysteine is a risk factor for Alzheimer's disease (AD) and there is some evidence that omega-3 polyunsaturated fatty acids (n-3 PUFAs) can modulate the effects of homocysteine-lowering B vitamins on AD related pathologies. Hence we investigated the relationship between total plasma homocysteine and cortical β-amyloid (Aβ) in older adults at risk of dementia. The role of erythrocyte membrane n-3 PUFAs (omega 3 index) on this relationship was also explored."
-    },
-    {
-      "paper_name": "Does Fatty Acid Composition in Subcutaneous Adipose Tissue Differ between Patients with Alzheimer's Disease and Cohabiting Proxies?",
-      "paper_year": "2018",
-      "paper_authors": "Faxen-Irving G, Falahati F, Basun H, Eriksdotter M, Vedin I, Wahlund LO, Schultzberg M, Hjorth E, Palmblad J, Cederholm T, Freund-Levi Y",
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "publisher": "J Alzheimers Dis",
-      "resumen": "Low tissue levels of the major marine ω3 fatty acids (FAs) DHA and EPA are found in Alzheimer's disease (AD). We investigated if healthy proxies to AD patients have higher levels of these ω3 FAs. We observed lower levels of EPA and DHA in subcutaneous adipose tissue biopsies from 64 AD patients compared with 16 cognitively healthy proxies. No significant difference was observed when pairwise comparisons were made between a subset of 16 AD patients and their co-habiting proxies. Larger studies are needed to replicate these findings and to determine if they could depend on FA intake or differences in metabolism."
-    },
-    {
-      "paper_name": "DHA supplementation improves cognitive function via enhancing Aβ-mediated autophagy in Chinese elderly with mild cognitive impairment: a randomised placebo-controlled trial.",
-      "paper_year": "2018",
-      "paper_authors": "Zhang YP, Lou Y, Hu J, Miao R, Ma F",
-      "journal": "Journal of neurology, neurosurgery, and psychiatry",
-      "publisher": "J Neurol Neurosurg Psychiatry",
-      "resumen": "Higher docosahexaenoic acid (DHA) intake is inversely correlated with relative risk of Alzheimer's disease. The potential benefits of DHA supplementation in people with mild cognitive impairment (MCI) have not been fully examined."
-    },
-    {
-      "paper_name": "Effects of multidomain lifestyle intervention, omega-3 supplementation or their combination on physical activity levels in older adults: secondary analysis of the Multidomain Alzheimer Preventive Trial (MAPT) randomised controlled trial.",
-      "paper_year": "2018",
-      "paper_authors": "Barreto PS, Rolland Y, Cesari M, Dupuy C, Andrieu S, Vellas B",
-      "journal": "Age and ageing",
-      "publisher": "Age Ageing",
-      "resumen": "to investigate the effects of a 3-year multidomain lifestyle intervention, omega-3 supplementation or both on physical activity (PA) in older adults with subjective memory complaints."
-    },
-    {
-      "paper_name": "24-month intervention with a specific multinutrient in people with prodromal Alzheimer's disease (LipiDiDiet): a randomised, double-blind, controlled trial.",
-      "paper_year": "2017",
-      "paper_authors": "Soininen H, Solomon A, Visser PJ, Hendrix SB, Blennow K, Kivipelto M, Hartmann T",
-      "journal": "The Lancet. Neurology",
-      "publisher": "Lancet Neurol",
-      "resumen": "Nutrition is an important modifiable risk factor in Alzheimer's disease. Previous trials of the multinutrient Fortasyn Connect showed benefits in mild Alzheimer's disease dementia. LipiDiDiet investigated the effects of Fortasyn Connect on cognition and related measures in prodromal Alzheimer's disease. Here, we report the 24-month results of the trial."
-    },
-    {
-      "paper_name": "Cognitive Changes with Omega-3 Polyunsaturated Fatty Acids in Non-Demented Older Adults with Low Omega-3 Index.",
-      "paper_year": "2017",
-      "paper_authors": "Hooper C, De Souto Barreto P, Coley N, Cantet C, Cesari M, Andrieu S, Vellas B",
-      "journal": "The journal of nutrition, health & aging..",
-      "publisher": "J Nutr Health Aging",
-      "resumen": "To investigate the changes in specific domains of cognitive function in older adults reporting subjective memory complaints with a low omega-3 index receiving omega 3 polyunsaturated fatty acid (n-3 PUFA) supplementation or placebo."
-    },
-    {
-      "paper_name": "DHA-rich n-3 fatty acid supplementation decreases DNA methylation in blood leukocytes: the OmegAD study.",
-      "paper_year": "2017",
-      "paper_authors": "Karimi M, Vedin I, Freund Levi Y, Basun H, Faxén Irving G, Eriksdotter M, Wahlund LO, Schultzberg M, Hjorth E, Cederholm T, Palmblad J",
-      "journal": "The American journal of clinical nutrition",
-      "publisher": "Am J Clin Nutr",
-      "resumen": "<b>Background:</b> Dietary fish oils, rich in long-chain n-3 (ω-3) fatty acids (FAs) [e.g., docosahexaenoic acid (DHA, 22:6n-3) and eicosapentaenoic acid (EPA, 20:5n-3)], modulate inflammatory reactions through various mechanisms, including gene expression, which is measured as messenger RNA concentration. However, the effects of long-term treatment of humans with DHA and EPA on various epigenetic factors-such as DNA methylation, which controls messenger RNA generation-are poorly described.<b>Objective:</b> We wanted to determine the effects of 6 mo of dietary supplementation with an n-3 FA preparation rich in DHA on global DNA methylation of peripheral blood leukocytes (PBLs) and the relation to plasma EPA and DHA concentrations in Alzheimer disease (AD) patients.<b>Design:</b> In the present study, DNA methylation in four 5'-cytosine-phosphate-guanine-3' (CpG) sites of long interspersed nuclear element-1 repetitive sequences was assessed in a group of 63 patients (30 given the n-3 FA preparation and 33 given placebo) as an estimation of the global DNA methylation in blood cells. Patients originated from the randomized, double-blind, placebo-controlled OmegAD study, in which 174 AD patients received either 1.7 g DHA and 0.6 g EPA (the n-3 FA group) or placebo daily for 6 mo.<b>Results:</b> At 6 mo, the n-3 FA group displayed marked increases in DHA and EPA plasma concentrations (2.6- and 3.5-fold), as well as decreased methylation in 2 out of 4 CpG sites (<i>P</i> < 0.05 for all), respectively. This hypomethylation in CpG2 and CpG4 sites showed a reverse correlation to changes in plasma EPA concentration (<i>r</i> = -0.25, <i>P</i> = 0.045; and <i>r</i> = -0.26, <i>P</i> = 0.041, respectively), but not to changes in plasma DHA concentration, and were not related to apolipoprotein E-4 allele frequency.<b>Conclusion:</b> Supplementation with n-3 FA for 6 mo was associated with global DNA hypomethylation in PBLs. Our data may be of importance in measuring various effects of marine oils, including gene expression, in patients with AD and in other patients taking n-3 FA supplements. This trial was registered at clinicaltrials.gov as NCT00211159."
-    },
-    {
-      "paper_name": "The medical food Souvenaid affects brain phospholipid metabolism in mild Alzheimer's disease: results from a randomized controlled trial.",
-      "paper_year": "2017",
-      "paper_authors": "Rijpma A, van der Graaf M, Lansbergen MM, Meulenbroek O, Cetinyurek-Yavuz A, Sijben JW, Heerschap A, Olde Rikkert MGM",
-      "journal": "Alzheimer's research & therapy",
-      "publisher": "Alzheimers Res Ther",
-      "resumen": "Synaptic dysfunction contributes to cognitive impairment in Alzheimer's disease and may be countered by increased intake of nutrients that target brain phospholipid metabolism. In this study, we explored whether the medical food Souvenaid affects brain phospholipid metabolism in patients with Alzheimer's disease."
-    },
-    {
-      "paper_name": "Quantitative Erythrocyte Omega-3 EPA Plus DHA Levels are Related to Higher Regional Cerebral Blood Flow on Brain SPECT.",
-      "paper_year": "2017",
-      "paper_authors": "Amen DG, Harris WS, Kidd PM, Meysami S, Raji CA",
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "publisher": "J Alzheimers Dis",
-      "resumen": "The interrelationships between omega-3 fatty acids status, brain perfusion, and cognition are not well understood."
-    },
-    {
-      "paper_name": "Red blood cell membrane omega-3 fatty acid levels and physical performance: Cross-sectional data from the MAPT study.",
-      "paper_year": "2018",
-      "paper_authors": "Fougère B, de Souto Barreto P, Goisser S, Soriano G, Guyonnet S, Andrieu S, Vellas B",
-      "journal": "Clinical nutrition (Edinburgh, Scotland)",
-      "publisher": "Clin Nutr",
-      "resumen": "Studies have shown that omega-3 polyunsaturated fatty acids (PUFAs) are associated with brain, cardiovascular and immune function, as well as physical performance and bone health in older adults. So far, few studies have highlighted the associations between PUFA status and performance-based tests of physical function. To study the associations between the omega-3 index (red blood cell (RBC) membrane content of omega-3 PUFAs, such as eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA)) and physical performance measured with the Short Physical Performance Battery (SPPB) in a sample of community-dwelling older adults."
-    },
-    {
-      "paper_name": "Effect of long-term omega 3 polyunsaturated fatty acid supplementation with or without multidomain intervention on cognitive function in elderly adults with memory complaints (MAPT): a randomised, placebo-controlled trial.",
-      "paper_year": "2017",
-      "paper_authors": "Andrieu S, Guyonnet S, Coley N, Cantet C, Bonnefoy M, Bordes S, Bories L, Cufi MN, Dantoine T, Dartigues JF, Desclaux F, Gabelle A, Gasnier Y, Pesce A, Sudres K, Touchon J, Robert P, Rouaud O, Legrand P, Payoux P, Caubere JP, Weiner M, Carrié I, Ousset PJ, Vellas B",
-      "journal": "The Lancet. Neurology",
-      "publisher": "Lancet Neurol",
-      "resumen": "No large trials have been done to investigate the efficacy of an intervention combining a specific compound and several lifestyle interventions compared with placebo for the prevention of cognitive decline. We tested the effect of omega 3 polyunsaturated fatty acid supplementation and a multidomain intervention (physical activity, cognitive training, and nutritional advice), alone or in combination, compared with placebo, on cognitive decline."
-    },
-    {
-      "paper_name": "Vascular biomarkers to predict response to exercise in Alzheimer's disease: the study protocol.",
-      "paper_year": "2016",
-      "paper_authors": "Li D, Thomas R, Tsai MY, Li L, Vock DM, Greimel S, Yu F",
-      "journal": "BMJ open",
-      "publisher": "BMJ Open",
-      "resumen": "Exercise interventions are a promising treatment for improving cognition in persons with Alzheimer's disease. This is similar to Alzheimer's disease pharmacotherapies in which only 18-48% of treated patients demonstrate improvement in cognition. Aerobic exercise interventions positively affect brain structure and function through biologically sound pathways. However, an under-studied mechanism of aerobic exercise's effects is n-3 fatty acids in plasma. The objective of this pilot study is to inform a future large-scale study to develop n-3 fatty acids-based prediction of cognitive responses to aerobic exercise treatment in Alzheimer's disease."
-    },
-    {
-      "paper_name": "Effect Size Analyses of Souvenaid in Patients with Alzheimer's Disease.",
-      "paper_year": "2017",
-      "paper_authors": "Cummings J, Scheltens P, McKeith I, Blesa R, Harrison JE, Bertolucci PH, Rockwood K, Wilkinson D, Wijker W, Bennett DA, Shah RC",
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "publisher": "J Alzheimers Dis",
-      "resumen": "Souvenaid® (uridine monophosphate, docosahexaenoic acid, eicosapentaenoic acid, choline, phospholipids, folic acid, vitamins B12, B6, C, and E, and selenium), was developed to support the formation and function of neuronal membranes."
-    },
-    {
-      "paper_name": "Effects of DHA Supplementation on Hippocampal Volume and Cognitive Function in Older Adults with Mild Cognitive Impairment: A 12-Month Randomized, Double-Blind, Placebo-Controlled Trial.",
-      "paper_year": "2017",
-      "paper_authors": "Zhang YP, Miao R, Li Q, Wu T, Ma F",
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "publisher": "J Alzheimers Dis",
-      "resumen": "Docosahexaenoic acid (DHA) is important for brain function, and higher DHA intake is inversely correlated with relative risk of Alzheimer's disease. The potential benefits of DHA supplementation in people with mild cognitive impairment (MCI) have not been fully examined. Our study aimed to determine the effect of DHA supplementation on cognitive function and hippocampal atrophy in elderly subjects with MCI. This was a randomized, double-blind, placebo-controlled trial in Tianjin, China. 240 individuals with MCI aged 65 years and over were recruited and equalized randomly allocated to the DHA or the placebo group. Participants received 12-month DHA supplementation (2 g/day) or corn oil as placebo. Both global and specific subdomains of cognitive function and hippocampal volume were measured at baseline, 6 months, and 12 months. Both changes were analyzed by repeated-measure analysis of variance (ANOVA). This trial has been registered: ChiCTR-IOR-15006058. A total of 219 participants (DHA: 110, Placebo: 109) completed the trial. The change in mean serum DHA levels was greater in the intervention group (+3.85%) compared to the control group (+1.06%). Repeated-measures analyses of covariance showed that, over 12 months, there was a significant difference in the Full-Scale Intelligence Quotient (ηp2 = 0.084; p = 0.039), Information (ηp2 = 0.439; p = 0.000), and Digit Span (ηp2 = 0.375; p = 0.000) between DHA-treated versus the placebo group. In addition, there were significant differences in volumes of left hippocampus (ηp2 = 0.121, p = 0.016), right hippocampus (ηp2 = 0.757, p = 0.008), total hippocampus (ηp2 = 0.124, p = 0.023), and global cerebrum (ηp2 = 0.145, p = 0.032) between the two groups. These findings suggest that DHA supplementation (2 g/day) for 12 months in MCI subjects can significantly improve cognitive function and slow the progression of hippocampal atrophy. Larger, longer-term confirmatory studies are warranted."
-    },
-    {
-      "paper_name": "The effect of APOE genotype on the delivery of DHA to cerebrospinal fluid in Alzheimer's disease.",
-      "paper_year": "2016",
-      "paper_authors": "Yassine HN, Rawat V, Mack WJ, Quinn JF, Yurko-Mauro K, Bailey-Hall E, Aisen PS, Chui HC, Schneider LS",
-      "journal": "Alzheimer's research & therapy",
-      "publisher": "Alzheimers Res Ther",
-      "resumen": "Apolipoprotein E (APOE) ɛ4 and low cerebrospinal fluid (CSF) amyloid-β42 (Aβ42) levels are predictors for developing Alzheimer's disease (AD). The results of several studies indicate an interaction between docosahexaenoic acid (DHA) consumption and cognitive outcomes by APOE genotype. Our objective in the present study was to examine whether APOE ɛ4 genotype and low CSF Aβ42 levels were associated with reduced delivery of DHA to CSF in the Alzheimer's Disease Cooperative Study-sponsored DHA clinical trial."
-    },
-    {
-      "paper_name": "Genetic Variants of the FADS Gene Cluster Are Associated with Erythrocyte Membrane LC PUFA Levels in Patients with Mild Cognitive Impairment.",
-      "paper_year": "2016",
-      "paper_authors": "Schuchardt JP, Köbe T, Witte V, Willers J, Gingrich A, Tesky V, Pantel J, Rujescu D, Illig T, Flöel A, Hahn A",
-      "journal": "The journal of nutrition, health & aging..",
-      "publisher": "J Nutr Health Aging",
-      "resumen": "Long-chain (> 20 C-atoms) polyunsaturated fatty acids (LC PUFAs) of both the omega-6 (n-6) and omega-3 (n-3) series are important for the functional integrity of brain and thereby cognition, memory and mood. Clinical studies observed associations between altered LC PUFA levels and neurodegenerative diseases such as Alzheimer´s disease and its prodromal stage, mild cognitive impairment (MCI)."
-    },
-    {
-      "paper_name": "Impact of Omega-3 Fatty Acid Supplementation on Memory Functions in Healthy Older Adults.",
-      "paper_year": "2016",
-      "paper_authors": "Külzow N, Witte AV, Kerti L, Grittner U, Schuchardt JP, Hahn A, Flöel A",
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "publisher": "J Alzheimers Dis",
-      "resumen": "As the process of Alzheimer's disease (AD) begins years before disease onset, searching for prevention strategies is of major medical and economic importance. Nutritional supplementation with long-chain polyunsaturated omega-3 fatty acids (LC-n3-FA) may exert beneficial effects on brain structure and function. However, experimental evidence in older adults without clinical dementia is inconsistent, possibly due to low sensitivity of previously employed test batteries for detecting subtle improvements in cognition in healthy individuals. Here we used LOCATO, recently described as a robust and sensitive tool for assessing object-location memory (OLM) in older adults, to evaluate the impact of LC-n3-FA supplementation on learning and memory formation. In a double-blind placebo-controlled proof-of-concept study, 44 (20 female) cognitively healthy individuals aged 50-75 years received either LC-n3-FA (2,200 mg/day, n = 22) or placebo (n = 22) for 26 weeks. Before and after intervention, memory performance in the OLM-task (primary) was tested. As secondary outcome parameters, performance in Rey Auditory Verbal Learning Test (AVLT), dietary habits, omega-3-index, and other blood-derived parameters were assessed. Omega-3 index increased significantly in the LC-n3-FA group compared with the placebo group. Moreover, recall of object locations was significantly better after LC-n3-FA supplementation compared with placebo. Performance in the AVLT was not significantly affected by LC-n3-FA. This double-blind placebo-controlled proof-of-concept study provides further experimental evidence that LC-n3-FA exert positive effects on memory functions in healthy older adults. Our findings suggest novel strategies to maintain cognitive functions into old age."
-    },
-    {
-      "paper_name": "Omega-3 Fatty Acid Status Enhances the Prevention of Cognitive Decline by B Vitamins in Mild Cognitive Impairment.",
-      "paper_year": "2016",
-      "paper_authors": "Oulhaj A, Jernerén F, Refsum H, Smith AD, de Jager CA",
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "publisher": "J Alzheimers Dis",
-      "resumen": "A randomized trial (VITACOG) in people with mild cognitive impairment (MCI) found that B vitamin treatment to lower homocysteine slowed the rate of cognitive and clinical decline. We have used data from this trial to see whether baseline omega-3 fatty acid status interacts with the effects of B vitamin treatment. 266 participants with MCI aged ≥70 years were randomized to B vitamins (folic acid, vitamins B6 and B12) or placebo for 2 years. Baseline cognitive test performance, clinical dementia rating (CDR) scale, and plasma concentrations of total homocysteine, total docosahexaenoic and eicosapentaenoic acids (omega-3 fatty acids) were measured. Final scores for verbal delayed recall, global cognition, and CDR sum-of-boxes were better in the B vitamin-treated group according to increasing baseline concentrations of omega-3 fatty acids, whereas scores in the placebo group were similar across these concentrations. Among those with good omega-3 status, 33% of those on B vitamin treatment had global CDR scores >0 compared with 59% among those on placebo. For all three outcome measures, higher concentrations of docosahexaenoic acid alone significantly enhanced the cognitive effects of B vitamins, while eicosapentaenoic acid appeared less effective. When omega-3 fatty acid concentrations are low, B vitamin treatment has no effect on cognitive decline in MCI, but when omega-3 levels are in the upper normal range, B vitamins interact to slow cognitive decline. A clinical trial of B vitamins combined with omega-3 fatty acids is needed to see whether it is possible to slow the conversion from MCI to AD."
-    },
-    {
-      "paper_name": "No Effect of Omega-3 Fatty Acid Supplementation on Cognition and Mood in Individuals with Cognitive Impairment and Probable Alzheimer's Disease: A Randomised Controlled Trial.",
-      "paper_year": "2015",
-      "paper_authors": "Phillips MA, Childs CE, Calder PC, Rogers PJ",
-      "journal": "International journal of molecular sciences",
-      "publisher": "Int J Mol Sci",
-      "resumen": "Findings from epidemiological and observational studies have indicated that diets high in omega-3 polyunsaturated fatty acids (PUFAs) such as docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA) may reduce the risk of cognitive decline and Alzheimer's disease (AD). To determine if increasing intake of DHA and EPA through supplementation is beneficial to cognition and mood in individuals with cognitive impairment no dementia (CIND) or Alzheimer's disease (AD) a four month, randomised, double-blind, placebo controlled study was conducted. Fifty-seven participants with CIND and nineteen with AD were randomised to receive either omega-3 PUFAs (600 mg EPA and 625 mg DHA per day) or placebo (olive oil) over a four month period. Elevating depleted levels of EPA and DHA through supplementation in individuals with CIND or AD was found to have negligible beneficial effect on their cognition or mood. These findings confirm an overall negligible benefit of omega-3 PUFA supplementation for those with cognitive impairment and dementia. More intervention studies need to be undertaken with longer study durations and larger sample sizes. It may prove fruitful to examine effects of different doses as well as effects in other dementia subtypes."
-    },
-    {
-      "paper_name": "Combined omega-3 fatty acids, aerobic exercise and cognitive stimulation prevents decline in gray matter volume of the frontal, parietal and cingulate cortex in patients with mild cognitive impairment.",
-      "paper_year": "2016",
-      "paper_authors": "Köbe T, Witte AV, Schnelle A, Lesemann A, Fabian S, Tesky VA, Pantel J, Flöel A",
-      "journal": "NeuroImage",
-      "publisher": "Neuroimage",
-      "resumen": "Previous studies in older adults suggested beneficial effects of omega-3 fatty acid (FA) supplementation, aerobic exercise, or cognitive stimulation on brain structure and function. However, combined effects of these interventions in patients suffering from mild cognitive impairment (MCI) are unknown. Using a randomized interventional design, we evaluated the effect of combined omega-3 FA supplementation, aerobic exercise and cognitive stimulation (target intervention) versus omega-3 FA supplementation and non-aerobic exercise (control intervention) on cognitive function and gray matter volume in patients with MCI. Moreover, we analyzed potential vascular, metabolic or inflammatory mechanisms underlying these effects. Twenty-two MCI patients (8 females; 60-80years) successfully completed six months of omega-3 FA intake, aerobic cycling training and cognitive stimulation (n=13) or omega-3 FA intake and non-aerobic stretching and toning (n=9). Before and after the interventions, cognitive performance, magnetic resonance imaging of the brain at 3T (n=20), intima-media thickness of the internal carotid artery and serum markers of glucose control, lipid and B-vitamin metabolism, and inflammation were assessed. Intervention-related changes in gray matter volume of Alzheimer's disease (AD)-related brain regions, i.e., frontal, parietal, temporal and cingulate cortex were examined using voxel-based morphometry of high resolution T1-weighted images. After the intervention period, significant differences emerged in brain structure between groups: Gray matter volume decreased in the frontal, parietal and cingulate cortex of patients in the control intervention, while gray matter volume in these areas was preserved or even increased after the target intervention. Decreases in homocysteine levels in the target intervention group were associated with increases in gray matter volume in the middle frontal cortex (p=0.010). No significant differences in cognitive performance or other vascular, metabolic and inflammatory parameters were observed between groups. This pilot study provides preliminary evidence that omega-3 FA intake combined with aerobic exercise and cognitive stimulation prevents atrophy in AD-related brain regions in MCI patients, compared to omega-3 FA intake plus the control condition of stretching and toning. These promising findings should now be validated in a larger interventional trial."
-    },
-    {
-      "paper_name": "Plasma Fatty Acid Profiles in Relation to Cognition and Gender in Alzheimer's Disease Patients During Oral Omega-3 Fatty Acid Supplementation: The OmegAD Study.",
-      "paper_year": "2015",
-      "paper_authors": "Eriksdotter M, Vedin I, Falahati F, Freund-Levi Y, Hjorth E, Faxen-Irving G, Wahlund LO, Schultzberg M, Basun H, Cederholm T, Palmblad J",
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "publisher": "J Alzheimers Dis",
-      "resumen": "ω3 fatty acids (ω3 FAs) may slow the rate of decline in cognitive performance in mild forms of cognitive impairment and Alzheimer's disease (AD). However, the relationship between changes of plasma ω3 FA levels and cognitive performance, as well as effects of gender, are poorly known."
-    },
-    {
-      "paper_name": "Effect of Omega-3 Fatty Acids, Lutein/Zeaxanthin, or Other Nutrient Supplementation on Cognitive Function: The AREDS2 Randomized Clinical Trial.",
-      "paper_year": "2015",
-      "paper_authors": "Chew EY, Clemons TE, Agrón E, Launer LJ, Grodstein F, Bernstein PS",
-      "journal": "JAMA",
-      "publisher": "JAMA",
-      "resumen": "Observational data have suggested that high dietary intake of saturated fat and low intake of vegetables may be associated with increased risk of Alzheimer disease."
-    },
-    {
-      "paper_name": "Brain atrophy in cognitively impaired elderly: the importance of long-chain ω-3 fatty acids and B vitamin status in a randomized controlled trial.",
-      "paper_year": "2015",
-      "paper_authors": "Jernerén F, Elshorbagy AK, Oulhaj A, Smith SM, Refsum H, Smith AD",
-      "journal": "The American journal of clinical nutrition",
-      "publisher": "Am J Clin Nutr",
-      "resumen": "Increased brain atrophy rates are common in older people with cognitive impairment, particularly in those who eventually convert to Alzheimer disease. Plasma concentrations of omega-3 (ω-3) fatty acids and homocysteine are associated with the development of brain atrophy and dementia."
-    },
-    {
-      "paper_name": "Effects of n-3 FA supplementation on the release of proresolving lipid mediators by blood mononuclear cells: the OmegAD study.",
-      "paper_year": "2015",
-      "paper_authors": "Wang X, Hjorth E, Vedin I, Eriksdotter M, Freund-Levi Y, Wahlund LO, Cederholm T, Palmblad J, Schultzberg M",
-      "journal": "Journal of lipid research",
-      "publisher": "J Lipid Res",
-      "resumen": "Specialized proresolving mediators (SPMs) induce resolution of inflammation. SPMs are derivatives of n-3 and n-6 PUFAs and may mediate their beneficial effects. It is unknown whether supplementation with PUFAs influences the production of SPMs. Alzheimer's disease (AD) is associated with brain inflammation and reduced levels of SPMs. The OmegAD study is a randomized, double-blind, and placebo-controlled clinical trial on AD patients, in which placebo or a supplement of 1.7 g DHA and 0.6 g EPA was taken daily for 6 months. Plasma levels of arachidonic acid decreased, and DHA and EPA levels increased after 6 months of n-3 FA treatment. Peripheral blood mononuclear cells (PBMCs) were obtained before and after the trial. Analysis of the culture medium of PBMCs incubated with amyloid-β 1-40 showed unchanged levels of the SPMs lipoxin A4 and resolvin D1 in the group supplemented with n-3 FAs, whereas a decrease was seen in the placebo group. The changes in SPMs showed correspondence to cognitive changes. Changes in the levels of SPMs were positively correlated to changes in transthyretin. We conclude that supplementation with n-3 PUFAs for 6 months prevented a reduction in SPMs released from PBMCs of AD patients, which was associated with changes in cognitive function."
-    },
-    {
-      "paper_name": "Souvenaid reduces behavioral deficits and improves social cognition skills in frontotemporal dementia: a proof-of-concept study.",
-      "paper_year": "2015",
-      "paper_authors": "Pardini M, Serrati C, Guida S, Mattei C, Abate L, Massucco D, Sassos D, Amore M, Krueger F, Cocito L, Emberti Gialloreti L",
-      "journal": "Neuro-degenerative diseases",
-      "publisher": "Neurodegener Dis",
-      "resumen": "Souvenaid™ is a nutraceutical compound thought to positively enhance synaptic function. In line with this mechanism of action, Souvenaid™ has been shown to improve cognitive function in subjects with mild Alzheimer's disease in randomized clinical trials. To date, however, the potential of Souvenaid™ to improve cognitive functioning in subjects with other neurodegenerative conditions also characterized by synaptic loss has not been explored."
-    },
-    {
-      "paper_name": "Tolerability and safety of Souvenaid in patients with mild Alzheimer's disease: results of multi-center, 24-week, open-label extension study.",
-      "paper_year": "2015",
-      "paper_authors": "Olde Rikkert MG, Verhey FR, Blesa R, von Arnim CA, Bongers A, Harrison J, Sijben J, Scarpini E, Vandewoude MF, Vellas B, Witkamp R, Kamphuis PJ, Scheltens P",
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "publisher": "J Alzheimers Dis",
-      "resumen": "The medical food Souvenaid, containing the specific nutrient combination Fortasyn Connect, is designed to improve synapse formation and function in patients with Alzheimer's disease (AD). Two double-blind randomized controlled trials (RCT) with Souvenaid of 12 and 24 week duration (Souvenir I and Souvenir II) showed that memory performance was improved in drug-naïve mild AD patients, whereas no effects on cognition were observed in a 24-week RCT (S-Connect) in mild to moderate AD patients using AD medication. Souvenaid was well-tolerated in all RCTs."
-    },
-    {
-      "paper_name": "Effects of supplementation with omega-3 fatty acids on oxidative stress and inflammation in patients with Alzheimer's disease: the OmegAD study.",
-      "paper_year": "2014",
-      "paper_authors": "Freund-Levi Y, Vedin I, Hjorth E, Basun H, Faxén Irving G, Schultzberg M, Eriksdotter M, Palmblad J, Vessby B, Wahlund LO, Cederholm T, Basu S",
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "publisher": "J Alzheimers Dis",
-      "resumen": "Oxidative stress and inflammation are two key mechanisms suggested to be involved in the pathogenesis of Alzheimer's disease (AD). Omega-3 fatty acids (ω-3 FAs) found in fish and fish oil have several biological properties that may be beneficial in AD. However, they may also auto-oxidize and induce in vivo lipid peroxidation."
-    },
-    {
-      "paper_name": "The effect of souvenaid on functional brain network organisation in patients with mild Alzheimer's disease: a randomised controlled study.",
-      "paper_year": "2014",
-      "paper_authors": "de Waal H, Stam CJ, Lansbergen MM, Wieggers RL, Kamphuis PJ, Scheltens P, Maestú F, van Straaten EC",
-      "journal": "PloS one",
-      "publisher": "PLoS One",
-      "resumen": "Synaptic loss is a major hallmark of Alzheimer's disease (AD). Disturbed organisation of large-scale functional brain networks in AD might reflect synaptic loss and disrupted neuronal communication. The medical food Souvenaid, containing the specific nutrient combination Fortasyn Connect, is designed to enhance synapse formation and function and has been shown to improve memory performance in patients with mild AD in two randomised controlled trials."
-    },
-    {
-      "paper_name": "Transfer of omega-3 fatty acids across the blood-brain barrier after dietary supplementation with a docosahexaenoic acid-rich omega-3 fatty acid preparation in patients with Alzheimer's disease: the OmegAD study.",
-      "paper_year": "2014",
-      "paper_authors": "Freund Levi Y, Vedin I, Cederholm T, Basun H, Faxén Irving G, Eriksdotter M, Hjorth E, Schultzberg M, Vessby B, Wahlund LO, Salem N, Palmblad J",
-      "journal": "Journal of internal medicine",
-      "publisher": "J Intern Med",
-      "resumen": "Little is known about the transfer of essential fatty acids (FAs) across the human blood-brain barrier (BBB) in adulthood. In this study, we investigated whether oral supplementation with omega-3 (n-3) FAs would change the FA profile of the cerebrospinal fluid (CSF)."
+      "paper_authors": "Giudici KV, de Souto Barreto P, Beard J, Cantet C, Araujo de Carvalho I, Rolland Y, Vellas B",
+      "journal": "Maturitas",
+      "publisher": "Maturitas",
+      "resumen": "To investigate the effect of omega-3 (ω-3) polyunsaturated fatty acid supplementation and a multidomain intervention (MI) (physical activity counselling, cognitive training and nutritional advice) among community-dwelling older adults on levels of intrinsic capacity (IC), a construct recently proposed by the World Health Organization."
     },
     {
       "paper_name": "A randomized placebo-controlled pilot trial of omega-3 fatty acids and alpha lipoic acid in Alzheimer's disease.",
@@ -587,100 +99,108 @@
       "resumen": "Oxidative stress, inflammation, and increased cholesterol levels are all mechanisms that have been associated with Alzheimer's disease (AD) pathology. Several epidemiologic studies have reported a decreased risk of AD with fish consumption. This pilot study was designed to evaluate the effects of supplementation with omega-3 fatty acids alone (ω-3) or omega-3 plus alpha lipoic acid (ω-3 + LA) compared to placebo on oxidative stress biomarkers in AD. The primary outcome measure was peripheral F2-isoprostane levels (oxidative stress measure). Secondary outcome measures included performance on: Mini-Mental State Examination (MMSE), Activities of Daily Living/Instrumental Activities of Daily Living (ADL/IADL), and Alzheimer Disease Assessment Scale-cognitive subscale (ADAS-cog). Thirty-nine AD subjects were randomized to one of three groups: 1) placebo, 2) ω-3, or 3) ω-3 + LA for a treatment duration of 12 months. Eighty seven percent (34/39) of the subjects completed the 12-month intervention. There was no difference between groups at 12 months in peripheral F2-isoprostane levels (p = 0.83). The ω-3 + LA and ω-3 were not significantly different than the placebo group in ADAS-cog (p = 0.98, p = 0.86) and in ADL (p = 0.15, p = 0.82). Compared to placebo, the ω-3 + LA showed less decline in MMSE (p < 0.01) and IADL (p = 0.01) and the ω-3 group showed less decline in IADL (p < 0.01). The combination of ω-3 + LA slowed cognitive and functional decline in AD over 12 months. Because the results were generated from a small sample size, further evaluation of the combination of omega-3 fatty acids plus alpha-lipoic acid as a potential treatment in AD is warranted."
     },
     {
-      "paper_name": "Effects on transthyretin in plasma and cerebrospinal fluid by DHA-rich n - 3 fatty acid supplementation in patients with Alzheimer's disease: the OmegAD study.",
-      "paper_year": "2013",
-      "paper_authors": "Faxén-Irving G, Freund-Levi Y, Eriksdotter-Jönhagen M, Basun H, Hjorth E, Palmblad J, Vedin I, Cederholm T, Wahlund LO",
+      "paper_name": "Cognitive impact of multidomain intervention and omega 3 according to blood Aβ42/40 ratio: a subgroup analysis from the randomized MAPT trial.",
+      "paper_year": "2023",
+      "paper_authors": "Delrieu J, Vellas B, Guyonnet S, Cantet C, Ovod V, Li Y, Bollinger J, Bateman R, Andrieu S",
+      "journal": "Alzheimer's research & therapy",
+      "publisher": "Alzheimers Res Ther",
+      "resumen": "In MAPT (Multidomain Alzheimer Preventive Trial), a cognitive effect of multidomain intervention (MI) was showed in non-demented subjects with positive amyloid PET. However, screening eligible patients for multidomain intervention by PET is difficult to generalize in real-world settings."
+    },
+    {
+      "paper_name": "Effects of a 6-Month Multifaceted Diet and Exercise Intervention on Cognition in Older Adults at Risk of Cognitive Decline: The PONDER Double-Blind, Placebo-Controlled Randomized Trial.",
+      "paper_year": "2022",
+      "paper_authors": "Macpherson H, Brownell S, Harris E, Duckham RL, O'Connell S, Meyer BJ, Mirzaee S, Daly RM",
       "journal": "Journal of Alzheimer's disease : JAD",
       "publisher": "J Alzheimers Dis",
-      "resumen": "Transthyretin (TTR) binds amyloid-β (Aβ) and may reduce brain Aβ, a pathological feature in Alzheimer's disease (AD). N - 3 fatty acids (FA), docosahexaenoic (DHA), and eicosapentaenoic acid (EPA) may increase TTR transcription in rat hippocampus. We studied effects of n - 3 FA supplementation on TTR-levels in patients with AD. Outpatients were randomized to receive 1.7 g DHA and 0.6 g EPA (n - 3/n - 3 group) or placebo (placebo/n - 3 group) during 6 months. After 6 months, all patients received n - 3 FA for another 6 months. TTR and FA were measured in plasma in all subjects, whereas TTR in cerebrospinal fluid (CSF) was measured in a subgroup. The study was completed by 89 patients in the n - 3/n - 3 group (75 y, 57% w) and 85 in the placebo/n - 3 group (75 y, 46% w). Baseline plasma-TTR was within normal range in both groups. After 6 months, plasma-TTR decreased in the placebo/n - 3 group (p < 0.001 within and p < 0.015 between the groups). No changes were observed in CSF TTR. From 6 to 12 months when both groups were supplemented, plasma-TTR increased significantly in both groups. Repeated measures ANOVA indicated an increase in TTR over time (p = 0.04) in those receiving n - 3 FA for 12 months. By linear regression analyses, n - 3 FA treatment was independently associated with increased plasma-TTR at 6 months (β = -0.172, p = 0.028). Thus, n - 3 FA treatment appeared to increase plasma-TTR in patients with AD. Since TTR may influence Aβ deposition in the brain, the results warrant further exploration."
+      "resumen": "Multidomain interventions which incorporate exercise and dietary supplementation to target both cognitive and physical health domains may be an important approach to delay cognitive decline."
     },
     {
-      "paper_name": "Effects of DHA-phospholipids, melatonin and tryptophan supplementation on erythrocyte membrane physico-chemical properties in elderly patients suffering from mild cognitive impairment.",
-      "paper_year": "2012",
-      "paper_authors": "Cazzola R, Rondanelli M, Faliva M, Cestaro B",
-      "journal": "Experimental gerontology",
-      "publisher": "Exp Gerontol",
-      "resumen": "A randomized, double-blind placebo-controlled clinical trial was carried out to assess the efficacy of a docosahexenoic acid (DHA)-phospholipids, melatonin and tryptophan supplemented diet in improving the erythrocyte oxidative stress, membrane fluidity and membrane-bound enzyme activities of elderly subjects suffering from mild cognitive impairment (MCI). These subjects were randomly assigned to the supplement group (11 subjects, 9F and 2M; age 85.3±5.3y) or placebo group (14-matched subjects, 11F and 3M; 86.1±6.5). The duration of the treatment was 12weeks. The placebo group showed no significant changes in erythrocyte membrane composition and function. The erythrocyte membranes of the supplement group showed a significant increase in eicosapentenoic acid, docosapentenoic acid and DHA concentrations and a significant decrease in arachidonic acid, malondialdehyde and lipofuscin levels. These changes in membrane composition resulted in an increase in the unsaturation index, membrane fluidity and acetylcholine esterase activity. Moreover, a significant increase in the ratio between reduced and oxidized glutathione was observed in the erythrocyte of the supplement group. Although this study is a preliminary investigation, we believe these findings to be of great speculative and interpretative interest to better understand the complex and multi-factorial mechanisms behind the possible links between diets, their functional components and possible molecular processes that contribute to increasing the risk of developing MCI and Alzheimer's."
-    },
-    {
-      "paper_name": "Docosahexaenoic acid-concentrated fish oil supplementation in subjects with mild cognitive impairment (MCI): a 12-month randomised, double-blind, placebo-controlled trial.",
-      "paper_year": "2013",
-      "paper_authors": "Lee LK, Shahar S, Chin AV, Yusoff NA",
-      "journal": "Psychopharmacology",
-      "publisher": "Psychopharmacology (Berl)",
-      "resumen": "Epidemiological studies have suggested a beneficial effect of fish oil supplementation in halting the initial progression of Alzheimer's disease. However, it remains unclear whether fish oil affects cognitive function in older people with mild cognitive impairment (MCI)."
-    },
-    {
-      "paper_name": "Efficacy of Souvenaid in mild Alzheimer's disease: results from a randomized, controlled trial.",
-      "paper_year": "2012",
-      "paper_authors": "Scheltens P, Twisk JW, Blesa R, Scarpini E, von Arnim CA, Bongers A, Harrison J, Swinkels SH, Stam CJ, de Waal H, Wurtman RJ, Wieggers RL, Vellas B, Kamphuis PJ",
+      "paper_name": "Effects of Peroral Omega-3 Fatty Acid Supplementation on Cerebrospinal Fluid Biomarkers in Patients with Alzheimer's Disease: A Randomized Controlled Trial-The OmegAD Study.",
+      "paper_year": "2021",
+      "paper_authors": "Tofiq A, Zetterberg H, Blennow K, Basun H, Cederholm T, Eriksdotter M, Faxén-Irving G, Hjorth E, Jernerén F, Schultzberg M, Wahlund LO, Palmblad J, Freund-Levi Y",
       "journal": "Journal of Alzheimer's disease : JAD",
       "publisher": "J Alzheimers Dis",
-      "resumen": "Souvenaid aims to improve synapse formation and function. An earlier study in patients with Alzheimer's disease (AD) showed that Souvenaid increased memory performance after 12 weeks in drug-naïve patients with mild AD. The Souvenir II study was a 24-week, randomized, controlled, double-blind, parallel-group, multi-country trial to confirm and extend previous findings in drug-naïve patients with mild AD. Patients were randomized 1:1 to receive Souvenaid or an iso-caloric control product once daily for 24 weeks. The primary outcome was the memory function domain Z-score of the Neuropsychological Test Battery (NTB) over 24 weeks. Electroencephalography (EEG) measures served as secondary outcomes as marker for synaptic connectivity. Assessments were done at baseline, 12, and 24 weeks. The NTB memory domain Z-score was significantly increased in the active versus the control group over the 24-week intervention period (p = 0.023; Cohen's d = 0.21; 95% confidence interval [-0.06]-[0.49]). A trend for an effect was observed on the NTB total composite z-score (p = 0.053). EEG measures of functional connectivity in the delta band were significantly different between study groups during 24 weeks in favor of the active group. Compliance was very high (96.6% [control] and 97.1% [active]). No difference between study groups in the occurrence of (serious) adverse events. This study demonstrates that Souvenaid is well tolerated and improves memory performance in drug-naïve patients with mild AD. EEG outcomes suggest that Souvenaid has an effect on brain functional connectivity, supporting the underlying hypothesis of changed synaptic activity."
+      "resumen": "Studies have suggested a connection between a decrease in the levels of polyunsaturated fatty acids (PUFAs) and Alzheimer's disease (AD). We aimed to assess the effect of supplementation with omega-3 fatty acids (n-3 FAs) on biomarkers analyzed in the cerebrospinal fluid (CSF) of patients diagnosed with AD."
     },
     {
-      "paper_name": "Effects of DHA-rich n-3 fatty acid supplementation on gene expression in blood mononuclear leukocytes: the OmegAD study.",
-      "paper_year": "2012",
-      "paper_authors": "Vedin I, Cederholm T, Freund-Levi Y, Basun H, Garlind A, Irving GF, Eriksdotter-Jönhagen M, Wahlund LO, Dahlman I, Palmblad J",
-      "journal": "PloS one",
-      "publisher": "PLoS One",
-      "resumen": "Dietary fish oil, rich in n-3 fatty acids (n-3 FAs), e.g. docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA), regulate inflammatory reactions by various mechanisms, e.g. gene activation. However, the effects of long-term treatment with DHA and EPA in humans, using genome wide techniques, are poorly described. Hence, our aim was to determine the effects of 6 mo of dietary supplementation with an n-3 FA preparation rich in DHA on global gene expression in peripheral blood mononuclear cells."
+      "paper_name": "Brain atrophy in cognitively impaired elderly: the importance of long-chain ω-3 fatty acids and B vitamin status in a randomized controlled trial.",
+      "paper_year": "2015",
+      "paper_authors": "Jernerén F, Elshorbagy AK, Oulhaj A, Smith SM, Refsum H, Smith AD",
+      "journal": "The American journal of clinical nutrition",
+      "publisher": "Am J Clin Nutr",
+      "resumen": "Increased brain atrophy rates are common in older people with cognitive impairment, particularly in those who eventually convert to Alzheimer disease. Plasma concentrations of omega-3 (ω-3) fatty acids and homocysteine are associated with the development of brain atrophy and dementia."
     },
     {
-      "paper_name": "Effects of n-3 fatty acids on cognitive decline: a randomized, double-blind, placebo-controlled trial in stable myocardial infarction patients.",
-      "paper_year": "2012",
-      "paper_authors": "Geleijnse JM, Giltay EJ, Kromhout D",
-      "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
-      "publisher": "Alzheimers Dement",
-      "resumen": "Epidemiological studies suggest a protective effect of n-3 fatty acids derived from fish (eicosapentaenoic acid [EPA] and docosahexaenoic acid [DHA]) against cognitive decline. For α-linolenic acid (ALA) obtained from vegetable sources, the effect on cognitive decline is unknown. We examined the effect of n-3 fatty acid supplementation on cognitive decline in coronary heart disease patients."
+      "paper_name": "Effects of Omega-3 Fatty Acids on Resting Cerebral Perfusion in Patients with Mild Cognitive Impairment: A Randomized Controlled Trial.",
+      "paper_year": "2018",
+      "paper_authors": "Schwarz C, Wirth M, Gerischer L, Grittner U, Witte AV, Köbe T, Flöel A",
+      "journal": "The journal of prevention of Alzheimer's disease..",
+      "publisher": "J Prev Alzheimers Dis",
+      "resumen": "Alteration of cerebral perfusion can be considered as a possible therapeutic target in mild cognitive impairment. This randomized, placebo-controlled, double-blind proof-of-concept study assessed effects of omega-3 fatty acids on cerebral perfusion in patients with mild cognitive impairment. In thirteen patients (omega:n=5; placebo:n=8) cerebral perfusion was measured before and after 26-weeks intervention within posterior cortical regions using magnetic resonance imaging. There was a medium effect of intervention on cerebral blood flow (η2=0.122) and blood volume (η2=0.098). The omega group showed an increase in blood flow (mean difference: 0.02 [corresponds to 26.1%], 95% confidence interval:0.00-0.05) and blood volume (mean difference: 0.08 [corresponds to 18.5%], 95% confidence interval:0.01-0.15), which was not observed in the placebo group. These preliminary findings suggest that omega-3 fatty acids supplementation may improve perfusion in cerebral regions typically affected in mild cognitive impairment.Regulation of perfusion may help to maintain brain structure and function and potentially delay conversion to dementia."
     },
     {
-      "paper_name": "Docosahexaenoic acid supplementation and cognitive decline in Alzheimer disease: a randomized trial.",
-      "paper_year": "2010",
-      "paper_authors": "Quinn JF, Raman R, Thomas RG, Yurko-Mauro K, Nelson EB, Van Dyck C, Galvin JE, Emond J, Jack CR, Weiner M, Shinto L, Aisen PS",
-      "journal": "JAMA",
-      "publisher": "JAMA",
-      "resumen": "Docosahexaenoic acid (DHA) is the most abundant long-chain polyunsaturated fatty acid in the brain. Epidemiological studies suggest that consumption of DHA is associated with a reduced incidence of Alzheimer disease. Animal studies demonstrate that oral intake of DHA reduces Alzheimer-like brain pathology."
-    },
-    {
-      "paper_name": "Beneficial effects of docosahexaenoic acid on cognition in age-related cognitive decline.",
-      "paper_year": "2010",
-      "paper_authors": "Yurko-Mauro K, McCarthy D, Rom D, Nelson EB, Ryan AS, Blackwell A, Salem N, Stedman M",
-      "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
-      "publisher": "Alzheimers Dement",
-      "resumen": "Docosahexaenoic acid (DHA) plays an important role in neural function. Decreases in plasma DHA are associated with cognitive decline in healthy elderly adults and in patients with Alzheimer's disease. Higher DHA intake is inversely correlated with relative risk of Alzheimer's disease. The potential benefits of DHA supplementation in age-related cognitive decline (ARCD) have not been fully examined."
-    },
-    {
-      "paper_name": "Reduced prostaglandin F2 alpha release from blood mononuclear leukocytes after oral supplementation of omega3 fatty acids: the OmegAD study.",
-      "paper_year": "2010",
-      "paper_authors": "Vedin I, Cederholm T, Freund-Levi Y, Basun H, Hjorth E, Irving GF, Eriksdotter-Jönhagen M, Schultzberg M, Wahlund LO, Palmblad J",
-      "journal": "Journal of lipid research",
-      "publisher": "J Lipid Res",
-      "resumen": "Omega-3 fatty acids, e.g., dokosahexaenoic acid (DHA) and eikosapentaenoic acid (EPA), ameliorate inflammatory reactions by various mechanisms, but the role of prostaglandins remains unclear. Our aim was to determine if dietary supplementation with a DHA-rich fish oil influenced the release of PGF(2alpha) from peripheral blood mononuclear cells (PBMC). In the OmegAD study, 174 Alzheimer disease patients received either 1.7 g DHA plus 0.6 g EPA or a placebo daily for six months. PBMCs from the 21 (9 on fish oil and 12 on placebo) first-randomized patients were stimulated with either lipopolysaccharide (LPS) or phytohemagglutinin (PHA) before and after 6 months. Our results showed that plasma concentrations of DHA and EPA increased significantly at 6 months in the omega-3 group. PGF(2alpha) release from LPS- (but not from PHA-) stimulated PBMC was significantly diminished in this group; no change was noted in the placebo group. PGF(2alpha) changes correlated inversely with changes in plasma DHA and EPA. Decreased IL-6 and IL-1(beta) levels correlated with decreased PGF(2alpha) levels. The stimulus-specific PGF(2alpha) release from PBMC after 6 months of oral supplementation with the DHA-rich fish oil might be one event related to reduced inflammatory reactions associated with omega-3 fatty acid intake."
-    },
-    {
-      "paper_name": "Effects of omega-3 fatty acids on inflammatory markers in cerebrospinal fluid and plasma in Alzheimer's disease: the OmegAD study.",
-      "paper_year": "2009",
-      "paper_authors": "Freund-Levi Y, Hjorth E, Lindberg C, Cederholm T, Faxen-Irving G, Vedin I, Palmblad J, Wahlund LO, Schultzberg M, Basun H, Eriksdotter Jönhagen M",
-      "journal": "Dementia and geriatric cognitive disorders",
-      "publisher": "Dement Geriatr Cogn Disord",
-      "resumen": "omega-3 fatty acids (omega-3 FAs) found in dietary fish or fish oils are anti-inflammatory agents that may influence Alzheimer's disease (AD)."
-    },
-    {
-      "paper_name": "Commentary on \"A roadmap for the prevention of dementia II. Leon Thal Symposium 2008.\" The Multidomain Alzheimer Preventive Trial (MAPT): a new approach to the prevention of Alzheimer's disease.",
-      "paper_year": "2009",
-      "paper_authors": "Gillette-Guyonnet S, Andrieu S, Dantoine T, Dartigues JF, Touchon J, Vellas B",
-      "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
-      "publisher": "Alzheimers Dement",
-      "resumen": "Because no effective curative approaches are available, preventive approaches in the field of Alzheimer's disease (AD) are needed. We present the design of the ongoing Multidomain Alzheimer Preventive Trial (MAPT) Study. Several previous studies suggested that many factors may be involved in the occurrence of AD at late ages. Because of the probable multifactorial nature of AD, it seems logical to initiate multidomain interventions to examine their potential synergistic effects. The MAPT Study aims to evaluate the efficacy of a multidomain intervention (nutritional, physical, and cognitive training) and omega 3 treatment in the prevention of cognitive decline in frail elderly persons aged 70 years or over. The study also collects imaging and biological data that could be used in future AD prevention and treatment trials."
-    },
-    {
-      "paper_name": "Omega-3 fatty acid supplementation effects on weight and appetite in patients with Alzheimer's disease: the omega-3 Alzheimer's disease study.",
-      "paper_year": "2009",
-      "paper_authors": "Irving GF, Freund-Levi Y, Eriksdotter-Jönhagen M, Basun H, Brismar K, Hjorth E, Palmblad J, Vessby B, Vedin I, Wahlund LO, Cederholm T",
+      "paper_name": "Association of 3-Year Multidomain Intervention and Omega-3 Supplementation with Frailty Incidence.",
+      "paper_year": "2019",
+      "paper_authors": "Guerville F, de Souto Barreto P, Giudici KV, Rolland Y, Vellas B",
       "journal": "Journal of the American Geriatrics Society",
       "publisher": "J Am Geriatr Soc",
-      "resumen": "To study the effects of omega (Omega)-3 fatty acid (FA) supplements on weight and appetite in patients with mild to moderate Alzheimer's disease (AD) in relation to inflammatory biomarkers and apolipoprotein E epsilon4 (APOEepsilon4)."
+      "resumen": "To assess the associations of long-term lifestyle multidomain intervention (MI) and omega-3 supplementation with frailty level evolution and frailty incidence in community-dwelling older persons."
+    },
+    {
+      "paper_name": "No Effect of Omega-3 Fatty Acid Supplementation on Cognition and Mood in Individuals with Cognitive Impairment and Probable Alzheimer's Disease: A Randomised Controlled Trial.",
+      "paper_year": "2015",
+      "paper_authors": "Phillips MA, Childs CE, Calder PC, Rogers PJ",
+      "journal": "International journal of molecular sciences",
+      "publisher": "Int J Mol Sci",
+      "resumen": "Findings from epidemiological and observational studies have indicated that diets high in omega-3 polyunsaturated fatty acids (PUFAs) such as docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA) may reduce the risk of cognitive decline and Alzheimer's disease (AD). To determine if increasing intake of DHA and EPA through supplementation is beneficial to cognition and mood in individuals with cognitive impairment no dementia (CIND) or Alzheimer's disease (AD) a four month, randomised, double-blind, placebo controlled study was conducted. Fifty-seven participants with CIND and nineteen with AD were randomised to receive either omega-3 PUFAs (600 mg EPA and 625 mg DHA per day) or placebo (olive oil) over a four month period. Elevating depleted levels of EPA and DHA through supplementation in individuals with CIND or AD was found to have negligible beneficial effect on their cognition or mood. These findings confirm an overall negligible benefit of omega-3 PUFA supplementation for those with cognitive impairment and dementia. More intervention studies need to be undertaken with longer study durations and larger sample sizes. It may prove fruitful to examine effects of different doses as well as effects in other dementia subtypes."
+    },
+    {
+      "paper_name": "Effects of Folic Acid Combined with DHA Supplementation on Cognitive Function and Amyloid-β-Related Biomarkers in Older Adults with Mild Cognitive Impairment by a Randomized, Double Blind, Placebo-Controlled Trial.",
+      "paper_year": "2021",
+      "paper_authors": "Bai D, Fan J, Li M, Dong C, Gao Y, Fu M, Huang G, Liu H",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "publisher": "J Alzheimers Dis",
+      "resumen": "The neuroprotective benefits of combined folic acid and docosahexaenoic acid (DHA) on cognitive function in mild cognitive impairment (MCI) patients are suggested but unconfirmed."
+    },
+    {
+      "paper_name": "Effects of a Six-Month Multi-Ingredient Nutrition Supplement Intervention of Omega-3 Polyunsaturated Fatty Acids, vitamin D, Resveratrol, and Whey Protein on Cognitive Function in Older Adults: A Randomised, Double-Blind, Controlled Trial.",
+      "paper_year": "2018",
+      "paper_authors": "Moran C, Scotto di Palumbo A, Bramham J, Moran A, Rooney B, De Vito G, Egan B",
+      "journal": "The journal of prevention of Alzheimer's disease..",
+      "publisher": "J Prev Alzheimers Dis",
+      "resumen": "To investigate the impact of a six-month multi-ingredient nutrition supplement intervention (Smartfish®), containing omega-3 polyunsaturated fatty acids (PUFAs), vitamin D, resveratrol, and whey protein, on cognitive function in Irish older adults."
+    },
+    {
+      "paper_name": "Baseline Findings of PreventE4: A Double-Blind Placebo Controlled Clinical Trial Testing High Dose DHA in APOE4 Carriers before the Onset of Dementia.",
+      "paper_year": "2023",
+      "paper_authors": "Yassine HN, Arellanes IC, Mazmanian A, De La Cruz L, Martinez J, Contreras L, Kono N, Liu BS, Badie D, Bantugan MA, Grindon A, Urich T, D'Orazio L, Emmanuel BA, Chui HC, Mack WJ, Harrington MG, Braskie MN, Schneider LS",
+      "journal": "The journal of prevention of Alzheimer's disease..",
+      "publisher": "J Prev Alzheimers Dis",
+      "resumen": "Lower blood levels of the omega-3 polyunsaturated fatty acid docosahexaenoic acid (DHA) are correlated with worse cognitive functions, particularly among APOE ε4 carriers. Whether DHA supplementation in APOE ε4 carriers with limited DHA consumption and dementia risk factors can delay or slow down disease progression when started before the onset of clinical dementia is not known."
+    },
+    {
+      "paper_name": "Effect of a 2-year diet intervention with walnuts on cognitive decline. The Walnuts And Healthy Aging (WAHA) study: a randomized controlled trial.",
+      "paper_year": "2020",
+      "paper_authors": "Sala-Vila A, Valls-Pedret C, Rajaram S, Coll-Padrós N, Cofán M, Serra-Mir M, Pérez-Heras AM, Roth I, Freitas-Simoes TM, Doménech M, Calvo C, López-Illamola A, Bitok E, Buxton NK, Huey L, Arechiga A, Oda K, Lee GJ, Corella D, Vaqué-Alcázar L, Sala-Llonch R, Bartrés-Faz D, Sabaté J, Ros E",
+      "journal": "The American journal of clinical nutrition",
+      "publisher": "Am J Clin Nutr",
+      "resumen": "Walnut consumption counteracts oxidative stress and inflammation, 2 drivers of cognitive decline. Clinical data concerning effects on cognition are lacking."
+    },
+    {
+      "paper_name": "Homocysteine Status Modifies the Treatment Effect of Omega-3 Fatty Acids on Cognition in a Randomized Clinical Trial in Mild to Moderate Alzheimer's Disease: The OmegAD Study.",
+      "paper_year": "2019",
+      "paper_authors": "Jernerén F, Cederholm T, Refsum H, Smith AD, Turner C, Palmblad J, Eriksdotter M, Hjorth E, Faxen-Irving G, Wahlund LO, Schultzberg M, Basun H, Freund-Levi Y",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "publisher": "J Alzheimers Dis",
+      "resumen": "Trials of supplementation with omega-3 fatty acids (ω3-FAs) in patients with mild cognitive impairment or Alzheimer's disease (AD) have produced inconsistent effects on cognitive decline. There is evidence of an interaction between B vitamin status and ω3-FAs in relation to brain atrophy and cognitive decline."
+    },
+    {
+      "paper_name": "Effects of multidomain lifestyle intervention, omega-3 supplementation or their combination on physical activity levels in older adults: secondary analysis of the Multidomain Alzheimer Preventive Trial (MAPT) randomised controlled trial.",
+      "paper_year": "2018",
+      "paper_authors": "Barreto PS, Rolland Y, Cesari M, Dupuy C, Andrieu S, Vellas B",
+      "journal": "Age and ageing",
+      "publisher": "Age Ageing",
+      "resumen": "to investigate the effects of a 3-year multidomain lifestyle intervention, omega-3 supplementation or both on physical activity (PA) in older adults with subjective memory complaints."
     },
     {
       "paper_name": "The effects of omega-3 fatty acids monotherapy in Alzheimer's disease and mild cognitive impairment: a preliminary randomized double-blind placebo-controlled study.",
@@ -691,12 +211,236 @@
       "resumen": "A 24-week, randomized, double-blind placebo-controlled study was carried out to test the feasibility of using omega-3 polyunsaturated fatty acids (PUFAs) monotherapy in people with cognitive impairment and to explore its effects on cognitive function and general clinical condition in these participants. Twenty three participants with mild or moderate Alzheimer's disease and twenty three with mild cognitive impairment were randomized to receive omega-3 PUFAs 1.8 g/day or placebo (olive oil). The data of 35 (76%) participants with at least one post-treatment visit was analyzed. There were no severe adverse effects in either group and it suggests that omega-3 PUFAs were well tolerable in this population. The treatment group showed better improvement on the Clinician's Interview-Based Impression of Change Scale (CIBIC-plus) than those in the placebo group over the 24 week follow-up (p=0.008). There was no significant difference in the cognitive portion of the Alzheimer's Disease Assessment Scale (ADAS-cog) change during follow-up in these two groups. However, the omega-3 fatty acids group showed significant improvement in ADAS-cog compared to the placebo group in participants with mild cognitive impairment (p=0.03), which was not observed in those with Alzheimer's disease. Higher proportions of eicosapentaenoic acid on RBC membranes were also associated with better cognitive outcome (p=0.003). Further studies should be considered with a larger-sample size, diet registration, higher dosages, comparisons between different combinations of PUFAs, and greater homogeneity of participants, especially those with mild Alzheimer's disease and mild cognitive impairment."
     },
     {
-      "paper_name": "Effects of docosahexaenoic acid-rich n-3 fatty acid supplementation on cytokine release from blood mononuclear leukocytes: the OmegAD study.",
-      "paper_year": "2008",
-      "paper_authors": "Vedin I, Cederholm T, Freund Levi Y, Basun H, Garlind A, Faxén Irving G, Jönhagen ME, Vessby B, Wahlund LO, Palmblad J",
+      "paper_name": "Effect of Omega-3 Fatty Acids, Lutein/Zeaxanthin, or Other Nutrient Supplementation on Cognitive Function: The AREDS2 Randomized Clinical Trial.",
+      "paper_year": "2015",
+      "paper_authors": "Chew EY, Clemons TE, Agrón E, Launer LJ, Grodstein F, Bernstein PS",
+      "journal": "JAMA",
+      "publisher": "JAMA",
+      "resumen": "Observational data have suggested that high dietary intake of saturated fat and low intake of vegetables may be associated with increased risk of Alzheimer disease."
+    },
+    {
+      "paper_name": "Effects of DHA Supplementation on Hippocampal Volume and Cognitive Function in Older Adults with Mild Cognitive Impairment: A 12-Month Randomized, Double-Blind, Placebo-Controlled Trial.",
+      "paper_year": "2017",
+      "paper_authors": "Zhang YP, Miao R, Li Q, Wu T, Ma F",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "publisher": "J Alzheimers Dis",
+      "resumen": "Docosahexaenoic acid (DHA) is important for brain function, and higher DHA intake is inversely correlated with relative risk of Alzheimer's disease. The potential benefits of DHA supplementation in people with mild cognitive impairment (MCI) have not been fully examined. Our study aimed to determine the effect of DHA supplementation on cognitive function and hippocampal atrophy in elderly subjects with MCI. This was a randomized, double-blind, placebo-controlled trial in Tianjin, China. 240 individuals with MCI aged 65 years and over were recruited and equalized randomly allocated to the DHA or the placebo group. Participants received 12-month DHA supplementation (2 g/day) or corn oil as placebo. Both global and specific subdomains of cognitive function and hippocampal volume were measured at baseline, 6 months, and 12 months. Both changes were analyzed by repeated-measure analysis of variance (ANOVA). This trial has been registered: ChiCTR-IOR-15006058. A total of 219 participants (DHA: 110, Placebo: 109) completed the trial. The change in mean serum DHA levels was greater in the intervention group (+3.85%) compared to the control group (+1.06%). Repeated-measures analyses of covariance showed that, over 12 months, there was a significant difference in the Full-Scale Intelligence Quotient (ηp2 = 0.084; p = 0.039), Information (ηp2 = 0.439; p = 0.000), and Digit Span (ηp2 = 0.375; p = 0.000) between DHA-treated versus the placebo group. In addition, there were significant differences in volumes of left hippocampus (ηp2 = 0.121, p = 0.016), right hippocampus (ηp2 = 0.757, p = 0.008), total hippocampus (ηp2 = 0.124, p = 0.023), and global cerebrum (ηp2 = 0.145, p = 0.032) between the two groups. These findings suggest that DHA supplementation (2 g/day) for 12 months in MCI subjects can significantly improve cognitive function and slow the progression of hippocampal atrophy. Larger, longer-term confirmatory studies are warranted."
+    },
+    {
+      "paper_name": "Effects of n-3 fatty acids on cognitive decline: a randomized, double-blind, placebo-controlled trial in stable myocardial infarction patients.",
+      "paper_year": "2012",
+      "paper_authors": "Geleijnse JM, Giltay EJ, Kromhout D",
+      "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+      "publisher": "Alzheimers Dement",
+      "resumen": "Epidemiological studies suggest a protective effect of n-3 fatty acids derived from fish (eicosapentaenoic acid [EPA] and docosahexaenoic acid [DHA]) against cognitive decline. For α-linolenic acid (ALA) obtained from vegetable sources, the effect on cognitive decline is unknown. We examined the effect of n-3 fatty acid supplementation on cognitive decline in coronary heart disease patients."
+    },
+    {
+      "paper_name": "Dietary fish oil increases catalase activity in patients with probable Alzheimer's disease.",
+      "paper_year": "2022",
+      "paper_authors": "Torres-Mendoza BMG, Ortiz GG, Sánchez-Romero L, Delgado-Lara DLC, García Martínez MT, Mireles-Ramírez MA, Cruz Serrano JA, Pacheco Moisés FP",
+      "journal": "Nutricion hospitalaria",
+      "publisher": "Nutr Hosp",
+      "resumen": "Background: Alzheimer's disease (AD) is a neurodegenerative disorder characterized by the presence of neuritic plaques and neurofibrillary tangles that finally result in synaptic and neuronal loss. Oxidative stress accompanies pathological changes in AD. Objective: to assess the efficacy of dietary omega 3 polyunsaturated fatty acids supplementation on the levels of proteins oxidation, hydroperoxides and enzymatic activities of catalase and superoxide dismutase in AD patients. Methods: clinical, controlled, randomized, double-blind trial. Patients consumed fish oil or placebo for one year. Oxidative stress markers were assessed in plasma using spectrophotometric methods. Results: carbonyl groups in proteins and hydroperoxides in plasma have similar values in both treatment groups at the beginning of the study. At six and 12 months of treatment, these values decreased significantly in the fish oil group, while in the placebo group no changes were observed in both oxidative stress markers. Catalase activity increased significantly at six and twelve months after treatment in patients treated with fish oil. While the superoxide dismutase activity was not modified in both study groups. Conclusions: patients who consume omega 3 polyunsaturated fatty acids at a stable dose of docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA) show decreased oxidation of proteins and lipids in plasma. In addition, an increase in catalase activity was detected. Thus, the presented data warrants further studies evaluating the antioxidant effect of omega 3 polyunsaturated fatty acids."
+    },
+    {
+      "paper_name": "Omega-3 Supplementation for the Prevention of Cognitive Decline in Older Adults: Does It Depend on Homocysteine Levels?",
+      "paper_year": "2022",
+      "paper_authors": "Maltais M, de Souto Barreto P, Bowman GL, Smith AD, Cantet C, Andrieu S, Rolland Y",
+      "journal": "The journal of nutrition, health & aging..",
+      "publisher": "J Nutr Health Aging",
+      "resumen": "Recent evidence point towards an interaction between omega-3 (n-3) polyunsaturated fatty acids (PUFA) and plasma homocysteine (Hcy)."
+    },
+    {
+      "paper_name": "Omega-3 fatty acid treatment in 174 patients with mild to moderate Alzheimer disease: OmegAD study: a randomized double-blind trial.",
+      "paper_year": "2006",
+      "paper_authors": "Freund-Levi Y, Eriksdotter-Jönhagen M, Cederholm T, Basun H, Faxén-Irving G, Garlind A, Vedin I, Vessby B, Wahlund LO, Palmblad J",
+      "journal": "Archives of neurology",
+      "publisher": "Arch Neurol",
+      "resumen": "Epidemiologic and animal studies have suggested that dietary fish or fish oil rich in omega-3 fatty acids, for example, docosahexaenoic acid and eicosapentaenoic acid, may prevent Alzheimer disease (AD)."
+    },
+    {
+      "paper_name": "Supplementation with Flaxseed Oil Rich in Alpha-Linolenic Acid Improves Verbal Fluency in Healthy Older Adults.",
+      "paper_year": "2023",
+      "paper_authors": "Ogawa T, Sawane K, Ookoshi K, Kawashima R",
+      "journal": "Nutrients",
+      "publisher": "Nutrients",
+      "resumen": "The effects of docosahexaenoic acid supplements on cognitive function have long been demonstrated, but the effects of alpha-linolenic acid, a precursor of docosahexaenoic acid, have not been fully tested. The search for functional foods that delay cognitive decline in the older adults is considered a very important area from a preventive perspective. The aim of this study was to conduct an exploratory evaluation of alpha-linolenic acid on various cognitive functions in healthy older subjects. Sixty healthy older adults aged 65 to 80 years, living in Miyagi prefecture, without cognitive impairment or depression, were included in the randomized, double-blinded, placebo-controlled clinical trial. Study subjects were randomly divided into two groups and received either 3.7 g/day of flaxseed oil containing 2.2 g of alpha-linolenic acid, or an isocaloric placebo (corn oil) containing 0.04 g of alpha-linolenic acid for 12 weeks. The primary endpoints were six cognitive functions closely related to everyday life: attention and concentration, executive function, perceptual reasoning, working memory, processing speed and memory function. After 12 weeks of intake, changes in verbal fluency scores on the frontal assessment battery at bedside, a neuropsychological test assessing executive function, in which participants are asked to answer as many words as possible in Japanese, were significantly greater in the intervention group (0.30 ± 0.53) than in the control group (0.03 ± 0.49, <i>p</i> < 0.05). All other cognitive test scores were not significantly different between the groups. In conclusion, daily consumption of flaxseed oil containing 2.2 g alpha-linolenic acid improved cognitive function, specifically verbal fluency, despite the age-related decline, in healthy individuals with no cognitive abnormalities. Further validation studies focusing on the effects of alpha-linolenic acid on verbal fluency and executive function in older adults are needed, as verbal fluency is a predictor of Alzheimer's disease development, important for cognitive health."
+    },
+    {
+      "paper_name": "Effect of Vitamin D Supplementation on Overactive Bladder and Urinary Incontinence Symptoms in Older Men: Ancillary Findings From a Randomized Trial.",
+      "paper_year": "2023",
+      "paper_authors": "Markland AD, Vaughan CP, Huang AJ, Kim E, Bubes VY, Tangpricha V, Buring JR, Lee IM, Cook NR, Manson JE, Grodstein F",
+      "journal": "The Journal of urology",
+      "publisher": "J Urol",
+      "resumen": "Our goal was to evaluate vitamin D supplementation for preventing or treating overactive bladder and urinary incontinence in men."
+    },
+    {
+      "paper_name": "Red blood cell membrane omega-3 fatty acid levels and physical performance: Cross-sectional data from the MAPT study.",
+      "paper_year": "2018",
+      "paper_authors": "Fougère B, de Souto Barreto P, Goisser S, Soriano G, Guyonnet S, Andrieu S, Vellas B",
+      "journal": "Clinical nutrition (Edinburgh, Scotland)",
+      "publisher": "Clin Nutr",
+      "resumen": "Studies have shown that omega-3 polyunsaturated fatty acids (PUFAs) are associated with brain, cardiovascular and immune function, as well as physical performance and bone health in older adults. So far, few studies have highlighted the associations between PUFA status and performance-based tests of physical function. To study the associations between the omega-3 index (red blood cell (RBC) membrane content of omega-3 PUFAs, such as eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA)) and physical performance measured with the Short Physical Performance Battery (SPPB) in a sample of community-dwelling older adults."
+    },
+    {
+      "paper_name": "Effects of supplementation with omega-3 fatty acids on oxidative stress and inflammation in patients with Alzheimer's disease: the OmegAD study.",
+      "paper_year": "2014",
+      "paper_authors": "Freund-Levi Y, Vedin I, Hjorth E, Basun H, Faxén Irving G, Schultzberg M, Eriksdotter M, Palmblad J, Vessby B, Wahlund LO, Cederholm T, Basu S",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "publisher": "J Alzheimers Dis",
+      "resumen": "Oxidative stress and inflammation are two key mechanisms suggested to be involved in the pathogenesis of Alzheimer's disease (AD). Omega-3 fatty acids (ω-3 FAs) found in fish and fish oil have several biological properties that may be beneficial in AD. However, they may also auto-oxidize and induce in vivo lipid peroxidation."
+    },
+    {
+      "paper_name": "Disparities in the participation and adherence of older adults in lifestyle-based multidomain dementia prevention and the motivational role of perceived disease risk and intervention benefits: an observational ancillary study to a randomised controlled trial.",
+      "paper_year": "2021",
+      "paper_authors": "Coley N, Coniasse-Brioude D, Igier V, Fournier T, Poulain JP, Andrieu S",
+      "journal": "Alzheimer's research & therapy",
+      "publisher": "Alzheimers Res Ther",
+      "resumen": "Preventive interventions for dementia are urgently needed and must be tested in randomised controlled trials (RCTs). Selection (volunteer) bias may limit efficacy, particularly in trials testing multidomain interventions and may also be indicative of disparities in intervention uptake in real-world settings. We identified factors associated with participation and adherence in a 3-year RCT of multidomain lifestyle intervention and/or omega-3 supplementation for prevention of cognitive decline and explored reasons for (non-) participation."
+    },
+    {
+      "paper_name": "Cognitive Changes with Omega-3 Polyunsaturated Fatty Acids in Non-Demented Older Adults with Low Omega-3 Index.",
+      "paper_year": "2017",
+      "paper_authors": "Hooper C, De Souto Barreto P, Coley N, Cantet C, Cesari M, Andrieu S, Vellas B",
+      "journal": "The journal of nutrition, health & aging..",
+      "publisher": "J Nutr Health Aging",
+      "resumen": "To investigate the changes in specific domains of cognitive function in older adults reporting subjective memory complaints with a low omega-3 index receiving omega 3 polyunsaturated fatty acid (n-3 PUFA) supplementation or placebo."
+    },
+    {
+      "paper_name": "Combined omega-3 fatty acids, aerobic exercise and cognitive stimulation prevents decline in gray matter volume of the frontal, parietal and cingulate cortex in patients with mild cognitive impairment.",
+      "paper_year": "2016",
+      "paper_authors": "Köbe T, Witte AV, Schnelle A, Lesemann A, Fabian S, Tesky VA, Pantel J, Flöel A",
+      "journal": "NeuroImage",
+      "publisher": "Neuroimage",
+      "resumen": "Previous studies in older adults suggested beneficial effects of omega-3 fatty acid (FA) supplementation, aerobic exercise, or cognitive stimulation on brain structure and function. However, combined effects of these interventions in patients suffering from mild cognitive impairment (MCI) are unknown. Using a randomized interventional design, we evaluated the effect of combined omega-3 FA supplementation, aerobic exercise and cognitive stimulation (target intervention) versus omega-3 FA supplementation and non-aerobic exercise (control intervention) on cognitive function and gray matter volume in patients with MCI. Moreover, we analyzed potential vascular, metabolic or inflammatory mechanisms underlying these effects. Twenty-two MCI patients (8 females; 60-80years) successfully completed six months of omega-3 FA intake, aerobic cycling training and cognitive stimulation (n=13) or omega-3 FA intake and non-aerobic stretching and toning (n=9). Before and after the interventions, cognitive performance, magnetic resonance imaging of the brain at 3T (n=20), intima-media thickness of the internal carotid artery and serum markers of glucose control, lipid and B-vitamin metabolism, and inflammation were assessed. Intervention-related changes in gray matter volume of Alzheimer's disease (AD)-related brain regions, i.e., frontal, parietal, temporal and cingulate cortex were examined using voxel-based morphometry of high resolution T1-weighted images. After the intervention period, significant differences emerged in brain structure between groups: Gray matter volume decreased in the frontal, parietal and cingulate cortex of patients in the control intervention, while gray matter volume in these areas was preserved or even increased after the target intervention. Decreases in homocysteine levels in the target intervention group were associated with increases in gray matter volume in the middle frontal cortex (p=0.010). No significant differences in cognitive performance or other vascular, metabolic and inflammatory parameters were observed between groups. This pilot study provides preliminary evidence that omega-3 FA intake combined with aerobic exercise and cognitive stimulation prevents atrophy in AD-related brain regions in MCI patients, compared to omega-3 FA intake plus the control condition of stretching and toning. These promising findings should now be validated in a larger interventional trial."
+    },
+    {
+      "paper_name": "Effects of Fish Oil on HIV-Related Inflammation and Markers of Immunosenescence: A Randomized Clinical Trial.",
+      "paper_year": "2018",
+      "paper_authors": "Swanson B, Keithley J, Baum L, Leurgans S, Adeyemi O, Barnes LL, Mata M, Rosdil A",
+      "journal": "Journal of alternative and complementary medicine (New York, N.Y.)",
+      "publisher": "J Altern Complement Med",
+      "resumen": "To explore the safety and efficacy of fish oil to modulate parameters of inflammation and immunosenescence in HIV-infected older adults."
+    },
+    {
+      "paper_name": "Effects of omega-3 fatty acids on inflammatory markers in cerebrospinal fluid and plasma in Alzheimer's disease: the OmegAD study.",
+      "paper_year": "2009",
+      "paper_authors": "Freund-Levi Y, Hjorth E, Lindberg C, Cederholm T, Faxen-Irving G, Vedin I, Palmblad J, Wahlund LO, Schultzberg M, Basun H, Eriksdotter Jönhagen M",
+      "journal": "Dementia and geriatric cognitive disorders",
+      "publisher": "Dement Geriatr Cogn Disord",
+      "resumen": "omega-3 fatty acids (omega-3 FAs) found in dietary fish or fish oils are anti-inflammatory agents that may influence Alzheimer's disease (AD)."
+    },
+    {
+      "paper_name": "Lifestyle multidomain intervention, omega-3 supplementation, or both for reducing the risk of developing clinically relevant depressive symptoms in older adults with memory complaints? Secondary analysis from the MAPT trial.",
+      "paper_year": "2019",
+      "paper_authors": "Maltais M, de Souto Barreto P, Pothier K, Cantet C, Andrieu S, Rolland Y, Vellas B",
+      "journal": "Experimental gerontology",
+      "publisher": "Exp Gerontol",
+      "resumen": "We tested the associations of a lifestyle multidomain intervention (MI), omega-3 supplementation (O3) or their combination with the change of clinically meaningful depressive symptoms in older adults."
+    },
+    {
+      "paper_name": "Docosahexaenoic acid supplementation and cognitive decline in Alzheimer disease: a randomized trial.",
+      "paper_year": "2010",
+      "paper_authors": "Quinn JF, Raman R, Thomas RG, Yurko-Mauro K, Nelson EB, Van Dyck C, Galvin JE, Emond J, Jack CR, Weiner M, Shinto L, Aisen PS",
+      "journal": "JAMA",
+      "publisher": "JAMA",
+      "resumen": "Docosahexaenoic acid (DHA) is the most abundant long-chain polyunsaturated fatty acid in the brain. Epidemiological studies suggest that consumption of DHA is associated with a reduced incidence of Alzheimer disease. Animal studies demonstrate that oral intake of DHA reduces Alzheimer-like brain pathology."
+    },
+    {
+      "paper_name": "Vascular biomarkers to predict response to exercise in Alzheimer's disease: the study protocol.",
+      "paper_year": "2016",
+      "paper_authors": "Li D, Thomas R, Tsai MY, Li L, Vock DM, Greimel S, Yu F",
+      "journal": "BMJ open",
+      "publisher": "BMJ Open",
+      "resumen": "Exercise interventions are a promising treatment for improving cognition in persons with Alzheimer's disease. This is similar to Alzheimer's disease pharmacotherapies in which only 18-48% of treated patients demonstrate improvement in cognition. Aerobic exercise interventions positively affect brain structure and function through biologically sound pathways. However, an under-studied mechanism of aerobic exercise's effects is n-3 fatty acids in plasma. The objective of this pilot study is to inform a future large-scale study to develop n-3 fatty acids-based prediction of cognitive responses to aerobic exercise treatment in Alzheimer's disease."
+    },
+    {
+      "paper_name": "Omega-3 Fatty Acid Status Enhances the Prevention of Cognitive Decline by B Vitamins in Mild Cognitive Impairment.",
+      "paper_year": "2016",
+      "paper_authors": "Oulhaj A, Jernerén F, Refsum H, Smith AD, de Jager CA",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "publisher": "J Alzheimers Dis",
+      "resumen": "A randomized trial (VITACOG) in people with mild cognitive impairment (MCI) found that B vitamin treatment to lower homocysteine slowed the rate of cognitive and clinical decline. We have used data from this trial to see whether baseline omega-3 fatty acid status interacts with the effects of B vitamin treatment. 266 participants with MCI aged ≥70 years were randomized to B vitamins (folic acid, vitamins B6 and B12) or placebo for 2 years. Baseline cognitive test performance, clinical dementia rating (CDR) scale, and plasma concentrations of total homocysteine, total docosahexaenoic and eicosapentaenoic acids (omega-3 fatty acids) were measured. Final scores for verbal delayed recall, global cognition, and CDR sum-of-boxes were better in the B vitamin-treated group according to increasing baseline concentrations of omega-3 fatty acids, whereas scores in the placebo group were similar across these concentrations. Among those with good omega-3 status, 33% of those on B vitamin treatment had global CDR scores >0 compared with 59% among those on placebo. For all three outcome measures, higher concentrations of docosahexaenoic acid alone significantly enhanced the cognitive effects of B vitamins, while eicosapentaenoic acid appeared less effective. When omega-3 fatty acid concentrations are low, B vitamin treatment has no effect on cognitive decline in MCI, but when omega-3 levels are in the upper normal range, B vitamins interact to slow cognitive decline. A clinical trial of B vitamins combined with omega-3 fatty acids is needed to see whether it is possible to slow the conversion from MCI to AD."
+    },
+    {
+      "paper_name": "Cross-Sectional Associations of Total Plasma Homocysteine with Cortical β-Amyloid Independently and as a Function of Omega 3 Polyunsaturated Fatty Acid Status in Older Adults at Risk of Dementia.",
+      "paper_year": "2017",
+      "paper_authors": "Hooper C, De Souto Barreto P, Coley N, Caussé E, Payoux P, Salabert AS, Cesari M, Andrieu S, Bowman GL, Weiner M, Vellas B",
+      "journal": "The journal of nutrition, health & aging..",
+      "publisher": "J Nutr Health Aging",
+      "resumen": "Elevated total plasma homocysteine is a risk factor for Alzheimer's disease (AD) and there is some evidence that omega-3 polyunsaturated fatty acids (n-3 PUFAs) can modulate the effects of homocysteine-lowering B vitamins on AD related pathologies. Hence we investigated the relationship between total plasma homocysteine and cortical β-amyloid (Aβ) in older adults at risk of dementia. The role of erythrocyte membrane n-3 PUFAs (omega 3 index) on this relationship was also explored."
+    },
+    {
+      "paper_name": "Impact of Omega-3 Fatty Acid Supplementation on Memory Functions in Healthy Older Adults.",
+      "paper_year": "2016",
+      "paper_authors": "Külzow N, Witte AV, Kerti L, Grittner U, Schuchardt JP, Hahn A, Flöel A",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "publisher": "J Alzheimers Dis",
+      "resumen": "As the process of Alzheimer's disease (AD) begins years before disease onset, searching for prevention strategies is of major medical and economic importance. Nutritional supplementation with long-chain polyunsaturated omega-3 fatty acids (LC-n3-FA) may exert beneficial effects on brain structure and function. However, experimental evidence in older adults without clinical dementia is inconsistent, possibly due to low sensitivity of previously employed test batteries for detecting subtle improvements in cognition in healthy individuals. Here we used LOCATO, recently described as a robust and sensitive tool for assessing object-location memory (OLM) in older adults, to evaluate the impact of LC-n3-FA supplementation on learning and memory formation. In a double-blind placebo-controlled proof-of-concept study, 44 (20 female) cognitively healthy individuals aged 50-75 years received either LC-n3-FA (2,200 mg/day, n = 22) or placebo (n = 22) for 26 weeks. Before and after intervention, memory performance in the OLM-task (primary) was tested. As secondary outcome parameters, performance in Rey Auditory Verbal Learning Test (AVLT), dietary habits, omega-3-index, and other blood-derived parameters were assessed. Omega-3 index increased significantly in the LC-n3-FA group compared with the placebo group. Moreover, recall of object locations was significantly better after LC-n3-FA supplementation compared with placebo. Performance in the AVLT was not significantly affected by LC-n3-FA. This double-blind placebo-controlled proof-of-concept study provides further experimental evidence that LC-n3-FA exert positive effects on memory functions in healthy older adults. Our findings suggest novel strategies to maintain cognitive functions into old age."
+    },
+    {
+      "paper_name": "Effect of Long-Term Omega 3 Polyunsaturated Fatty Acid Supplementation with or without Multidomain Lifestyle Intervention on Muscle Strength in Older Adults: Secondary Analysis of the Multidomain Alzheimer Preventive Trial (MAPT).",
+      "paper_year": "2019",
+      "paper_authors": "Rolland Y, Barreto PS, Maltais M, Guyonnet S, Cantet C, Andrieu S, Vellas B",
+      "journal": "Nutrients",
+      "publisher": "Nutrients",
+      "resumen": "The benefits of long-term omega 3 polyunsaturated fatty acid (ω3-PUFA) supplementation on muscle strength in older adults remains to be investigated."
+    },
+    {
+      "paper_name": "DHA-rich n-3 fatty acid supplementation decreases DNA methylation in blood leukocytes: the OmegAD study.",
+      "paper_year": "2017",
+      "paper_authors": "Karimi M, Vedin I, Freund Levi Y, Basun H, Faxén Irving G, Eriksdotter M, Wahlund LO, Schultzberg M, Hjorth E, Cederholm T, Palmblad J",
       "journal": "The American journal of clinical nutrition",
       "publisher": "Am J Clin Nutr",
-      "resumen": "Dietary fish or fish oil rich in n-3 fatty acids (n-3 FAs), eg, docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA), ameliorate inflammatory reactions by various mechanisms. Whereas most studies have explored the effects of predominantly EPA-based n-3 FAs preparations, few have addressed the effects of n-3 FAs preparations with DHA as the main FA."
+      "resumen": "<b>Background:</b> Dietary fish oils, rich in long-chain n-3 (ω-3) fatty acids (FAs) [e.g., docosahexaenoic acid (DHA, 22:6n-3) and eicosapentaenoic acid (EPA, 20:5n-3)], modulate inflammatory reactions through various mechanisms, including gene expression, which is measured as messenger RNA concentration. However, the effects of long-term treatment of humans with DHA and EPA on various epigenetic factors-such as DNA methylation, which controls messenger RNA generation-are poorly described.<b>Objective:</b> We wanted to determine the effects of 6 mo of dietary supplementation with an n-3 FA preparation rich in DHA on global DNA methylation of peripheral blood leukocytes (PBLs) and the relation to plasma EPA and DHA concentrations in Alzheimer disease (AD) patients.<b>Design:</b> In the present study, DNA methylation in four 5'-cytosine-phosphate-guanine-3' (CpG) sites of long interspersed nuclear element-1 repetitive sequences was assessed in a group of 63 patients (30 given the n-3 FA preparation and 33 given placebo) as an estimation of the global DNA methylation in blood cells. Patients originated from the randomized, double-blind, placebo-controlled OmegAD study, in which 174 AD patients received either 1.7 g DHA and 0.6 g EPA (the n-3 FA group) or placebo daily for 6 mo.<b>Results:</b> At 6 mo, the n-3 FA group displayed marked increases in DHA and EPA plasma concentrations (2.6- and 3.5-fold), as well as decreased methylation in 2 out of 4 CpG sites (<i>P</i> < 0.05 for all), respectively. This hypomethylation in CpG2 and CpG4 sites showed a reverse correlation to changes in plasma EPA concentration (<i>r</i> = -0.25, <i>P</i> = 0.045; and <i>r</i> = -0.26, <i>P</i> = 0.041, respectively), but not to changes in plasma DHA concentration, and were not related to apolipoprotein E-4 allele frequency.<b>Conclusion:</b> Supplementation with n-3 FA for 6 mo was associated with global DNA hypomethylation in PBLs. Our data may be of importance in measuring various effects of marine oils, including gene expression, in patients with AD and in other patients taking n-3 FA supplements. This trial was registered at clinicaltrials.gov as NCT00211159."
+    },
+    {
+      "paper_name": "Omega-3 fatty acid supplementation effects on weight and appetite in patients with Alzheimer's disease: the omega-3 Alzheimer's disease study.",
+      "paper_year": "2009",
+      "paper_authors": "Irving GF, Freund-Levi Y, Eriksdotter-Jönhagen M, Basun H, Brismar K, Hjorth E, Palmblad J, Vessby B, Vedin I, Wahlund LO, Cederholm T",
+      "journal": "Journal of the American Geriatrics Society",
+      "publisher": "J Am Geriatr Soc",
+      "resumen": "To study the effects of omega (Omega)-3 fatty acid (FA) supplements on weight and appetite in patients with mild to moderate Alzheimer's disease (AD) in relation to inflammatory biomarkers and apolipoprotein E epsilon4 (APOEepsilon4)."
+    },
+    {
+      "paper_name": "Cortical β-Amyloid in Older Adults Is Associated with Multidomain Interventions with and without Omega 3 Polyunsaturated Fatty Acid Supplementation.",
+      "paper_year": "2020",
+      "paper_authors": "Hooper C, Coley N, De Souto Barreto P, Payoux P, Salabert AS, Andrieu S, Weiner M, Vellas B",
+      "journal": "The journal of prevention of Alzheimer's disease..",
+      "publisher": "J Prev Alzheimers Dis",
+      "resumen": "Multidomain lifestyle interventions (including combinations of physical exercise, cognitive training and nutritional guidance) are attracting increasing research attention for reducing the risk of Alzheimer's disease (AD). Here we examined for the first time the cross-sectional relationship between cortical β-amyloid (Aβ) and multidomain lifestyle interventions (nutritional and exercise counselling and cognitive training), omega 3 polyunsaturated fatty acid (n-3 PUFA) supplementation or their combination in 269 participants of the Multidomain Alzheimer Preventive Trial (MAPT). In adjusted multiple linear regression models, compared to the control group (receiving placebo alone), cortical Aβ, measured once during follow-up (mean 512.7 ± 249.6 days post-baseline), was significantly lower in the groups receiving multidomain lifestyle intervention + placebo (mean difference, -0.088, 95 % CI, -0.148,-0.029, p = 0.004) or multidomain lifestyle intervention + n-3 PUFA (-0.100, 95 % CI, -0.160,-0.041, p = 0.001), but there was no difference in the n-3 PUFA supplementation alone group (-0.011, 95 % CI, -0.072,0.051, p = 0.729). Secondary analysis provided mixed results. Our findings suggest that multidomain interventions both with and without n-3 PUFA supplementation might be associated with lower cerebral Aβ. Future trials should investigate if such multidomain lifestyle interventions are causally associated with a reduction or the prevention of the accumulation of cerebral Aβ."
+    },
+    {
+      "paper_name": "Efficacy of Souvenaid in mild Alzheimer's disease: results from a randomized, controlled trial.",
+      "paper_year": "2012",
+      "paper_authors": "Scheltens P, Twisk JW, Blesa R, Scarpini E, von Arnim CA, Bongers A, Harrison J, Swinkels SH, Stam CJ, de Waal H, Wurtman RJ, Wieggers RL, Vellas B, Kamphuis PJ",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "publisher": "J Alzheimers Dis",
+      "resumen": "Souvenaid aims to improve synapse formation and function. An earlier study in patients with Alzheimer's disease (AD) showed that Souvenaid increased memory performance after 12 weeks in drug-naïve patients with mild AD. The Souvenir II study was a 24-week, randomized, controlled, double-blind, parallel-group, multi-country trial to confirm and extend previous findings in drug-naïve patients with mild AD. Patients were randomized 1:1 to receive Souvenaid or an iso-caloric control product once daily for 24 weeks. The primary outcome was the memory function domain Z-score of the Neuropsychological Test Battery (NTB) over 24 weeks. Electroencephalography (EEG) measures served as secondary outcomes as marker for synaptic connectivity. Assessments were done at baseline, 12, and 24 weeks. The NTB memory domain Z-score was significantly increased in the active versus the control group over the 24-week intervention period (p = 0.023; Cohen's d = 0.21; 95% confidence interval [-0.06]-[0.49]). A trend for an effect was observed on the NTB total composite z-score (p = 0.053). EEG measures of functional connectivity in the delta band were significantly different between study groups during 24 weeks in favor of the active group. Compliance was very high (96.6% [control] and 97.1% [active]). No difference between study groups in the occurrence of (serious) adverse events. This study demonstrates that Souvenaid is well tolerated and improves memory performance in drug-naïve patients with mild AD. EEG outcomes suggest that Souvenaid has an effect on brain functional connectivity, supporting the underlying hypothesis of changed synaptic activity."
+    },
+    {
+      "paper_name": "Selective enrichment of n-3 fatty acids in human plasma lipid motifs following intake of marine fish.",
+      "paper_year": "2018",
+      "paper_authors": "Žáček P, Bukowski M, Johnson L, Raatz SK, Picklo M",
+      "journal": "The Journal of nutritional biochemistry",
+      "publisher": "J Nutr Biochem",
+      "resumen": "Plasma levels of n-3 long chain polyunsaturated fatty acids (LCPUFA) are associated with a reduction in risk of cardiovascular disease and other chronic, age-related diseases like Alzheimer's disease. In this work, we tested the hypothesis that n-3 LCPUFA fatty acids in human plasma are incorporated into selective lipid species following intake of n-3 LCPUFA rich marine fish. To test this hypothesis, we performed lipidomic analysis on plasma samples from a clinical trial in which participants consumed increasing amounts of farmed Atlantic salmon (Salmo salar). Under basal conditions, n-3 and n-6 LCPUFA were selectively incorporated into plasma phosphatidylcholine (PC) species containing saturated fatty acids (SFA) versus unsaturated fatty acids as the complementary fatty acids. LCPUFA were incorporated into selective triacylglycerol (TAG) species with complementary diacylglyceryl environments of 34:1 or 34:2 (for 20:5 and 22:5) and 36:2>36:3>36:4 and 36:1 (for 20:4 and 22:6). High n-3 LCPUFA marine fish intake resulted in selective increases of PC SFA_n-3 LCPUFA species and LCPUFA-containing TAG species. Changes in cholesteryl esters and phosphatidylethanolamines also occurred following fish intake. Our results highlight the importance of discriminating phospholipid and TAG species and dietary background when evaluating lipidomic outcomes and disease associations."
+    },
+    {
+      "paper_name": "Transfer of omega-3 fatty acids across the blood-brain barrier after dietary supplementation with a docosahexaenoic acid-rich omega-3 fatty acid preparation in patients with Alzheimer's disease: the OmegAD study.",
+      "paper_year": "2014",
+      "paper_authors": "Freund Levi Y, Vedin I, Cederholm T, Basun H, Faxén Irving G, Eriksdotter M, Hjorth E, Schultzberg M, Vessby B, Wahlund LO, Salem N, Palmblad J",
+      "journal": "Journal of internal medicine",
+      "publisher": "J Intern Med",
+      "resumen": "Little is known about the transfer of essential fatty acids (FAs) across the human blood-brain barrier (BBB) in adulthood. In this study, we investigated whether oral supplementation with omega-3 (n-3) FAs would change the FA profile of the cerebrospinal fluid (CSF)."
+    },
+    {
+      "paper_name": "Is more always better? Dose effect in a multidomain intervention in older adults at risk of dementia.",
+      "paper_year": "2022",
+      "paper_authors": "Belleville S, Cloutier S, Mellah S, Willis S, Vellas B, Andrieu S, Coley N, Ngandu T",
+      "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+      "publisher": "Alzheimers Dement",
+      "resumen": "Little is known regarding the dose-response function in multidomain interventions for dementia prevention."
     },
     {
       "paper_name": "Omega-3 supplementation in mild to moderate Alzheimer's disease: effects on neuropsychiatric symptoms.",
@@ -707,12 +451,268 @@
       "resumen": "Epidemiological and animal studies have suggested that dietary fish or fish oil rich in omega-3 fatty acids (omega3), docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA), may have effects in psychiatric and behavioral symptoms in Alzheimer's disease (AD). An association with APOEomega4 carriers and neuropsychiatric symptoms in AD has also been suggested."
     },
     {
-      "paper_name": "Omega-3 fatty acid treatment in 174 patients with mild to moderate Alzheimer disease: OmegAD study: a randomized double-blind trial.",
-      "paper_year": "2006",
-      "paper_authors": "Freund-Levi Y, Eriksdotter-Jönhagen M, Cederholm T, Basun H, Faxén-Irving G, Garlind A, Vedin I, Vessby B, Wahlund LO, Palmblad J",
-      "journal": "Archives of neurology",
-      "publisher": "Arch Neurol",
-      "resumen": "Epidemiologic and animal studies have suggested that dietary fish or fish oil rich in omega-3 fatty acids, for example, docosahexaenoic acid and eicosapentaenoic acid, may prevent Alzheimer disease (AD)."
+      "paper_name": "Quantitative Erythrocyte Omega-3 EPA Plus DHA Levels are Related to Higher Regional Cerebral Blood Flow on Brain SPECT.",
+      "paper_year": "2017",
+      "paper_authors": "Amen DG, Harris WS, Kidd PM, Meysami S, Raji CA",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "publisher": "J Alzheimers Dis",
+      "resumen": "The interrelationships between omega-3 fatty acids status, brain perfusion, and cognition are not well understood."
+    },
+    {
+      "paper_name": "Effects of n-3 FA supplementation on the release of proresolving lipid mediators by blood mononuclear cells: the OmegAD study.",
+      "paper_year": "2015",
+      "paper_authors": "Wang X, Hjorth E, Vedin I, Eriksdotter M, Freund-Levi Y, Wahlund LO, Cederholm T, Palmblad J, Schultzberg M",
+      "journal": "Journal of lipid research",
+      "publisher": "J Lipid Res",
+      "resumen": "Specialized proresolving mediators (SPMs) induce resolution of inflammation. SPMs are derivatives of n-3 and n-6 PUFAs and may mediate their beneficial effects. It is unknown whether supplementation with PUFAs influences the production of SPMs. Alzheimer's disease (AD) is associated with brain inflammation and reduced levels of SPMs. The OmegAD study is a randomized, double-blind, and placebo-controlled clinical trial on AD patients, in which placebo or a supplement of 1.7 g DHA and 0.6 g EPA was taken daily for 6 months. Plasma levels of arachidonic acid decreased, and DHA and EPA levels increased after 6 months of n-3 FA treatment. Peripheral blood mononuclear cells (PBMCs) were obtained before and after the trial. Analysis of the culture medium of PBMCs incubated with amyloid-β 1-40 showed unchanged levels of the SPMs lipoxin A4 and resolvin D1 in the group supplemented with n-3 FAs, whereas a decrease was seen in the placebo group. The changes in SPMs showed correspondence to cognitive changes. Changes in the levels of SPMs were positively correlated to changes in transthyretin. We conclude that supplementation with n-3 PUFAs for 6 months prevented a reduction in SPMs released from PBMCs of AD patients, which was associated with changes in cognitive function."
+    },
+    {
+      "paper_name": "Effects of a 3-Year Multi-Domain Intervention with or without Omega-3 Supplementation on Cognitive Functions in Older Subjects with Increased CAIDE Dementia Scores.",
+      "paper_year": "2018",
+      "paper_authors": "Chhetri JK, de Souto Barreto P, Cantet C, Pothier K, Cesari M, Andrieu S, Coley N, Vellas B",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "publisher": "J Alzheimers Dis",
+      "resumen": "Findings from recent Alzheimer's disease prevention trials have shown subjects with increased dementia score based upon mid-life cardiovascular risk factors, to benefit from multi-domain intervention strategies to some extent. The effects of such interventions on cognitive functions remains yet to be well-established. This study is a secondary analysis of the MAPT study, 1,293 older subjects (mean age 75 years) with high CAIDE score (i.e., ≥6) were classified according to the four intervention groups: 1) multi-domain intervention plus placebo, 2) isolated supplementation with Omega-3 polyunsaturated fatty acid (n-3 PUFA), 3) combination of the two interventions, and 4) placebo alone. Linear mixed-model repeated-measures analyses were used to assess the cognitive changes according to various neuropsychological test scores between intervention groups compared to the placebo at 36 months from baseline. Compared to the placebo, group with multi-domain intervention in combination withn-3PUFA was found to show significant improvement in the delayed total recall test of the free and cued selective reminding test (FCSRT) (mean±standard error(SE) = 0.20±0.10) and MMSE orientation test (mean±SE = 0.15±0.06) at 36 months. Isolated multi-domain intervention group showed significant less decline in the MMSE orientation test (mean±SE = 0.12±0.06) compared to the placebo. There was significant less improvement (mean±SE = - 1.01±0.46) in the FCSRT free recall test in the n-3 PUFA intervention group compared to the placebo at 36 months. Our findings show high-risk subjects for dementia screened with CAIDE dementia score might benefit from multi-domain intervention strategies as in the MAPT study, particularly in the orientation and delayed recall domain."
+    },
+    {
+      "paper_name": "The medical food Souvenaid affects brain phospholipid metabolism in mild Alzheimer's disease: results from a randomized controlled trial.",
+      "paper_year": "2017",
+      "paper_authors": "Rijpma A, van der Graaf M, Lansbergen MM, Meulenbroek O, Cetinyurek-Yavuz A, Sijben JW, Heerschap A, Olde Rikkert MGM",
+      "journal": "Alzheimer's research & therapy",
+      "publisher": "Alzheimers Res Ther",
+      "resumen": "Synaptic dysfunction contributes to cognitive impairment in Alzheimer's disease and may be countered by increased intake of nutrients that target brain phospholipid metabolism. In this study, we explored whether the medical food Souvenaid affects brain phospholipid metabolism in patients with Alzheimer's disease."
+    },
+    {
+      "paper_name": "Genetic Variants of the FADS Gene Cluster Are Associated with Erythrocyte Membrane LC PUFA Levels in Patients with Mild Cognitive Impairment.",
+      "paper_year": "2016",
+      "paper_authors": "Schuchardt JP, Köbe T, Witte V, Willers J, Gingrich A, Tesky V, Pantel J, Rujescu D, Illig T, Flöel A, Hahn A",
+      "journal": "The journal of nutrition, health & aging..",
+      "publisher": "J Nutr Health Aging",
+      "resumen": "Long-chain (> 20 C-atoms) polyunsaturated fatty acids (LC PUFAs) of both the omega-6 (n-6) and omega-3 (n-3) series are important for the functional integrity of brain and thereby cognition, memory and mood. Clinical studies observed associations between altered LC PUFA levels and neurodegenerative diseases such as Alzheimer´s disease and its prodromal stage, mild cognitive impairment (MCI)."
+    },
+    {
+      "paper_name": "Effect of Multidomain Intervention, Omega-3 Polyunsaturated Fatty Acids Supplementation or their Combinaison on Cognitive Function in Non-Demented Older Adults According to Frail Status: Results from the MAPT Study.",
+      "paper_year": "2018",
+      "paper_authors": "Tabue-Teguo M, Barreto de Souza P, Cantet C, Andrieu S, Simo N, Fougère B, Dartigues JF, Vellas B",
+      "journal": "The journal of nutrition, health & aging..",
+      "publisher": "J Nutr Health Aging",
+      "resumen": "Aim: The aim of this study was to explore whether multidomain intervention (MI) and Omega-3 Polyunsaturated Fatty Acids supplementation can modify the cognitive function on elderly according to frail status."
+    },
+    {
+      "paper_name": "Effect Size Analyses of Souvenaid in Patients with Alzheimer's Disease.",
+      "paper_year": "2017",
+      "paper_authors": "Cummings J, Scheltens P, McKeith I, Blesa R, Harrison JE, Bertolucci PH, Rockwood K, Wilkinson D, Wijker W, Bennett DA, Shah RC",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "publisher": "J Alzheimers Dis",
+      "resumen": "Souvenaid® (uridine monophosphate, docosahexaenoic acid, eicosapentaenoic acid, choline, phospholipids, folic acid, vitamins B12, B6, C, and E, and selenium), was developed to support the formation and function of neuronal membranes."
+    },
+    {
+      "paper_name": "The Cost-Effectiveness of Three Prevention Strategies in Alzheimer's Disease: Results from the Multidomain Alzheimer Preventive Trial (MAPT).",
+      "paper_year": "2021",
+      "paper_authors": "Costa N, Mounié M, Pagès A, Derumeaux H, Rapp T, Guyonnet S, Coley N, Cantet C, Carrié I, Andrieu S, Molinier L",
+      "journal": "The journal of prevention of Alzheimer's disease..",
+      "publisher": "J Prev Alzheimers Dis",
+      "resumen": "To date, no curative treatment is available for Alzheimer's disease (AD). Therefore, efforts should focus on prevention strategies to improve the efficiency of healthcare systems."
+    },
+    {
+      "paper_name": "Effects of DHA-rich n-3 fatty acid supplementation on gene expression in blood mononuclear leukocytes: the OmegAD study.",
+      "paper_year": "2012",
+      "paper_authors": "Vedin I, Cederholm T, Freund-Levi Y, Basun H, Garlind A, Irving GF, Eriksdotter-Jönhagen M, Wahlund LO, Dahlman I, Palmblad J",
+      "journal": "PloS one",
+      "publisher": "PLoS One",
+      "resumen": "Dietary fish oil, rich in n-3 fatty acids (n-3 FAs), e.g. docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA), regulate inflammatory reactions by various mechanisms, e.g. gene activation. However, the effects of long-term treatment with DHA and EPA in humans, using genome wide techniques, are poorly described. Hence, our aim was to determine the effects of 6 mo of dietary supplementation with an n-3 FA preparation rich in DHA on global gene expression in peripheral blood mononuclear cells."
+    },
+    {
+      "paper_name": "The LipiDiDiet trial: what does it add to the current evidence for Fortasyn Connect in early Alzheimer's disease?",
+      "paper_year": "2019",
+      "paper_authors": "Rasmussen J",
+      "journal": "Clinical interventions in aging",
+      "publisher": "Clin Interv Aging",
+      "resumen": "Nutritional factors can influence the risk of developing Alzheimer's disease (AD) and its rate of progression, and there is, therefore, increasing interest in nutrition as a modifiable risk factor for the disease. Synaptic loss is an important feature of early AD, and the formation of new synapses is dependent on key nutritional elements that are known to be deficient in patients with AD. The daily medical food, Souvenaid, contains Fortasyn Connect, a multinutrient combination developed to specifically address these deficiencies, comprising docosahexaenoic acid, eicosapentaenoic acid, uridine monophosphate, choline, phospholipids, selenium, folic acid, and vitamins B12, B6, C, and E. Although yielding heterogeneous findings, clinical studies of Fortasyn Connect provide preliminary evidence of clinically relevant benefits on cognitive outcomes in prodromal and early AD. The LipiDiDiet trial investigated the effects of Fortasyn Connect on cognition and related measures in prodromal AD, and is the first randomized, controlled, double-blind, multicenter trial study of a non-pharmacological intervention in this setting. The primary efficacy endpoint was change over 24 months in a composite score of cognitive performance using a neuropsychological test battery. Fortasyn Connect had no significant effect on this endpoint, but demonstrated a significant benefit on secondary endpoints, including domains of cognition affected by AD (attention, memory, executive function) and hippocampal atrophy, suggesting a potential benefit on disease progression. Other studies have demonstrated benefits for Fortasyn Connect on nutritional markers and levels of plasma homocysteine. Taken together, current evidence indicates that Fortasyn Connect may show benefit on domains of cognition affected by AD and nutritional measures that influence risk factors for its progression; that it has greater potential for benefit earlier rather than later in the disease; and that it is safe and well tolerated, alone or in combination with AD medications. Further research into its potential role in AD management is therefore warranted."
+    },
+    {
+      "paper_name": "Plasma Fatty Acid Profiles in Relation to Cognition and Gender in Alzheimer's Disease Patients During Oral Omega-3 Fatty Acid Supplementation: The OmegAD Study.",
+      "paper_year": "2015",
+      "paper_authors": "Eriksdotter M, Vedin I, Falahati F, Freund-Levi Y, Hjorth E, Faxen-Irving G, Wahlund LO, Schultzberg M, Basun H, Cederholm T, Palmblad J",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "publisher": "J Alzheimers Dis",
+      "resumen": "ω3 fatty acids (ω3 FAs) may slow the rate of decline in cognitive performance in mild forms of cognitive impairment and Alzheimer's disease (AD). However, the relationship between changes of plasma ω3 FA levels and cognitive performance, as well as effects of gender, are poorly known."
+    },
+    {
+      "paper_name": "The impact of a multi-domain intervention on cerebral glucose metabolism: analysis from the randomized ancillary FDG PET MAPT trial.",
+      "paper_year": "2020",
+      "paper_authors": "Delrieu J, Voisin T, Saint-Aubert L, Carrie I, Cantet C, Vellas B, Payoux P, Andrieu S",
+      "journal": "Alzheimer's research & therapy",
+      "publisher": "Alzheimers Res Ther",
+      "resumen": "The Multidomain Alzheimer Preventive Trial (MAPT) was designed to assess the efficacy of omega-3 fatty acid supplementation, multidomain intervention (MI), or a combination of both on cognition. Although the MAPT study was negative, an effect of MI in maintaining cognitive functions compared to placebo group was showed in positive amyloid subjects. A FDG PET study (MAPT-NI) was implemented to test the impact of MI on brain glucose metabolism."
+    },
+    {
+      "paper_name": "Effects on transthyretin in plasma and cerebrospinal fluid by DHA-rich n - 3 fatty acid supplementation in patients with Alzheimer's disease: the OmegAD study.",
+      "paper_year": "2013",
+      "paper_authors": "Faxén-Irving G, Freund-Levi Y, Eriksdotter-Jönhagen M, Basun H, Hjorth E, Palmblad J, Vedin I, Cederholm T, Wahlund LO",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "publisher": "J Alzheimers Dis",
+      "resumen": "Transthyretin (TTR) binds amyloid-β (Aβ) and may reduce brain Aβ, a pathological feature in Alzheimer's disease (AD). N - 3 fatty acids (FA), docosahexaenoic (DHA), and eicosapentaenoic acid (EPA) may increase TTR transcription in rat hippocampus. We studied effects of n - 3 FA supplementation on TTR-levels in patients with AD. Outpatients were randomized to receive 1.7 g DHA and 0.6 g EPA (n - 3/n - 3 group) or placebo (placebo/n - 3 group) during 6 months. After 6 months, all patients received n - 3 FA for another 6 months. TTR and FA were measured in plasma in all subjects, whereas TTR in cerebrospinal fluid (CSF) was measured in a subgroup. The study was completed by 89 patients in the n - 3/n - 3 group (75 y, 57% w) and 85 in the placebo/n - 3 group (75 y, 46% w). Baseline plasma-TTR was within normal range in both groups. After 6 months, plasma-TTR decreased in the placebo/n - 3 group (p < 0.001 within and p < 0.015 between the groups). No changes were observed in CSF TTR. From 6 to 12 months when both groups were supplemented, plasma-TTR increased significantly in both groups. Repeated measures ANOVA indicated an increase in TTR over time (p = 0.04) in those receiving n - 3 FA for 12 months. By linear regression analyses, n - 3 FA treatment was independently associated with increased plasma-TTR at 6 months (β = -0.172, p = 0.028). Thus, n - 3 FA treatment appeared to increase plasma-TTR in patients with AD. Since TTR may influence Aβ deposition in the brain, the results warrant further exploration."
+    },
+    {
+      "paper_name": "Reduced prostaglandin F2 alpha release from blood mononuclear leukocytes after oral supplementation of omega3 fatty acids: the OmegAD study.",
+      "paper_year": "2010",
+      "paper_authors": "Vedin I, Cederholm T, Freund-Levi Y, Basun H, Hjorth E, Irving GF, Eriksdotter-Jönhagen M, Schultzberg M, Wahlund LO, Palmblad J",
+      "journal": "Journal of lipid research",
+      "publisher": "J Lipid Res",
+      "resumen": "Omega-3 fatty acids, e.g., dokosahexaenoic acid (DHA) and eikosapentaenoic acid (EPA), ameliorate inflammatory reactions by various mechanisms, but the role of prostaglandins remains unclear. Our aim was to determine if dietary supplementation with a DHA-rich fish oil influenced the release of PGF(2alpha) from peripheral blood mononuclear cells (PBMC). In the OmegAD study, 174 Alzheimer disease patients received either 1.7 g DHA plus 0.6 g EPA or a placebo daily for six months. PBMCs from the 21 (9 on fish oil and 12 on placebo) first-randomized patients were stimulated with either lipopolysaccharide (LPS) or phytohemagglutinin (PHA) before and after 6 months. Our results showed that plasma concentrations of DHA and EPA increased significantly at 6 months in the omega-3 group. PGF(2alpha) release from LPS- (but not from PHA-) stimulated PBMC was significantly diminished in this group; no change was noted in the placebo group. PGF(2alpha) changes correlated inversely with changes in plasma DHA and EPA. Decreased IL-6 and IL-1(beta) levels correlated with decreased PGF(2alpha) levels. The stimulus-specific PGF(2alpha) release from PBMC after 6 months of oral supplementation with the DHA-rich fish oil might be one event related to reduced inflammatory reactions associated with omega-3 fatty acid intake."
+    },
+    {
+      "paper_name": "Association of Fish Oil and Physical Activity on Mobility Disability in Older Adults.",
+      "paper_year": "2020",
+      "paper_authors": "Balachandran A, Gundermann DM, Walkup MP, King AC, Ambrosius WT, Kritchevsky SB, Pahor M, Newman AB, Manini TM",
+      "journal": "Medicine and science in sports and exercise",
+      "publisher": "Med Sci Sports Exerc",
+      "resumen": "This study aimed to examine whether long-term fish oil (FO) supplementation is associated with a lower risk of mobility disability and enhances benefits of physical activity (PA)."
+    },
+    {
+      "paper_name": "Effects of docosahexaenoic acid-rich n-3 fatty acid supplementation on cytokine release from blood mononuclear leukocytes: the OmegAD study.",
+      "paper_year": "2008",
+      "paper_authors": "Vedin I, Cederholm T, Freund Levi Y, Basun H, Garlind A, Faxén Irving G, Jönhagen ME, Vessby B, Wahlund LO, Palmblad J",
+      "journal": "The American journal of clinical nutrition",
+      "publisher": "Am J Clin Nutr",
+      "resumen": "Dietary fish or fish oil rich in n-3 fatty acids (n-3 FAs), eg, docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA), ameliorate inflammatory reactions by various mechanisms. Whereas most studies have explored the effects of predominantly EPA-based n-3 FAs preparations, few have addressed the effects of n-3 FAs preparations with DHA as the main FA."
+    },
+    {
+      "paper_name": "Souvenaid reduces behavioral deficits and improves social cognition skills in frontotemporal dementia: a proof-of-concept study.",
+      "paper_year": "2015",
+      "paper_authors": "Pardini M, Serrati C, Guida S, Mattei C, Abate L, Massucco D, Sassos D, Amore M, Krueger F, Cocito L, Emberti Gialloreti L",
+      "journal": "Neuro-degenerative diseases",
+      "publisher": "Neurodegener Dis",
+      "resumen": "Souvenaid™ is a nutraceutical compound thought to positively enhance synaptic function. In line with this mechanism of action, Souvenaid™ has been shown to improve cognitive function in subjects with mild Alzheimer's disease in randomized clinical trials. To date, however, the potential of Souvenaid™ to improve cognitive functioning in subjects with other neurodegenerative conditions also characterized by synaptic loss has not been explored."
+    },
+    {
+      "paper_name": "Effects of DHA-phospholipids, melatonin and tryptophan supplementation on erythrocyte membrane physico-chemical properties in elderly patients suffering from mild cognitive impairment.",
+      "paper_year": "2012",
+      "paper_authors": "Cazzola R, Rondanelli M, Faliva M, Cestaro B",
+      "journal": "Experimental gerontology",
+      "publisher": "Exp Gerontol",
+      "resumen": "A randomized, double-blind placebo-controlled clinical trial was carried out to assess the efficacy of a docosahexenoic acid (DHA)-phospholipids, melatonin and tryptophan supplemented diet in improving the erythrocyte oxidative stress, membrane fluidity and membrane-bound enzyme activities of elderly subjects suffering from mild cognitive impairment (MCI). These subjects were randomly assigned to the supplement group (11 subjects, 9F and 2M; age 85.3±5.3y) or placebo group (14-matched subjects, 11F and 3M; 86.1±6.5). The duration of the treatment was 12weeks. The placebo group showed no significant changes in erythrocyte membrane composition and function. The erythrocyte membranes of the supplement group showed a significant increase in eicosapentenoic acid, docosapentenoic acid and DHA concentrations and a significant decrease in arachidonic acid, malondialdehyde and lipofuscin levels. These changes in membrane composition resulted in an increase in the unsaturation index, membrane fluidity and acetylcholine esterase activity. Moreover, a significant increase in the ratio between reduced and oxidized glutathione was observed in the erythrocyte of the supplement group. Although this study is a preliminary investigation, we believe these findings to be of great speculative and interpretative interest to better understand the complex and multi-factorial mechanisms behind the possible links between diets, their functional components and possible molecular processes that contribute to increasing the risk of developing MCI and Alzheimer's."
+    },
+    {
+      "paper_name": "Association between inflammatory biomarkers and the cognitive response to a multidomain intervention: secondary longitudinal analyses from the MAPT study.",
+      "paper_year": "2025",
+      "paper_authors": "Gonzalez-Bautista E, Soto M, Abellan van Kan G, Delrieu J",
+      "journal": "GeroScience",
+      "publisher": "Geroscience",
+      "resumen": "The aim of this study is to evaluate the association of systemic inflammation measured by plasma biomarkers with the change in cognitive function among participants from the Multidomain Alzheimer Preventive Trial (MAPT) exposed to the multidomain intervention (MI). Secondary analysis of the MAPT longitudinal data. MAPT is a randomized, placebo-controlled trial with 3 interventional groups (omega-3 only, MI only, omega-3 plus MI) and a control group. We tested the association of the change in cognitive function with inflammatory biomarkers (tumoral necrosis factor receptor-1 (TNFR1), monocyte chemoattractant protein-1 (MCP1), Growth Differentiation Factor-15 (GDF15), Interleukin-6 (IL6) and C reactive protein (CRP)) using mixed-effects models. A subgroup analysis was performed in those exposed to the MI. The response to the MI was defined as the change in the composite cognitive score over the 2-year clinical follow-up period. by modeling the response to the intervention and identifying \"good responders\", i.e., those in the 5th quintile of response at the end of the intervention period (2 years after the measurement of inflammatory markers). We included 1,527 participants (mean age 75.3, SD = 4.4; 64% female). Higher levels of GDF15 and TNFR1 were associated with a worse trajectory in the cognitive composite score in adjusted models. \"Good responders\" had an estimated mean change in the composite score of 0.051 (SD 0.062) over two years of intervention, compared to -0.136 (SD = 0.111) for the \"not-good responders\". Higher IL6 levels were associated with a decreased likelihood of being a \"good responder\" (OR = 0.22, p = 0.018, 95% CI 0.06; 0.78), with similar results for CRP (OR = 0.48, p = 0.009, 95% CI 0.28; 0.84). Higher inflammation was associated with a worse cognitive trajectory among nondemented participants and a lower likelihood of being classified as a \"good responder\" in those receiving a MI. Further confirmation of these findings could lead to the use of systemic inflammation as inclusion or stratification criteria in prevention trials."
+    },
+    {
+      "paper_name": "24-month intervention with a specific multinutrient in people with prodromal Alzheimer's disease (LipiDiDiet): a randomised, double-blind, controlled trial.",
+      "paper_year": "2017",
+      "paper_authors": "Soininen H, Solomon A, Visser PJ, Hendrix SB, Blennow K, Kivipelto M, Hartmann T",
+      "journal": "The Lancet. Neurology",
+      "publisher": "Lancet Neurol",
+      "resumen": "Nutrition is an important modifiable risk factor in Alzheimer's disease. Previous trials of the multinutrient Fortasyn Connect showed benefits in mild Alzheimer's disease dementia. LipiDiDiet investigated the effects of Fortasyn Connect on cognition and related measures in prodromal Alzheimer's disease. Here, we report the 24-month results of the trial."
+    },
+    {
+      "paper_name": "Tolerability and safety of Souvenaid in patients with mild Alzheimer's disease: results of multi-center, 24-week, open-label extension study.",
+      "paper_year": "2015",
+      "paper_authors": "Olde Rikkert MG, Verhey FR, Blesa R, von Arnim CA, Bongers A, Harrison J, Sijben J, Scarpini E, Vandewoude MF, Vellas B, Witkamp R, Kamphuis PJ, Scheltens P",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "publisher": "J Alzheimers Dis",
+      "resumen": "The medical food Souvenaid, containing the specific nutrient combination Fortasyn Connect, is designed to improve synapse formation and function in patients with Alzheimer's disease (AD). Two double-blind randomized controlled trials (RCT) with Souvenaid of 12 and 24 week duration (Souvenir I and Souvenir II) showed that memory performance was improved in drug-naïve mild AD patients, whereas no effects on cognition were observed in a 24-week RCT (S-Connect) in mild to moderate AD patients using AD medication. Souvenaid was well-tolerated in all RCTs."
+    },
+    {
+      "paper_name": "Effect of APOE Genotype on Plasma Docosahexaenoic Acid (DHA), Eicosapentaenoic Acid, Arachidonic Acid, and Hippocampal Volume in the Alzheimer's Disease Cooperative Study-Sponsored DHA Clinical Trial.",
+      "paper_year": "2020",
+      "paper_authors": "Tomaszewski N, He X, Solomon V, Lee M, Mack WJ, Quinn JF, Braskie MN, Yassine HN",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "publisher": "J Alzheimers Dis",
+      "resumen": "Docosahexaenoic acid (DHA), eicosapentaenoic acid (EPA), and arachidonic acid (AA) play key roles in several metabolic processes relevant to Alzheimer's disease (AD) pathogenesis and neuroinflammation. Carrying the APOEɛ4 allele (APOE4) accelerates omega-3 polyunsaturated fatty acid (PUFA) oxidation. In a pre-planned subgroup analysis of the Alzheimer's Disease Cooperative Study-sponsored DHA clinical trial, APOE4 carriers with mild probable AD had no improvements in cognitive outcomes compared to placebo, while APOE 4 non-carriers showed a benefit from DHA supplementation."
+    },
+    {
+      "paper_name": "DHA supplementation improves cognitive function via enhancing Aβ-mediated autophagy in Chinese elderly with mild cognitive impairment: a randomised placebo-controlled trial.",
+      "paper_year": "2018",
+      "paper_authors": "Zhang YP, Lou Y, Hu J, Miao R, Ma F",
+      "journal": "Journal of neurology, neurosurgery, and psychiatry",
+      "publisher": "J Neurol Neurosurg Psychiatry",
+      "resumen": "Higher docosahexaenoic acid (DHA) intake is inversely correlated with relative risk of Alzheimer's disease. The potential benefits of DHA supplementation in people with mild cognitive impairment (MCI) have not been fully examined."
+    },
+    {
+      "paper_name": "The effect of APOE genotype on the delivery of DHA to cerebrospinal fluid in Alzheimer's disease.",
+      "paper_year": "2016",
+      "paper_authors": "Yassine HN, Rawat V, Mack WJ, Quinn JF, Yurko-Mauro K, Bailey-Hall E, Aisen PS, Chui HC, Schneider LS",
+      "journal": "Alzheimer's research & therapy",
+      "publisher": "Alzheimers Res Ther",
+      "resumen": "Apolipoprotein E (APOE) ɛ4 and low cerebrospinal fluid (CSF) amyloid-β42 (Aβ42) levels are predictors for developing Alzheimer's disease (AD). The results of several studies indicate an interaction between docosahexaenoic acid (DHA) consumption and cognitive outcomes by APOE genotype. Our objective in the present study was to examine whether APOE ɛ4 genotype and low CSF Aβ42 levels were associated with reduced delivery of DHA to CSF in the Alzheimer's Disease Cooperative Study-sponsored DHA clinical trial."
+    },
+    {
+      "paper_name": "Commentary on \"A roadmap for the prevention of dementia II. Leon Thal Symposium 2008.\" The Multidomain Alzheimer Preventive Trial (MAPT): a new approach to the prevention of Alzheimer's disease.",
+      "paper_year": "2009",
+      "paper_authors": "Gillette-Guyonnet S, Andrieu S, Dantoine T, Dartigues JF, Touchon J, Vellas B",
+      "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+      "publisher": "Alzheimers Dement",
+      "resumen": "Because no effective curative approaches are available, preventive approaches in the field of Alzheimer's disease (AD) are needed. We present the design of the ongoing Multidomain Alzheimer Preventive Trial (MAPT) Study. Several previous studies suggested that many factors may be involved in the occurrence of AD at late ages. Because of the probable multifactorial nature of AD, it seems logical to initiate multidomain interventions to examine their potential synergistic effects. The MAPT Study aims to evaluate the efficacy of a multidomain intervention (nutritional, physical, and cognitive training) and omega 3 treatment in the prevention of cognitive decline in frail elderly persons aged 70 years or over. The study also collects imaging and biological data that could be used in future AD prevention and treatment trials."
+    },
+    {
+      "paper_name": "Commentary: Fatty acids and Alzheimer's disease: evidence on cognition and cortical β-amyloid from secondary analyses of the Multidomain Alzheimer Preventive Trial.",
+      "paper_year": "2018",
+      "paper_authors": "Hooper C, Vellas B",
+      "journal": "The journal of prevention of Alzheimer's disease..",
+      "publisher": "J Prev Alzheimers Dis",
+      "resumen": ""
+    },
+    {
+      "paper_name": "Using joint models to disentangle intervention effect types and baseline confounding: an application within an intervention study in prodromal Alzheimer's disease with Fortasyn Connect.",
+      "paper_year": "2019",
+      "paper_authors": "van Oudenhoven FM, Swinkels SHN, Hartmann T, Soininen H, van Hees AMJ, Rizopoulos D",
+      "journal": "BMC medical research methodology",
+      "publisher": "BMC Med Res Methodol",
+      "resumen": "Many prodromal Alzheimer's disease trials collect two types of data: the time until clinical diagnosis of dementia and longitudinal patient information. These data are often analysed separately, although they are strongly associated. By combining the longitudinal and survival data into a single statistical model, joint models can account for the dependencies between the two types of data."
+    },
+    {
+      "paper_name": "Beneficial effects of docosahexaenoic acid on cognition in age-related cognitive decline.",
+      "paper_year": "2010",
+      "paper_authors": "Yurko-Mauro K, McCarthy D, Rom D, Nelson EB, Ryan AS, Blackwell A, Salem N, Stedman M",
+      "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+      "publisher": "Alzheimers Dement",
+      "resumen": "Docosahexaenoic acid (DHA) plays an important role in neural function. Decreases in plasma DHA are associated with cognitive decline in healthy elderly adults and in patients with Alzheimer's disease. Higher DHA intake is inversely correlated with relative risk of Alzheimer's disease. The potential benefits of DHA supplementation in age-related cognitive decline (ARCD) have not been fully examined."
+    },
+    {
+      "paper_name": "Outcomes of Perilla Seed Oil as an Additional Neuroprotective Therapy in Patients with Mild to Moderate Dementia: A Randomized Control Trial.",
+      "paper_year": "2019",
+      "paper_authors": "Kamalashiran C, Sriyakul K, Pattaraarchachai J, Muengtaweepongsa S",
+      "journal": "Current Alzheimer research",
+      "publisher": "Curr Alzheimer Res",
+      "resumen": "Dementia is a common medical disorder in the elderly. Oxidative stress plays a major role in the process of cognitive decline in dementia. Perilla seed oil demonstrates its neuroprotective effects via anti-oxidative mechanisms against dementia. We investigate neuroprotective effects of perilla seed oil as an additional treatment in patients with mild to moderate dementia."
+    },
+    {
+      "paper_name": "Docosahexaenoic acid-concentrated fish oil supplementation in subjects with mild cognitive impairment (MCI): a 12-month randomised, double-blind, placebo-controlled trial.",
+      "paper_year": "2013",
+      "paper_authors": "Lee LK, Shahar S, Chin AV, Yusoff NA",
+      "journal": "Psychopharmacology",
+      "publisher": "Psychopharmacology (Berl)",
+      "resumen": "Epidemiological studies have suggested a beneficial effect of fish oil supplementation in halting the initial progression of Alzheimer's disease. However, it remains unclear whether fish oil affects cognitive function in older people with mild cognitive impairment (MCI)."
+    },
+    {
+      "paper_name": "Does Fatty Acid Composition in Subcutaneous Adipose Tissue Differ between Patients with Alzheimer's Disease and Cohabiting Proxies?",
+      "paper_year": "2018",
+      "paper_authors": "Faxen-Irving G, Falahati F, Basun H, Eriksdotter M, Vedin I, Wahlund LO, Schultzberg M, Hjorth E, Palmblad J, Cederholm T, Freund-Levi Y",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "publisher": "J Alzheimers Dis",
+      "resumen": "Low tissue levels of the major marine ω3 fatty acids (FAs) DHA and EPA are found in Alzheimer's disease (AD). We investigated if healthy proxies to AD patients have higher levels of these ω3 FAs. We observed lower levels of EPA and DHA in subcutaneous adipose tissue biopsies from 64 AD patients compared with 16 cognitively healthy proxies. No significant difference was observed when pairwise comparisons were made between a subset of 16 AD patients and their co-habiting proxies. Larger studies are needed to replicate these findings and to determine if they could depend on FA intake or differences in metabolism."
+    },
+    {
+      "paper_name": "The effect of souvenaid on functional brain network organisation in patients with mild Alzheimer's disease: a randomised controlled study.",
+      "paper_year": "2014",
+      "paper_authors": "de Waal H, Stam CJ, Lansbergen MM, Wieggers RL, Kamphuis PJ, Scheltens P, Maestú F, van Straaten EC",
+      "journal": "PloS one",
+      "publisher": "PLoS One",
+      "resumen": "Synaptic loss is a major hallmark of Alzheimer's disease (AD). Disturbed organisation of large-scale functional brain networks in AD might reflect synaptic loss and disrupted neuronal communication. The medical food Souvenaid, containing the specific nutrient combination Fortasyn Connect, is designed to enhance synapse formation and function and has been shown to improve memory performance in patients with mild AD in two randomised controlled trials."
+    },
+    {
+      "paper_name": "Exercise as a potential modulator of inflammation in patients with Alzheimer's disease measured in cerebrospinal fluid and plasma.",
+      "paper_year": "2019",
+      "paper_authors": "Jensen CS, Bahl JM, Østergaard LB, Høgh P, Wermuth L, Heslegrave A, Zetterberg H, Heegaard NHH, Hasselbalch SG, Simonsen AH",
+      "journal": "Experimental gerontology",
+      "publisher": "Exp Gerontol",
+      "resumen": "Neuroinflammation is recognized as part of the pathological progression of Alzheimer's disease (AD), but the molecular mechanisms are still not entirely clear. Systemically, physical exercise has shown to have a positive modulating effect on markers of inflammation. It is not known if this general effect also takes place in the central nervous system in AD. The aim of this study was to investigate the effect of 16 weeks of moderate to high-intensity physical exercise on selected biomarkers of inflammation both systemically and in the CNS, in patients with AD."
     }
   ]
 }

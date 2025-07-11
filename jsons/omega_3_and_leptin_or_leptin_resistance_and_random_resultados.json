@@ -1,7 +1,7 @@
 {
   "search_info": {
     "search_engine": "PubMed",
-    "date": "2025-07-09",
+    "date": "2025-07-11",
     "search_terms": "Omega 3 AND (\"leptin\" OR \"Leptin resistance\") AND \"Randomized Controlled Trial\"[pt]",
     "hits": 44
   },
@@ -11,124 +11,12 @@
   "termino_busqueda": "Omega 3 AND (\"leptin\" OR \"Leptin resistance\") AND \"Randomized Controlled Trial\"[pt]",
   "resultados": [
     {
-      "paper_name": "Effect of chia seeds or concentrated fish oil on cardiometabolic risk markers in subjects with hypertriglyceridaemia: a parallel clinical trial.",
-      "paper_year": "2024",
-      "paper_authors": "Shahparvari MR, Nasrollahzadeh J",
-      "journal": "Journal of human nutrition and dietetics : the official journal of the British Dietetic Association",
-      "publisher": "J Hum Nutr Diet",
-      "resumen": "The beneficial effects of n-3 polyunsaturated fatty acids (PUFA) in reducing high blood triglyceride (TG) levels have been well demonstrated. This study aimed to investigate the effect of chia seeds on blood TG and its associated cardiometabolic factors in hypertriglyceridaemic individuals."
-    },
-    {
       "paper_name": "Lipid profile after omega-3 supplementation in neonates with intrauterine growth retardation: a randomized controlled trial.",
       "paper_year": "2023",
       "paper_authors": "Elsheikh M, El Amrousy D, El-Mahdy H, Dawoud H, Harkan A, El-Barky A",
       "journal": "Pediatric research",
       "publisher": "Pediatr Res",
       "resumen": "Neonates with intrauterine growth restriction (IUGR) have a high lipid profile that predisposes them to cardiovascular disease later in life. We aimed to evaluate the effect of omega 3 supplementation on serum leptin level, lipid profile, and growth in neonates with IUGR."
-    },
-    {
-      "paper_name": "Secondary data analysis investigating effects of marine omega-3 fatty acids on circulating levels of leptin and adiponectin in older adults.",
-      "paper_year": "2021",
-      "paper_authors": "Rausch JA, Gillespie S, Orchard T, Tan A, McDaniel JC",
-      "journal": "Prostaglandins, leukotrienes, and essential fatty acids",
-      "publisher": "Prostaglandins Leukot Essent Fatty Acids",
-      "resumen": "Higher leptin and lower adiponectin levels have been linked to progressing systemic inflammation and diseases of aging. Among older adults with obesity and an inflammatory conditions, we quantified effects of eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) supplementation on leptin, adiponectin, and the leptin-to-adiponectin ratio (LAR). We also examined associations among adipokine and cytokine levels."
-    },
-    {
-      "paper_name": "The Effect of Omega-3 Fatty Acid Supplementation on Serum Adipocytokines, Lipid Profile and Biochemical Markers of Inflammation in Recreational Runners.",
-      "paper_year": "2021",
-      "paper_authors": "Żebrowska A, Hall B, Stolecka-Warzecha A, Stanula A, Sadowska-Krępa E",
-      "journal": "Nutrients",
-      "publisher": "Nutrients",
-      "resumen": "The study aimed to evaluate the effects of a 3-week ω-3 PUFA supplementation on serum adipocytokines (i.e., adiponectin, leptin), neuregulin-4 (NRG4) and erythrocyte omega-3 (ω-3) fatty acid content, as well as the blood antioxidant defense capacity in non-elite endurance runners."
-    },
-    {
-      "paper_name": "Insulin Resistance Modifies the Effects of Omega-3 Acid Ethyl Esters on Left Ventricular Remodeling After Acute Myocardial Infarction (from the OMEGA-REMODEL Randomized Clinical Trial).",
-      "paper_year": "2020",
-      "paper_authors": "Fujikura K, Heydari B, Ge Y, Kaneko K, Abdullah S, Harris WS, Jerosch-Herold M, Kwong RY",
-      "journal": "The American journal of cardiology",
-      "publisher": "Am J Cardiol",
-      "resumen": "Insulin resistance early after acute myocardial infarction is associated with increased heart failure and mortality. OMEGA-REMODEL was a prospective double-blind 1:1 randomized control trial of patients with AMI. We reported that 6-month treatment with omega-3 fatty acid (O-3FA) 4 g/day attenuated cardiac remodeling accompanied by reduction in inflammation. We hypothesized that insulin resistance modifies the therapeutic effect of O-3FA on post-MI cardiac remodeling. The OMEGA-REMODEL study group was dichotomized according to cohort- and gender-specific median cutoff value of leptin-to-adiponectin ratio (LAR) at baseline (LAR-Hi vs LAR-Lo). Mixed model regression analyses were used to evaluate effect modification of O-3FA on reduction of left ventricular end-systolic volume index (LVESVI) by LAR status. Baseline LAR was evaluated on 325 patients (59 ± 11 years, 81% male). A total of 168 patients were categorized in LAR-Lo, and 157 in LAR-Hi. O-3FA treatment resulted in significant LVESVI reduction in patients with LAR-Lo but not with LAR-Hi (p = 0.0002 vs 0.66, respectively). Mixed model regression analysis showed significant modification of LAR on O-3FA's treatment effect in attenuating LVESVI (p = 0.021). In conclusion, this post-hoc efficacy analysis suggests that LAR status significantly modified O-3FA's treatment effect in attenuating cardiac remodeling. During the convalescent phase of acute infarct healing, patients with lower insulin resistance estimated by LAR appear to derive more therapeutic response from O-3FA toward improvement of LVESVI."
-    },
-    {
-      "paper_name": "Effect of prenatal EPA and DHA on maternal and cord blood insulin sensitivity: a secondary analysis of the mothers, omega 3, and mental health study.",
-      "paper_year": "2019",
-      "paper_authors": "England JA, Jain J, Holbrook BD, Schrader R, Qualls C, Mozurkewich E",
-      "journal": "BMC pregnancy and childbirth",
-      "publisher": "BMC Pregnancy Childbirth",
-      "resumen": "We sought to determine whether prenatal supplementation with the omega-3 fatty acids eicosapentaenoic acid (EPA) or docosahexaenoic acid (DHA) would increase markers of insulin sensitivity in maternal or cord blood compared with placebo supplementation. A secondary aim was to evaluate the association of serum EPA and DHA fractions with adiponectin, leptin and the adiponectin:leptin ratio (ALR). We hypothesized that omega-3 fatty acid supplementation would increase markers of insulin sensitivity in maternal and umbilical cord plasma."
-    },
-    {
-      "paper_name": "Effect of n-3 fatty acids supplementation during life style modification in women with overweight.",
-      "paper_year": "2018",
-      "paper_authors": "Sedláček P, Plavinová I, Langmajerová J, Dvořáková J, Novák J, Trefil L, Müller L, Buňatová P, Zeman V, Müllerová D",
-      "journal": "Central European journal of public health",
-      "publisher": "Cent Eur J Public Health",
-      "resumen": "The marine n-3 fatty acids eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) exert numerous beneficial effects on health, but their potency to defend against development of peripheral insulin resistance of healthy person with overweight remains poorly characterized. We aimed to evaluate the effect of a combination intervention using EPA + DHA and the lifestyle modification (LSM) in women with overweight."
-    },
-    {
-      "paper_name": "Effect of omega-3 fatty acids supplementation combined with lifestyle intervention on adipokines and biomarkers of endothelial dysfunction in obese adolescents with hypertriglyceridemia.",
-      "paper_year": "2019",
-      "paper_authors": "Huang F, Del-Río-Navarro BE, Leija-Martinez J, Torres-Alcantara S, Ruiz-Bedolla E, Hernández-Cadena L, Barraza-Villarreal A, Romero-Nava R, Sanchéz-Muñoz F, Villafaña S, Marchat LA, Hong E",
-      "journal": "The Journal of nutritional biochemistry",
-      "publisher": "J Nutr Biochem",
-      "resumen": "Obesity in adolescents is considered a major public health problem; combined interventional approaches such as omega-3 supplementation with lifestyle intervention (LI) might exert synergistic effects and exceed the impact of each individual strategy. The purpose of the present study was to evaluate if the supplementation of omega-3 with LI could improve metabolic and endothelial abnormality in obese adolescents with hypertriglyceridemia. The study involved sixty-nine adolescents with normal weight and seventy obese adolescents with hypertriglyceridemia. All obese adolescents were applied to LI and randomly assigned to omega-3 supplementation or placebo group for 12 weeks. The obese adolescents with hypertriglyceridemia presented increased levels of leptin, retinol binding protein 4 (RBP4), selectin E (sE) and asymmetric dimethylarginine (ADMA) and decreased levels of adiponectin compared with control subjects. After 12-week intervention, omega-3 supplementation with LI decreased significantly in triglycerides, HOMA, leptin, RBP4, ADMA and sE. Moreover, omega-3 with LI displayed a significant reduction in triglycerides, ADMA and sE in comparison with LI alone. In subjects with omega-3 combined with LI assessed by multivariate regression model, the reduction in triglycerides was the only independent determinant of the decrease in ADMA. The reductions in triglycerides and HOMA were significantly contributed to the changes in sE. Our data indicated that omega-3 combined with LI in short duration significantly improved dyslipidemia, insulin resistance, abnormality of adipokines, endothelial dysfunction in comparison of LI alone, indicating the combined approach is an effective clinical and applicable strategy to control metabolic abnormality and decrease the risks of cardiovascular diseases in obese adolescents."
-    },
-    {
-      "paper_name": "Omega-3 fatty acids, inflammatory status and biochemical markers of patients with systemic lupus erythematosus: a pilot study.",
-      "paper_year": "2017",
-      "paper_authors": "Curado Borges M, de Miranda Moura Dos Santos F, Weiss Telles R, Melo de Andrade MV, Toulson Davisson Correia MI, Lanna CCD",
-      "journal": "Revista brasileira de reumatologia",
-      "publisher": "Rev Bras Reumatol Engl Ed",
-      "resumen": "Studies have shown that omega-3 fatty acids reduce the concentrations of eicosanoids, cytokines, chemokines, C-reactive protein (CRP) and other inflammatory mediators."
-    },
-    {
-      "paper_name": "Effects of n-3 Polyunsaturated Fatty Acid Supplementation on Serum Leptin Levels, Appetite Sensations, and Intake of Energy and Macronutrients in Obese People: A Randomized Clinical Trial.",
-      "paper_year": "2018",
-      "paper_authors": "Payahoo L, Ostadrahimi A, Farrin N, Khaje-Bishak Y",
-      "journal": "Journal of dietary supplements",
-      "publisher": "J Diet Suppl",
-      "resumen": "Obesity is a common health problem. Appetite is one of the main obesity-controlling factors that can be influenced by leptin. Leptin reduces food intake and accelerates energy expenditure. Leptin levels can be affected by dietary factors such as fats, special amino acids, and fructose. This study aimed to determine the effects of polyunsaturated fatty acid n-3 (PUFA n-3) supplementation on serum leptin levels, appetite sensations, and dietary intakes in obese people. This study was performed on 60 obese individuals with body mass index (BMI) 30 (kg/m<sup>2</sup>) and above in 2012 in Tabriz, Iran. The participants were randomly allocated to the intervention (consumed two capsules containing 1 g/day n-3 fatty acids [180 mg EPA, 120 mg DHA] for 4 weeks) and control groups. Serum leptin levels were assessed by ELISA method, and visual analogue scale (VAS) questionnaire was completed for evaluating appetite sensations. The mean caloric [before = 1,575.39 (600), after = 1,236.14 (448.40)] and macronutrient intakes were decreased significantly in the intervention group (p < .05). After adjusting for baseline serum leptin levels, age, and gender values, the fullness item significantly increased in the intervention group [before = 2 (1-5), after = 3 (1-5), p = .034]. In addition, BMI decreased and serum leptin levels increased nonsignificantly in the intervention group. According to the results, PUFA n-3 decreased energy and macronutrient intakes, probably through the modulating of satiety. The short period of study caused the nonsignificant changes in BMI and circulatory leptin. Further studies are needed to confirm these results."
-    },
-    {
-      "paper_name": "Effect of n-3 Polyunsaturated Fatty Acid Supplementation on Metabolic and Inflammatory Biomarkers in Type 2 Diabetes Mellitus Patients.",
-      "paper_year": "2017",
-      "paper_authors": "Jacobo-Cejudo MG, Valdés-Ramos R, Guadarrama-López AL, Pardo-Morales RV, Martínez-Carrillo BE, Harbige LS",
-      "journal": "Nutrients",
-      "publisher": "Nutrients",
-      "resumen": "Type 2 diabetes mellitus (T2DM) is accompanied by chronic low-grade inflammation, with an imbalance in the secretion of adipokines and, worsening insulin resistance. Supplementation with <i>n-</i>3 PUFA in T2DM decreases inflammatory markers, the purpose of the study was to investigate the effect of <i>n-</i>3 PUFA supplementation on adipokines, metabolic control, and lipid profile in T2DM Mexican adults."
-    },
-    {
-      "paper_name": "Treatment with high-dose n-3 PUFAs has no effect on platelet function, coagulation, metabolic status or inflammation in patients with atherosclerosis and type 2 diabetes.",
-      "paper_year": "2017",
-      "paper_authors": "Poreba M, Mostowik M, Siniarski A, Golebiowska-Wiatrak R, Malinowski KP, Haberka M, Konduracka E, Nessler J, Undas A, Gajos G",
-      "journal": "Cardiovascular diabetology",
-      "publisher": "Cardiovasc Diabetol",
-      "resumen": "Despite numerous studies on cardioprotective effects of omega-3 polyunsaturated fatty acids (n-3 PUFAs), there is limited evidence for n-3 PUFA-mediated effects, especially at its higher dose, on cardiovascular risk in patients with type 2 diabetes (DM2) and established atherosclerosis."
-    },
-    {
-      "paper_name": "The benefits of ω-3 supplementation depend on adiponectin basal level and adiponectin increase after the supplementation: A randomized clinical trial.",
-      "paper_year": "2017",
-      "paper_authors": "Barbosa MM, Melo AL, Damasceno NR",
-      "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
-      "publisher": "Nutrition",
-      "resumen": "The aim of this study was to analyze whether ω-3 supplementation improves cardiometabolic profile in individuals with cardiovascular risk factors and to determine the effect of adiponectin levels on these changes."
-    },
-    {
-      "paper_name": "Curcumin and long-chain Omega-3 polyunsaturated fatty acids for Prevention of type 2 Diabetes (COP-D): study protocol for a randomised controlled trial.",
-      "paper_year": "2016",
-      "paper_authors": "Thota RN, Acharya SH, Abbott KA, Garg ML",
-      "journal": "Trials",
-      "publisher": "Trials",
-      "resumen": "Lifestyle interventions, including increase in physical activity and dietary counselling, have shown the ability to prevent type 2 diabetes (T2D) in high-risk state individuals, but the prevalence is still skyrocketing in Australia, in line with global prevalence. Currently, no medicines are approved by the Therapeutic Goods Administration in Australia for the management of prediabetes. Therefore, there is a need of developing a safer, biologically efficacious and cost-effective alternative for delaying the transition of individual health state from prediabetes into T2D. In the current trial we propose to evaluate the effects of curcumin and/or long-chain omega-3 polyunsaturated fatty acids on improving glycosylated haemoglobin as a primary outcome, along with secondary outcomes of glycaemic indices, lipid profile and inflammatory parameters."
-    },
-    {
-      "paper_name": "Effect of DHA supplementation in a very low-calorie ketogenic diet in the treatment of obesity: a randomized clinical trial.",
-      "paper_year": "2016",
-      "paper_authors": "de Luis D, Domingo JC, Izaola O, Casanueva FF, Bellido D, Sajoux I",
-      "journal": "Endocrine",
-      "publisher": "Endocrine",
-      "resumen": "A VLCK diet supplemented with DHA, commercially available, was tested against an isocaloric VLCK diet without DHA. The main purpose of this study was to compare the effect of DHA supplementation in classic cardiovascular risk factors, adipokine levels, and inflammation-resolving eicosanoids. A total of obese patients were randomized into two groups: a group supplemented with DHA (n = 14) (PnK-DHA group) versus a group with an isocaloric diet free of supplementation (n = 15) (control group). The follow-up period was 6 months. The average weight loss after 6 months of treatment was 20.36 ± 5.02 kg in control group and 19.74 ± 5.10 kg in PnK-DHA group, without statistical differences between both groups. The VLCK diets induced a significant change in some of the biological parameters, such as insulin, HOMA-IR, triglycerides, LDL cholesterol, C-reactive protein, resistin, TNF alpha, and leptin. Following DHA supplementation, the DHA-derived oxylipins were significantly increased in the intervention group. The ratio of proresolution/proinflammatory lipid markers was increased in plasma of the intervention group over the entire study. Similarly, the mean ratios of AA/EPA and AA/DHA in erythrocyte membranes were dramatically reduced in the PnK-DHA group and the anti-inflammatory fatty acid index (AIFAI) was consistently increased after the DHA treatment (p < 0.05). The present study demonstrated that a very low-calorie ketogenic diet supplemented with DHA was significantly superior in the anti-inflammatory effect, without statistical differences in weight loss and metabolic improvement."
     },
     {
       "paper_name": "Potential Effects of Omega-3 Fatty Acids on Insulin Resistance and Lipid Profile in Maintenance Hemodialysis Patients: a Randomized Placebo-Controlled Trial.",
@@ -139,38 +27,6 @@
       "resumen": "Insulin resistance (IR), a risk factor for cardiovascular disease and all-cause mortality, is prevalent among maintenance hemodialysis patients. Effects of omega-3 fatty acids on IR in hemodialysis patients have not been well understood. This study aimed to determine the effects of omega-3 fatty acids on IR and serum lipids of hemodialysis patients."
     },
     {
-      "paper_name": "Metabolic and reproductive parameters in prepubertal gilts after omega-3 supplementation in the diet.",
-      "paper_year": "2016",
-      "paper_authors": "Moreira F, Cheuiche ZM, Rizzoto G, Santos MQ, Schuch MS, Flach MJ, Gasperin BG, Bianchi I, Lucia T",
-      "journal": "Animal reproduction science",
-      "publisher": "Anim Reprod Sci",
-      "resumen": "Polyunsaturated fatty acids may benefit reproductive performance of female swine. This study evaluated metabolic and reproductive parameters of prepubertal finishing gilts fed with fish oil as a natural source of omega-3 fatty acids (6.88g/d) (n=12) over a period of 45 d. Gilts in the control group were fed soybean oil (n=13). Body weight and backfat were determined at 15-d intervals. Serum levels of leptin, IGF-1, insulin, cholesterol and triglycerides were measured at the beginning (D0) and at the end of the period (D45). Immunolabeling intensity for leptin and its receptor (ObRb) was assessed in oocytes of preantral follicles. Gilts fed omega-3 presented slightly heavier uteri (P=0.09) than control gilts, but there was no effect on body weight and backfat (P>0.05). Cholesterol serum levels tended to be lower at D45 for omega-3 supplemented gilts than for controls (P=0.06). Triglycerides and IGF-1 serum levels were lower at D45 than at D0 for control gilts (P<0.05), but unaltered for supplemented gilts. Insulin levels were unaffected by supplementation (P>0.05), but were greater at D45 than at D0 in both treatments (P<0.05). Immunolabeling for leptin and ObRb in oocytes included in preantral follicles was more intense for supplemented gilts than for control gilts (P<0.05). Omega-3 supplementation was associated with reduced serum cholesterol level and more intense staining for leptin in oocytes of prepubertal gilts, which suggests some involvement on triggering puberty."
-    },
-    {
-      "paper_name": "Inflammation as a predictive biomarker for response to omega-3 fatty acids in major depressive disorder: a proof-of-concept study.",
-      "paper_year": "2016",
-      "paper_authors": "Rapaport MH, Nierenberg AA, Schettler PJ, Kinkead B, Cardoos A, Walker R, Mischoulon D",
-      "journal": "Molecular psychiatry",
-      "publisher": "Mol Psychiatry",
-      "resumen": "This study explores whether inflammatory biomarkers act as moderators of clinical response to omega-3 (n-3) fatty acids in subjects with major depressive disorder (MDD). One hundred fifty-five subjects with Diagnostic and Statistical Manual of Mental Disorders, 4th Edition (DSM-IV) MDD, a baseline 17-item Hamilton Depression Rating Scale (HAM-D-17) score ⩾ 15 and baseline biomarker data (interleukin (IL)-1ra, IL-6, high-sensitivity C-reactive protein (hs-CRP), leptin and adiponectin) were randomized between 18 May 2006 and 30 June 2011 to 8 weeks of double-blind treatment with eicosapentaenoic acid (EPA)-enriched n-3 1060 mg day(-1), docosahexaenoic acid (DHA)-enriched n-3 900 mg day(-1) or placebo. Outcomes were determined using mixed model repeated measures analysis for 'high' and 'low' inflammation groups based on individual and combined biomarkers. Results are presented in terms of standardized treatment effect size (ES) for change in HAM-D-17 from baseline to treatment week 8. Although overall treatment group differences were negligible (ES=-0.13 to +0.04), subjects with any 'high' inflammation improved more on EPA than placebo (ES=-0.39) or DHA (ES=-0.60) and less on DHA than placebo (ES=+0.21); furthermore, EPA-placebo separation increased with increasing numbers of markers of high inflammation. Subjects randomized to EPA with 'high' IL-1ra or hs-CRP or low adiponectin ('high' inflammation) had medium ES decreases in HAM-D-17 scores vs subjects 'low' on these biomarkers. Subjects with 'high' hs-CRP, IL-6 or leptin were less placebo-responsive than subjects with low levels of these biomarkers (medium to large ES differences). Employing multiple markers of inflammation facilitated identification of a more homogeneous cohort of subjects with MDD responding to EPA vs placebo in our cohort. Studies are needed to replicate and extend this proof-of-concept work."
-    },
-    {
-      "paper_name": "Effects of α-lipoic acid and eicosapentaenoic acid in overweight and obese women during weight loss.",
-      "paper_year": "2015",
-      "paper_authors": "Huerta AE, Navas-Carretero S, Prieto-Hontoria PL, Martínez JA, Moreno-Aliaga MJ",
-      "journal": "Obesity (Silver Spring, Md.)",
-      "publisher": "Obesity (Silver Spring)",
-      "resumen": "To evaluate the potential body weight-lowering effects of dietary supplementation with eicosapentaenoic acid (EPA) and α-lipoic acid separately or combined in healthy overweight/obese women following a hypocaloric diet."
-    },
-    {
-      "paper_name": "The impact of polyunsaturated fatty acid-based dietary supplements on disease biomarkers in a metabolic syndrome/diabetes population.",
-      "paper_year": "2014",
-      "paper_authors": "Lee TC, Ivester P, Hester AG, Sergeant S, Case LD, Morgan T, Kouba EO, Chilton FH",
-      "journal": "Lipids in health and disease",
-      "publisher": "Lipids Health Dis",
-      "resumen": "Ingestion of polyunsaturated fatty acids (PUFAs) has been proposed to influence several chronic diseases including coronary heart disease (CHD) and type-2 diabetes (T2D).There is strong evidence that omega-3 (n-3) PUFAs provide protection against CHD and biomarkers of atherosclerosis. In contrast, there is more limited and inconsistent data for T2D. Few studies have examined the impact of n-3 PUFA-containing botanical oils on T2D."
-    },
-    {
       "paper_name": "Omega-3 fatty acids' effect on leptin and adiponectin concentrations in patients with spinal cord injury: A double-blinded randomized clinical trial.",
       "paper_year": "2015",
       "paper_authors": "Sabour H, Norouzi Javidan A, Latifi S, Shidfar F, Heshmat R, Emami Razavi SH, Vafa MR, Larijani B",
@@ -179,36 +35,52 @@
       "resumen": "Omega-3 fatty acids have been recently proposed to induce neural improvement in patients with spinal cord injury (SCI) while affecting some hormones including leptin and adiponectin."
     },
     {
-      "paper_name": "Effects of n-3 polyunsaturated fatty acids (PUFAs) on circulating adiponectin and leptin in subjects with type 2 diabetes mellitus.",
-      "paper_year": "2014",
-      "paper_authors": "Stirban A, Nandrean S, Götting C, Stratmann B, Tschoepe D",
-      "journal": "Hormone and metabolic research = Hormon- und Stoffwechselforschung = Hormones et metabolisme",
-      "publisher": "Horm Metab Res",
-      "resumen": "Recent evidence suggests that omega-3 polyunsaturated fatty acids [n-3 PUFAs: eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA)], improve insulin sensitivity in humans. In a double-blind, placebo-controlled, randomized, crossover study, we investigated the effects of EPA/DHA on paraoxonase-1 activity as well as fasting and postprandial levels of circulating adiponectin and leptin in 34 subjects with type 2 diabetes mellitus who received daily for 6 weeks either 2 g purified EPA/DHA or olive oil (placebo), separated by a 6 weeks washout. At the end of each treatment, measurements were performed in fasting state and 2, 4, and 6 h following a standardized high-fat meal (600 kcal). No significant differences in fasting and postprandial circulating adiponectin, leptin, and paraoxonase-1 activity were seen between n-3 PUFAs and placebo. Our data do not support an insulin sensitizing effect of n-3 PUFAs by means of influencing circulating adipocytokines in this population. Clinical Trial Register Number: NCT00328536."
+      "paper_name": "The benefits of ω-3 supplementation depend on adiponectin basal level and adiponectin increase after the supplementation: A randomized clinical trial.",
+      "paper_year": "2017",
+      "paper_authors": "Barbosa MM, Melo AL, Damasceno NR",
+      "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+      "publisher": "Nutrition",
+      "resumen": "The aim of this study was to analyze whether ω-3 supplementation improves cardiometabolic profile in individuals with cardiovascular risk factors and to determine the effect of adiponectin levels on these changes."
     },
     {
-      "paper_name": "An acute intake of a walnut-enriched meal improves postprandial adiponectin response in healthy young adults.",
-      "paper_year": "2013",
-      "paper_authors": "Lozano A, Perez-Martinez P, Marin C, Tinahones FJ, Delgado-Lista J, Cruz-Teno C, Gomez-Luna P, Rodriguez-Cantalejo F, Perez-Jimenez F, Lopez-Miranda J",
-      "journal": "Nutrition research (New York, N.Y.)",
-      "publisher": "Nutr Res",
-      "resumen": "A deficit in adiponectin plays an important causal role in insulin resistance and metabolic syndrome. We hypothesized that as seen during the fasting state, the intake of a walnut-enriched meal increased postprandial adiponectin. Twenty-one healthy white men followed a 4-week baseline diet and then consumed 3 fat-loaded meals that included 1 g fat/kg body weight (65% fat) according to a randomized crossover design: olive oil-enriched meal (22% saturated fatty acids [SFA], 38% monounsaturated fatty acids [MUFA], 4% polyunsaturated fatty acids [PUFA]), butter-enriched meal (35% SFA, 22% MUFA, 4% PUFA), and walnut-enriched meal (20% SFA, 24% MUFA, 16% PUFA, and 4% α-linolenic acid). Leptin, resistin, adiponectin, and free fatty acids were determined at 0, 3, 6, and 8.5 hours after the fat load. After the walnut-enriched meal, plasma adiponectin concentrations were higher at 3 and 6 hours (P = .011, P = .046, respectively) compared with the butter-enriched meal and higher at 6 hours compared with the olive oil-enriched meal (P = .036). Free fatty acid levels decreased from baseline at 3 hours after the walnut-enriched meal (P = .001). No differences were observed between the 3 meals for leptin and resistin responses. Our data confirmed a beneficial profile in the postprandial response to walnuts, source of omega-3 PUFA with an increased postprandial adiponectin and lower postprandial free fatty acid responses. These findings suggest that the postprandial state is important for understanding the possible cardioprotective effects associated with omega-3 PUFA dietary fat."
+      "paper_name": "Insulin Resistance Modifies the Effects of Omega-3 Acid Ethyl Esters on Left Ventricular Remodeling After Acute Myocardial Infarction (from the OMEGA-REMODEL Randomized Clinical Trial).",
+      "paper_year": "2020",
+      "paper_authors": "Fujikura K, Heydari B, Ge Y, Kaneko K, Abdullah S, Harris WS, Jerosch-Herold M, Kwong RY",
+      "journal": "The American journal of cardiology",
+      "publisher": "Am J Cardiol",
+      "resumen": "Insulin resistance early after acute myocardial infarction is associated with increased heart failure and mortality. OMEGA-REMODEL was a prospective double-blind 1:1 randomized control trial of patients with AMI. We reported that 6-month treatment with omega-3 fatty acid (O-3FA) 4 g/day attenuated cardiac remodeling accompanied by reduction in inflammation. We hypothesized that insulin resistance modifies the therapeutic effect of O-3FA on post-MI cardiac remodeling. The OMEGA-REMODEL study group was dichotomized according to cohort- and gender-specific median cutoff value of leptin-to-adiponectin ratio (LAR) at baseline (LAR-Hi vs LAR-Lo). Mixed model regression analyses were used to evaluate effect modification of O-3FA on reduction of left ventricular end-systolic volume index (LVESVI) by LAR status. Baseline LAR was evaluated on 325 patients (59 ± 11 years, 81% male). A total of 168 patients were categorized in LAR-Lo, and 157 in LAR-Hi. O-3FA treatment resulted in significant LVESVI reduction in patients with LAR-Lo but not with LAR-Hi (p = 0.0002 vs 0.66, respectively). Mixed model regression analysis showed significant modification of LAR on O-3FA's treatment effect in attenuating LVESVI (p = 0.021). In conclusion, this post-hoc efficacy analysis suggests that LAR status significantly modified O-3FA's treatment effect in attenuating cardiac remodeling. During the convalescent phase of acute infarct healing, patients with lower insulin resistance estimated by LAR appear to derive more therapeutic response from O-3FA toward improvement of LVESVI."
     },
     {
-      "paper_name": "Dietary supplementation with long chain omega-3 polyunsaturated fatty acids and weight loss in obese adults.",
-      "paper_year": "2013",
-      "paper_authors": "Munro IA, Garg ML",
-      "journal": "Obesity research & clinical practice",
-      "publisher": "Obes Res Clin Pract",
-      "resumen": "Obesity is associated with elevated levels of inflammation and metabolic abnormalities, with increased risk of developing insulin resistance, type 2 diabetes, stroke and CVD. Nutrients that can assist in weight loss may also reduce the risk of obesity related co-morbidities."
+      "paper_name": "Curcumin and long-chain Omega-3 polyunsaturated fatty acids for Prevention of type 2 Diabetes (COP-D): study protocol for a randomised controlled trial.",
+      "paper_year": "2016",
+      "paper_authors": "Thota RN, Acharya SH, Abbott KA, Garg ML",
+      "journal": "Trials",
+      "publisher": "Trials",
+      "resumen": "Lifestyle interventions, including increase in physical activity and dietary counselling, have shown the ability to prevent type 2 diabetes (T2D) in high-risk state individuals, but the prevalence is still skyrocketing in Australia, in line with global prevalence. Currently, no medicines are approved by the Therapeutic Goods Administration in Australia for the management of prediabetes. Therefore, there is a need of developing a safer, biologically efficacious and cost-effective alternative for delaying the transition of individual health state from prediabetes into T2D. In the current trial we propose to evaluate the effects of curcumin and/or long-chain omega-3 polyunsaturated fatty acids on improving glycosylated haemoglobin as a primary outcome, along with secondary outcomes of glycaemic indices, lipid profile and inflammatory parameters."
     },
     {
-      "paper_name": "Effect of reducing the n-6/n-3 fatty acid ratio on the maternal and fetal leptin axis in relation to infant body composition.",
-      "paper_year": "2014",
-      "paper_authors": "Brunner S, Schmid D, Hüttinger K, Much D, Brüderl M, Sedlmeier EM, Kratzsch J, Amann-Gassnerl U, Bader BL, Hauner H",
-      "journal": "Obesity (Silver Spring, Md.)",
-      "publisher": "Obesity (Silver Spring)",
-      "resumen": "To investigate the effect of reducing the n-6/n-3 fatty acid ratio in maternal nutrition on the maternal and cord blood leptin axis and their association with infant body composition up to 2 years."
+      "paper_name": "Effects of n-3 Polyunsaturated Fatty Acid Supplementation on Serum Leptin Levels, Appetite Sensations, and Intake of Energy and Macronutrients in Obese People: A Randomized Clinical Trial.",
+      "paper_year": "2018",
+      "paper_authors": "Payahoo L, Ostadrahimi A, Farrin N, Khaje-Bishak Y",
+      "journal": "Journal of dietary supplements",
+      "publisher": "J Diet Suppl",
+      "resumen": "Obesity is a common health problem. Appetite is one of the main obesity-controlling factors that can be influenced by leptin. Leptin reduces food intake and accelerates energy expenditure. Leptin levels can be affected by dietary factors such as fats, special amino acids, and fructose. This study aimed to determine the effects of polyunsaturated fatty acid n-3 (PUFA n-3) supplementation on serum leptin levels, appetite sensations, and dietary intakes in obese people. This study was performed on 60 obese individuals with body mass index (BMI) 30 (kg/m<sup>2</sup>) and above in 2012 in Tabriz, Iran. The participants were randomly allocated to the intervention (consumed two capsules containing 1 g/day n-3 fatty acids [180 mg EPA, 120 mg DHA] for 4 weeks) and control groups. Serum leptin levels were assessed by ELISA method, and visual analogue scale (VAS) questionnaire was completed for evaluating appetite sensations. The mean caloric [before = 1,575.39 (600), after = 1,236.14 (448.40)] and macronutrient intakes were decreased significantly in the intervention group (p < .05). After adjusting for baseline serum leptin levels, age, and gender values, the fullness item significantly increased in the intervention group [before = 2 (1-5), after = 3 (1-5), p = .034]. In addition, BMI decreased and serum leptin levels increased nonsignificantly in the intervention group. According to the results, PUFA n-3 decreased energy and macronutrient intakes, probably through the modulating of satiety. The short period of study caused the nonsignificant changes in BMI and circulatory leptin. Further studies are needed to confirm these results."
+    },
+    {
+      "paper_name": "Metabolic and reproductive parameters in prepubertal gilts after omega-3 supplementation in the diet.",
+      "paper_year": "2016",
+      "paper_authors": "Moreira F, Cheuiche ZM, Rizzoto G, Santos MQ, Schuch MS, Flach MJ, Gasperin BG, Bianchi I, Lucia T",
+      "journal": "Animal reproduction science",
+      "publisher": "Anim Reprod Sci",
+      "resumen": "Polyunsaturated fatty acids may benefit reproductive performance of female swine. This study evaluated metabolic and reproductive parameters of prepubertal finishing gilts fed with fish oil as a natural source of omega-3 fatty acids (6.88g/d) (n=12) over a period of 45 d. Gilts in the control group were fed soybean oil (n=13). Body weight and backfat were determined at 15-d intervals. Serum levels of leptin, IGF-1, insulin, cholesterol and triglycerides were measured at the beginning (D0) and at the end of the period (D45). Immunolabeling intensity for leptin and its receptor (ObRb) was assessed in oocytes of preantral follicles. Gilts fed omega-3 presented slightly heavier uteri (P=0.09) than control gilts, but there was no effect on body weight and backfat (P>0.05). Cholesterol serum levels tended to be lower at D45 for omega-3 supplemented gilts than for controls (P=0.06). Triglycerides and IGF-1 serum levels were lower at D45 than at D0 for control gilts (P<0.05), but unaltered for supplemented gilts. Insulin levels were unaffected by supplementation (P>0.05), but were greater at D45 than at D0 in both treatments (P<0.05). Immunolabeling for leptin and ObRb in oocytes included in preantral follicles was more intense for supplemented gilts than for control gilts (P<0.05). Omega-3 supplementation was associated with reduced serum cholesterol level and more intense staining for leptin in oocytes of prepubertal gilts, which suggests some involvement on triggering puberty."
+    },
+    {
+      "paper_name": "The Effect of Omega-3 Fatty Acid Supplementation on Serum Adipocytokines, Lipid Profile and Biochemical Markers of Inflammation in Recreational Runners.",
+      "paper_year": "2021",
+      "paper_authors": "Żebrowska A, Hall B, Stolecka-Warzecha A, Stanula A, Sadowska-Krępa E",
+      "journal": "Nutrients",
+      "publisher": "Nutrients",
+      "resumen": "The study aimed to evaluate the effects of a 3-week ω-3 PUFA supplementation on serum adipocytokines (i.e., adiponectin, leptin), neuregulin-4 (NRG4) and erythrocyte omega-3 (ω-3) fatty acid content, as well as the blood antioxidant defense capacity in non-elite endurance runners."
     },
     {
       "paper_name": "Omega-3 polyunsaturated fatty acids increase plasma adiponectin to leptin ratio in stable coronary artery disease.",
@@ -219,108 +91,12 @@
       "resumen": "Growing evidence suggests a cardioprotective role of omega-3 polyunsaturated fatty acids (PUFA). However, the exact mechanisms underlying the effects of omega-3 PUFA in humans have not yet been fully clarified."
     },
     {
-      "paper_name": "Differential dose effect of fish oil on inflammation and adipose tissue gene expression in chronic kidney disease patients.",
-      "paper_year": "2013",
-      "paper_authors": "Guebre-Egziabher F, Debard C, Drai J, Denis L, Pesenti S, Bienvenu J, Vidal H, Laville M, Fouque D",
-      "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
-      "publisher": "Nutrition",
-      "resumen": "The beneficial effects of ω-3 polyunsaturated fatty acids (PUFAs) in cardiovascular disease are partly attributed to their anti-inflammatory properties. Their potential effect on the adipose tissue of chronic kidney disease (CKD) patients has never been explored."
-    },
-    {
-      "paper_name": "A gene variation (rs12691) in the CCAT/enhancer binding protein α modulates glucose metabolism in metabolic syndrome.",
-      "paper_year": "2013",
-      "paper_authors": "Delgado-Lista J, Perez-Martinez P, Garcia-Rios A, Phillips CM, Hall W, Gjelstad IM, Lairon D, Saris W, Kieć-Wilk B, Karlström B, Drevon CA, Defoort C, Blaak EE, Dembinska-Kieć A, Risérus U, Lovegrove JA, Roche HM, Lopez-Miranda J",
-      "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
-      "publisher": "Nutr Metab Cardiovasc Dis",
-      "resumen": "CCAAT/enhancer-binding protein alpha (CEBPA) is a transcription factor involved in adipogenesis and energy homeostasis. Caloric restriction reduces CEBPA protein expression in patients with metabolic syndrome (MetS). A previous report linked rs12691 SNP in CEBPA to altered concentration of fasting triglycerides. Our objective was to assess the effects of rs12691 in glucose metabolism in Metabolic Syndrome (MetS) patients."
-    },
-    {
-      "paper_name": "Supplementation of n3 long-chain polyunsaturated fatty acid synergistically decreases insulin resistance with weight loss of obese prepubertal and pubertal children.",
-      "paper_year": "2011",
-      "paper_authors": "López-Alarcón M, Martínez-Coronado A, Velarde-Castro O, Rendón-Macías E, Fernández J",
-      "journal": "Archives of medical research",
-      "publisher": "Arch Med Res",
-      "resumen": "Supplementation with n3 long-chain polyunsaturated fatty acids (n3-LCPUFA) appears to affect body weight, adipokines, and insulin resistance (IR) in obese individuals. However, it is unclear whether the effect on IR is independent of weight loss and if the same effect is observed in children. We undertook this study to analyze the effect of supplementation with n3-LCPUFA on adipokine concentration and IR of prepubertal and pubertal children, independent of weight loss."
-    },
-    {
-      "paper_name": "Intake of fish oil during pregnancy and adiposity in 19-y-old offspring: follow-up on a randomized controlled trial.",
-      "paper_year": "2011",
-      "paper_authors": "Rytter D, Bech BH, Christensen JH, Schmidt EB, Henriksen TB, Olsen SF",
-      "journal": "The American journal of clinical nutrition",
-      "publisher": "Am J Clin Nutr",
-      "resumen": "It is well established that obesity tends to track from early childhood into adult life. Studies in experimental animals have suggested that changes in the peri- and early postnatal intake of n-3 (omega-3) polyunsaturated acids can affect the development of obesity in adult life."
-    },
-    {
-      "paper_name": "Thermogenesis, blood metabolites and hormones, and growth of lambs born to ewes supplemented with algae-derived docosahexaenoic acid.",
-      "paper_year": "2011",
-      "paper_authors": "Keithly JI, Kott RW, Berardinelli JG, Moreaux S, Hatfield PG",
-      "journal": "Journal of animal science",
-      "publisher": "J Anim Sci",
-      "resumen": "Neonatal lamb mortality is a major factor affecting profitability in the sheep industry, and lamb thermogenesis is a key element in neonatal lamb survival. Increased lamb vigor has been reported when ewes were supplemented during late gestation with algae-derived docosahexaenoic acid (DHA); however, the effects of DHA on lamb thermogenesis and immunocompetence have not been investigated. Eighty twin-bearing Targhee ewes (ages 2 to 5 yr; 68.5 ± 3 kg) were assigned randomly to 1 of 2 supplement treatments to determine the effects of feeding DHA to ewes during late gestation and early lactation on lamb thermogenesis, serum metabolites and hormones, and lamb growth. Supplement treatments were 12 g·ewe(-1)·d(-1) of algae-derived DHA (DHA Gold Advanced Bionutrition Corp., Columbia, MD; algae-derived DHA); and no algae-derived DHA (control). Supplements were individually fed daily during the last 30 d (±7 d) of gestation and pen fed (6 pens/treatment with 6 or 7 ewes/pen) during the first 38 d (±7 d) of lactation. One hour after lambing and before nursing, twin-born lambs were weighed, blood sampled via jugular puncture, and placed in a dry cold chamber for 30 min (0°C), and rectal temperatures were recorded every minute for 30 min. Lambs were removed from the cold chamber, blood sampled, warmed for 15 min, and returned to their dam. Ewes were blood sampled, and colostrum samples were collected 1 h postpartum. Ewe and lamb sera were assayed for glucose, NEFA, cortisol, and leptin. Lamb rectal temperature, glucose, NEFA, cortisol, leptin, and birth weights did not differ between treatments. The BW at 38 d was greater (P = 0.03) for lambs born to control ewes than for lambs born to algae-derived DHA-supplemented ewes; however, the colostrum of algae-derived DHA-supplemented ewes had a greater specific gravity (P = 0.05) than for control ewes. Overall, despite a potentially positive effect on ewe colostral IgG concentrations, supplementation of algae-derived DHA during late gestation and early lactation had a negative effect on lamb BW and did not affect indices of lamb thermogenesis."
-    },
-    {
-      "paper_name": "A randomized controlled intervention with fish oil versus sunflower oil from 9 to 18 months of age: exploring changes in growth and skinfold thicknesses.",
-      "paper_year": "2011",
-      "paper_authors": "Andersen AD, Michaelsen KF, Hellgren LI, Trolle E, Lauritzen L",
-      "journal": "Pediatric research",
-      "publisher": "Pediatr Res",
-      "resumen": "n-3 long-chain polyunsaturated fatty acids (n-3 LCPUFA), from fish oil (FO), in rodents have been shown to reduce adipogenesis. Evidence of an effect on adipose tissue mass in humans is limited, and no studies have specifically aimed to elucidate this in infancy. To explore whether n-3 LCPUFA intake affects adipose tissue growth, we randomly allocated 154 healthy infants to daily supplementation with FO or sunflower oil (SO) from 9 to 18 mo of age and measured z-score changes in various anthropometric assessments of body size and skinfold thicknesses and plasma adipokine concentrations. Among the 133 completing infants, erythrocyte n-3 PUFA increased more in those receiving FO than in infants receiving SO [12.2 ± 0.7 (mean ± SE) versus 2.0 ± 0.4 fatty acid percentage (FA%), p < 0.001] with a concomitant larger decrease in n-6 PUFA (-8.9 ± 0.7 versus -0.9 ± 0.6 FA%, p < 0.001). We found no association between FO consumption relative to SO consumption and any of the anthropometric measures related to the size of the fat mass, but infants in the FO group had a lower skinfold ratio (triceps/subscapular) at 18 mo than those in SO group (p = 0.02). Our findings do not support the hypothesis that dietary n-3 LCPUFA is important for infant fat mass, but future studies testing this specifically are warranted."
-    },
-    {
-      "paper_name": "Metabolic and endocrine effects of long-chain versus essential omega-3 polyunsaturated fatty acids in polycystic ovary syndrome.",
-      "paper_year": "2011",
-      "paper_authors": "Vargas ML, Almario RU, Buchan W, Kim K, Karakas SE",
-      "journal": "Metabolism: clinical and experimental",
-      "publisher": "Metabolism",
-      "resumen": "The objective of the study was to compare the effects of essential vs long-chain omega (n)-3 polyunsaturated fatty acids (PUFAs) in polycystic ovary syndrome. In this 6-week, prospective, double-blinded, placebo (soybean oil)-controlled study, 51 completers received 3.5 g n-3 PUFA per day (essential PUFA from flaxseed oil or long-chain PUFA from fish oil). Anthropometric variables, cardiovascular risk factors, and androgens were measured; oral glucose tolerance test (OGTT) and frequently sampled intravenous GTT (IVGTT) were conducted at baseline and 6 weeks. Between-group comparisons showed significant differences in serum triglyceride response (P = .0368), whereas the changes in disposition index also tended to differ (P = .0621). When within-group changes (after vs before intervention) were considered, fish oil and flaxseed oil lowered serum triglyceride (P = .0154 and P = .0176, respectively). Fish oil increased glucose at 120 minutes of OGTT (P = .0355), decreased the Matsuda index (P = .0378), and tended to decrease acute insulin response during IVGTT (P = .0871). Soybean oil increased glucose at 30 (P = .0030) and 60 minutes (P = .0121) and AUC for glucose (P = .0122) during OGTT, tended to decrease acute insulin response during IVGTT (P = .0848), reduced testosterone (P = .0216), and tended to reduce sex hormone-binding globulin (P = .0858). Fasting glucose, insulin, adiponectin, leptin, or high-sensitivity C-reactive protein did not change with any intervention. Long-chain vs essential n-3 PUFA-rich oils have distinct metabolic and endocrine effects in polycystic ovary syndrome; and therefore, they should not be used interchangeably."
-    },
-    {
-      "paper_name": "Dietary milled flaxseed and flaxseed oil improve N-3 fatty acid status and do not affect glycemic control in individuals with well-controlled type 2 diabetes.",
-      "paper_year": "2010",
-      "paper_authors": "Taylor CG, Noto AD, Stringer DM, Froese S, Malcolmson L",
-      "journal": "Journal of the American College of Nutrition",
-      "publisher": "J Am Coll Nutr",
-      "resumen": "To determine the effects of dietary consumption of milled flaxseed or flaxseed oil on glycemic control, n-3 fatty acid status, anthropometrics, and adipokines in individuals with type 2 diabetes."
-    },
-    {
-      "paper_name": "Highly purified eicosapentaenoic acid reduces cardio-ankle vascular index in association with decreased serum amyloid A-LDL in metabolic syndrome.",
-      "paper_year": "2009",
-      "paper_authors": "Satoh N, Shimatsu A, Kotani K, Himeno A, Majima T, Yamada K, Suganami T, Ogawa Y",
-      "journal": "Hypertension research : official journal of the Japanese Society of Hypertension",
-      "publisher": "Hypertens Res",
-      "resumen": "A recent clinical trial revealed that highly purified eicosapentaenoic acid (EPA), an n-3 polyunsaturated fatty acid, reduces the incidence of cardiovascular diseases. However, the detailed mechanism underlying the anti-atherogenic effect of EPA is still poorly understood. In this study, we examined the effect of EPA on cardio-ankle vascular index (CAVI), a new index of arterial stiffness that is less influenced by blood pressure (BP), as well as on serum amyloid A-low-density lipoprotein (SAA-LDL), an oxidized LDL (oxLDL), in the metabolic syndrome. Ninety-two obese Japanese subjects with metabolic syndromes were randomly divided into two groups (n=46): the EPA-treated group (1.8 g administered daily for 3 months) and the control group. Measurements were taken to assess the changes in glucose-lipid metabolism, SAA-LDL, C-reactive protein (CRP), leptin, adiponectin and pulse wave velocity (PWV), and CAVI. EPA treatment significantly reduced the levels of immunoreactive insulin, triglycerides, SAA-LDL, CRP, PWV and CAVI and increased the levels of adiponectin relative to the control group for 3 months (P<0.05). Stepwise multivariate linear regression analysis revealed that the only significant determinant for a decrease in CAVI by EPA is a reduction in SAA-LDL (P<0.05). Moreover, the EPA-induced reduction of SAA-LDL was only significantly correlated with a decrease in total cholesterol and an increase in adiponectin (P<0.05). This study is the first demonstration that EPA improves arterial stiffness and is less influenced by BP, possibly through the suppression of SAA-LDL, thereby leading to a reduction in the frequency of cardiovascular disease development in metabolic syndrome."
-    },
-    {
-      "paper_name": "Addition of n-3 fatty acids to a 4-hour lipid infusion does not affect insulin sensitivity, insulin secretion, or markers of oxidative stress in subjects with type 2 diabetes mellitus.",
-      "paper_year": "2009",
-      "paper_authors": "Mostad IL, Bjerve KS, Basu S, Sutton P, Frayn KN, Grill V",
-      "journal": "Metabolism: clinical and experimental",
-      "publisher": "Metabolism",
-      "resumen": "Fatty acids (FA) can impair glucose metabolism to a varying degree depending on time of exposure and also of type of FA. Here we tested for acute effects of marine n-3 FA on insulin sensitivity, insulin secretion, energy metabolism, and oxidative stress. This was a randomized, double-blind, crossover study in 11 subjects with type 2 diabetes mellitus. A 4-hour lipid infusion (Intralipid [Fresenius Kabi, Halden, Norway], total of 384 mL) was compared with a similar lipid infusion partly replaced by Omegaven (Fresenius Kabi) that contributed a median of 0.1 g fish oil per kilogram body weight, amounting to 0.04 g/kg of marine n-3 FA. Insulin sensitivity was assessed by isoglycemic hyperinsulinemic clamps; insulin secretion (measured after the clamps), by C-peptide glucagon tests; and energy metabolism, by indirect calorimetry. Infusion of Omegaven increased the proportion of n-3 FA in plasma nonesterified fatty acids (NEFA) compared with Intralipid alone (20:5n-3: median, 1.5% [interquartile range, 0.6%] vs -0.2% [0.2%], P = .001; 22:6n-3: 0.8% [0.4%] vs -0.7% [0.2%], P = .001). However, glucose utilization was not affected; neither was insulin secretion or total energy production (P = .966, .210, and .423, respectively, for the differences between the lipid clamps). Omegaven tended to lower oxidation of fat (P = .062) compared with Intralipid only, correlating with the rise in individual n-3 NEFA (r = 0.627, P = .039). The effects of clamping on phospholipid FA composition, leptin, adiponectin, or F(2)-isoprostane concentrations were not affected by Omegaven. Enrichment of NEFA with n-3 FA during a 4-hour infusion of Intralipid failed to affect insulin sensitivity, insulin secretion, or markers of oxidative stress in subjects with type 2 diabetes mellitus."
-    },
-    {
-      "paper_name": "Influence of an eicosapentaenoic and docosahexaenoic acid-enriched enteral nutrition formula on plasma fatty acid composition and biomarkers of insulin resistance in the elderly.",
-      "paper_year": "2010",
-      "paper_authors": "Olza J, Mesa MD, Aguilera CM, Moreno-Torres R, Jiménez A, Pérez de la Cruz A, Gil A",
-      "journal": "Clinical nutrition (Edinburgh, Scotland)",
-      "publisher": "Clin Nutr",
-      "resumen": "n-3 Polyunsaturated fatty acids may improve cardiovascular outcomes in elderly. The aim of this study was to determine the effect of feeding elderly patients exclusively with an n-3 polyunsaturated fatty acid-enriched diet specifically designed for enteral nutrition for 6 months, evaluating modifications in plasma fatty acid profile and some biomarkers of insulin resistance (IR)."
-    },
-    {
-      "paper_name": "Effects of seafood consumption and weight loss on fasting leptin and ghrelin concentrations in overweight and obese European young adults.",
-      "paper_year": "2009",
-      "paper_authors": "Ramel A, Parra D, Martinéz JA, Kiely M, Thorsdottir I",
-      "journal": "European journal of nutrition",
-      "publisher": "Eur J Nutr",
-      "resumen": "Energy restriction affects circulating leptin and ghrelin concentrations."
-    },
-    {
-      "paper_name": "Effect of a conjugated linoleic acid and omega-3 fatty acid mixture on body composition and adiponectin.",
-      "paper_year": "2008",
-      "paper_authors": "Sneddon AA, Tsofliou F, Fyfe CL, Matheson I, Jackson DM, Horgan G, Winzell MS, Wahle KW, Ahren B, Williams LM",
-      "journal": "Obesity (Silver Spring, Md.)",
-      "publisher": "Obesity (Silver Spring)",
-      "resumen": "This study aimed to determine the effect of supplementation with conjugated linoleic acids (CLAs) plus n-3 long-chain polyunsaturated fatty acids (n-3 LC-PUFAs) on body composition, adiposity, and hormone levels in young and older, lean and obese men. Young (31.4+/-3.9 years) lean (BMI, 23.6+/-1.5 kg/m2; n=13) and obese (BMI, 32.4+/-1.9 kg/m2; n=12) and older (56.5+/-4.6 years) lean (BMI, 23.6+/-1.5 kg/m2; n=20) and obese (BMI, 32.0+/-1.6 kg/m2; n=14) men participated in a double-blind placebo-controlled, randomized crossover study. Subjects received either 6 g/day control fat or 3 g/day CLA (50:50 cis-9, trans-11:trans-10, cis-12) and 3 g/day n-3 LC-PUFA for 12 weeks with a 12-week wash-out period between crossovers. Body composition was assessed by dual-energy X-ray absorptiometry. Fasting adiponectin, leptin, glucose, and insulin concentrations were measured and insulin resistance estimated by homeostasis model assessment for insulin resistance (HOMA-IR). In the younger obese subjects, CLA plus n-3 LC-PUFA supplementation compared with control fat did not result in increased abdominal fat and raised both fat-free mass (2.4%) and adiponectin levels (12%). CLA plus n-3 LC-PUFA showed no significant effects on HOMA-IR in any group but did increase fasting glucose in older obese subjects. In summary, supplementation with CLA plus n-3 LC-PUFA prevents increased abdominal fat mass and raises fat-free mass and adiponectin levels in younger obese individuals without deleteriously affecting insulin sensitivity, whereas these parameters in young and older lean and older obese individuals were unaffected, apart from increased fasting glucose in older obese men."
+      "paper_name": "Omega-3 fatty acids, inflammatory status and biochemical markers of patients with systemic lupus erythematosus: a pilot study.",
+      "paper_year": "2017",
+      "paper_authors": "Curado Borges M, de Miranda Moura Dos Santos F, Weiss Telles R, Melo de Andrade MV, Toulson Davisson Correia MI, Lanna CCD",
+      "journal": "Revista brasileira de reumatologia",
+      "publisher": "Rev Bras Reumatol Engl Ed",
+      "resumen": "Studies have shown that omega-3 fatty acids reduce the concentrations of eicosanoids, cytokines, chemokines, C-reactive protein (CRP) and other inflammatory mediators."
     },
     {
       "paper_name": "Impact of enteral supplements enriched with omega-3 fatty acids and/or omega-6 fatty acids, arginine and ribonucleic acid compounds on leptin levels and nutritional status in active Crohn's disease treated with prednisolone.",
@@ -331,12 +107,116 @@
       "resumen": "Patients with Crohn's disease (CD) often develop malnutrition due to disease activity. We aimed to assess the effect of two different enteral supplements of Impact(R) Powder (IP; Novartis, Switzerland) on leptin levels and nutritional status in active CD patients during prednisolone treatment and tapering."
     },
     {
+      "paper_name": "Secondary data analysis investigating effects of marine omega-3 fatty acids on circulating levels of leptin and adiponectin in older adults.",
+      "paper_year": "2021",
+      "paper_authors": "Rausch JA, Gillespie S, Orchard T, Tan A, McDaniel JC",
+      "journal": "Prostaglandins, leukotrienes, and essential fatty acids",
+      "publisher": "Prostaglandins Leukot Essent Fatty Acids",
+      "resumen": "Higher leptin and lower adiponectin levels have been linked to progressing systemic inflammation and diseases of aging. Among older adults with obesity and an inflammatory conditions, we quantified effects of eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) supplementation on leptin, adiponectin, and the leptin-to-adiponectin ratio (LAR). We also examined associations among adipokine and cytokine levels."
+    },
+    {
+      "paper_name": "Effect of omega-3 fatty acids supplementation combined with lifestyle intervention on adipokines and biomarkers of endothelial dysfunction in obese adolescents with hypertriglyceridemia.",
+      "paper_year": "2019",
+      "paper_authors": "Huang F, Del-Río-Navarro BE, Leija-Martinez J, Torres-Alcantara S, Ruiz-Bedolla E, Hernández-Cadena L, Barraza-Villarreal A, Romero-Nava R, Sanchéz-Muñoz F, Villafaña S, Marchat LA, Hong E",
+      "journal": "The Journal of nutritional biochemistry",
+      "publisher": "J Nutr Biochem",
+      "resumen": "Obesity in adolescents is considered a major public health problem; combined interventional approaches such as omega-3 supplementation with lifestyle intervention (LI) might exert synergistic effects and exceed the impact of each individual strategy. The purpose of the present study was to evaluate if the supplementation of omega-3 with LI could improve metabolic and endothelial abnormality in obese adolescents with hypertriglyceridemia. The study involved sixty-nine adolescents with normal weight and seventy obese adolescents with hypertriglyceridemia. All obese adolescents were applied to LI and randomly assigned to omega-3 supplementation or placebo group for 12 weeks. The obese adolescents with hypertriglyceridemia presented increased levels of leptin, retinol binding protein 4 (RBP4), selectin E (sE) and asymmetric dimethylarginine (ADMA) and decreased levels of adiponectin compared with control subjects. After 12-week intervention, omega-3 supplementation with LI decreased significantly in triglycerides, HOMA, leptin, RBP4, ADMA and sE. Moreover, omega-3 with LI displayed a significant reduction in triglycerides, ADMA and sE in comparison with LI alone. In subjects with omega-3 combined with LI assessed by multivariate regression model, the reduction in triglycerides was the only independent determinant of the decrease in ADMA. The reductions in triglycerides and HOMA were significantly contributed to the changes in sE. Our data indicated that omega-3 combined with LI in short duration significantly improved dyslipidemia, insulin resistance, abnormality of adipokines, endothelial dysfunction in comparison of LI alone, indicating the combined approach is an effective clinical and applicable strategy to control metabolic abnormality and decrease the risks of cardiovascular diseases in obese adolescents."
+    },
+    {
+      "paper_name": "Dietary supplementation with long chain omega-3 polyunsaturated fatty acids and weight loss in obese adults.",
+      "paper_year": "2013",
+      "paper_authors": "Munro IA, Garg ML",
+      "journal": "Obesity research & clinical practice",
+      "publisher": "Obes Res Clin Pract",
+      "resumen": "Obesity is associated with elevated levels of inflammation and metabolic abnormalities, with increased risk of developing insulin resistance, type 2 diabetes, stroke and CVD. Nutrients that can assist in weight loss may also reduce the risk of obesity related co-morbidities."
+    },
+    {
+      "paper_name": "Metabolic and endocrine effects of long-chain versus essential omega-3 polyunsaturated fatty acids in polycystic ovary syndrome.",
+      "paper_year": "2011",
+      "paper_authors": "Vargas ML, Almario RU, Buchan W, Kim K, Karakas SE",
+      "journal": "Metabolism: clinical and experimental",
+      "publisher": "Metabolism",
+      "resumen": "The objective of the study was to compare the effects of essential vs long-chain omega (n)-3 polyunsaturated fatty acids (PUFAs) in polycystic ovary syndrome. In this 6-week, prospective, double-blinded, placebo (soybean oil)-controlled study, 51 completers received 3.5 g n-3 PUFA per day (essential PUFA from flaxseed oil or long-chain PUFA from fish oil). Anthropometric variables, cardiovascular risk factors, and androgens were measured; oral glucose tolerance test (OGTT) and frequently sampled intravenous GTT (IVGTT) were conducted at baseline and 6 weeks. Between-group comparisons showed significant differences in serum triglyceride response (P = .0368), whereas the changes in disposition index also tended to differ (P = .0621). When within-group changes (after vs before intervention) were considered, fish oil and flaxseed oil lowered serum triglyceride (P = .0154 and P = .0176, respectively). Fish oil increased glucose at 120 minutes of OGTT (P = .0355), decreased the Matsuda index (P = .0378), and tended to decrease acute insulin response during IVGTT (P = .0871). Soybean oil increased glucose at 30 (P = .0030) and 60 minutes (P = .0121) and AUC for glucose (P = .0122) during OGTT, tended to decrease acute insulin response during IVGTT (P = .0848), reduced testosterone (P = .0216), and tended to reduce sex hormone-binding globulin (P = .0858). Fasting glucose, insulin, adiponectin, leptin, or high-sensitivity C-reactive protein did not change with any intervention. Long-chain vs essential n-3 PUFA-rich oils have distinct metabolic and endocrine effects in polycystic ovary syndrome; and therefore, they should not be used interchangeably."
+    },
+    {
+      "paper_name": "Intake of fish oil during pregnancy and adiposity in 19-y-old offspring: follow-up on a randomized controlled trial.",
+      "paper_year": "2011",
+      "paper_authors": "Rytter D, Bech BH, Christensen JH, Schmidt EB, Henriksen TB, Olsen SF",
+      "journal": "The American journal of clinical nutrition",
+      "publisher": "Am J Clin Nutr",
+      "resumen": "It is well established that obesity tends to track from early childhood into adult life. Studies in experimental animals have suggested that changes in the peri- and early postnatal intake of n-3 (omega-3) polyunsaturated acids can affect the development of obesity in adult life."
+    },
+    {
+      "paper_name": "Effect of prenatal EPA and DHA on maternal and cord blood insulin sensitivity: a secondary analysis of the mothers, omega 3, and mental health study.",
+      "paper_year": "2019",
+      "paper_authors": "England JA, Jain J, Holbrook BD, Schrader R, Qualls C, Mozurkewich E",
+      "journal": "BMC pregnancy and childbirth",
+      "publisher": "BMC Pregnancy Childbirth",
+      "resumen": "We sought to determine whether prenatal supplementation with the omega-3 fatty acids eicosapentaenoic acid (EPA) or docosahexaenoic acid (DHA) would increase markers of insulin sensitivity in maternal or cord blood compared with placebo supplementation. A secondary aim was to evaluate the association of serum EPA and DHA fractions with adiponectin, leptin and the adiponectin:leptin ratio (ALR). We hypothesized that omega-3 fatty acid supplementation would increase markers of insulin sensitivity in maternal and umbilical cord plasma."
+    },
+    {
+      "paper_name": "Effects of n-3 polyunsaturated fatty acids (PUFAs) on circulating adiponectin and leptin in subjects with type 2 diabetes mellitus.",
+      "paper_year": "2014",
+      "paper_authors": "Stirban A, Nandrean S, Götting C, Stratmann B, Tschoepe D",
+      "journal": "Hormone and metabolic research = Hormon- und Stoffwechselforschung = Hormones et metabolisme",
+      "publisher": "Horm Metab Res",
+      "resumen": "Recent evidence suggests that omega-3 polyunsaturated fatty acids [n-3 PUFAs: eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA)], improve insulin sensitivity in humans. In a double-blind, placebo-controlled, randomized, crossover study, we investigated the effects of EPA/DHA on paraoxonase-1 activity as well as fasting and postprandial levels of circulating adiponectin and leptin in 34 subjects with type 2 diabetes mellitus who received daily for 6 weeks either 2 g purified EPA/DHA or olive oil (placebo), separated by a 6 weeks washout. At the end of each treatment, measurements were performed in fasting state and 2, 4, and 6 h following a standardized high-fat meal (600 kcal). No significant differences in fasting and postprandial circulating adiponectin, leptin, and paraoxonase-1 activity were seen between n-3 PUFAs and placebo. Our data do not support an insulin sensitizing effect of n-3 PUFAs by means of influencing circulating adipocytokines in this population. Clinical Trial Register Number: NCT00328536."
+    },
+    {
+      "paper_name": "Effect of a conjugated linoleic acid and omega-3 fatty acid mixture on body composition and adiponectin.",
+      "paper_year": "2008",
+      "paper_authors": "Sneddon AA, Tsofliou F, Fyfe CL, Matheson I, Jackson DM, Horgan G, Winzell MS, Wahle KW, Ahren B, Williams LM",
+      "journal": "Obesity (Silver Spring, Md.)",
+      "publisher": "Obesity (Silver Spring)",
+      "resumen": "This study aimed to determine the effect of supplementation with conjugated linoleic acids (CLAs) plus n-3 long-chain polyunsaturated fatty acids (n-3 LC-PUFAs) on body composition, adiposity, and hormone levels in young and older, lean and obese men. Young (31.4+/-3.9 years) lean (BMI, 23.6+/-1.5 kg/m2; n=13) and obese (BMI, 32.4+/-1.9 kg/m2; n=12) and older (56.5+/-4.6 years) lean (BMI, 23.6+/-1.5 kg/m2; n=20) and obese (BMI, 32.0+/-1.6 kg/m2; n=14) men participated in a double-blind placebo-controlled, randomized crossover study. Subjects received either 6 g/day control fat or 3 g/day CLA (50:50 cis-9, trans-11:trans-10, cis-12) and 3 g/day n-3 LC-PUFA for 12 weeks with a 12-week wash-out period between crossovers. Body composition was assessed by dual-energy X-ray absorptiometry. Fasting adiponectin, leptin, glucose, and insulin concentrations were measured and insulin resistance estimated by homeostasis model assessment for insulin resistance (HOMA-IR). In the younger obese subjects, CLA plus n-3 LC-PUFA supplementation compared with control fat did not result in increased abdominal fat and raised both fat-free mass (2.4%) and adiponectin levels (12%). CLA plus n-3 LC-PUFA showed no significant effects on HOMA-IR in any group but did increase fasting glucose in older obese subjects. In summary, supplementation with CLA plus n-3 LC-PUFA prevents increased abdominal fat mass and raises fat-free mass and adiponectin levels in younger obese individuals without deleteriously affecting insulin sensitivity, whereas these parameters in young and older lean and older obese individuals were unaffected, apart from increased fasting glucose in older obese men."
+    },
+    {
+      "paper_name": "Treatment with high-dose n-3 PUFAs has no effect on platelet function, coagulation, metabolic status or inflammation in patients with atherosclerosis and type 2 diabetes.",
+      "paper_year": "2017",
+      "paper_authors": "Poreba M, Mostowik M, Siniarski A, Golebiowska-Wiatrak R, Malinowski KP, Haberka M, Konduracka E, Nessler J, Undas A, Gajos G",
+      "journal": "Cardiovascular diabetology",
+      "publisher": "Cardiovasc Diabetol",
+      "resumen": "Despite numerous studies on cardioprotective effects of omega-3 polyunsaturated fatty acids (n-3 PUFAs), there is limited evidence for n-3 PUFA-mediated effects, especially at its higher dose, on cardiovascular risk in patients with type 2 diabetes (DM2) and established atherosclerosis."
+    },
+    {
+      "paper_name": "Effect of reducing the n-6/n-3 fatty acid ratio on the maternal and fetal leptin axis in relation to infant body composition.",
+      "paper_year": "2014",
+      "paper_authors": "Brunner S, Schmid D, Hüttinger K, Much D, Brüderl M, Sedlmeier EM, Kratzsch J, Amann-Gassnerl U, Bader BL, Hauner H",
+      "journal": "Obesity (Silver Spring, Md.)",
+      "publisher": "Obesity (Silver Spring)",
+      "resumen": "To investigate the effect of reducing the n-6/n-3 fatty acid ratio in maternal nutrition on the maternal and cord blood leptin axis and their association with infant body composition up to 2 years."
+    },
+    {
+      "paper_name": "Dietary milled flaxseed and flaxseed oil improve N-3 fatty acid status and do not affect glycemic control in individuals with well-controlled type 2 diabetes.",
+      "paper_year": "2010",
+      "paper_authors": "Taylor CG, Noto AD, Stringer DM, Froese S, Malcolmson L",
+      "journal": "Journal of the American College of Nutrition",
+      "publisher": "J Am Coll Nutr",
+      "resumen": "To determine the effects of dietary consumption of milled flaxseed or flaxseed oil on glycemic control, n-3 fatty acid status, anthropometrics, and adipokines in individuals with type 2 diabetes."
+    },
+    {
       "paper_name": "Effects of omega-3 polyunsaturated fatty acids on metabolically active hormones in patients post-myocardial infarction.",
       "paper_year": "2007",
       "paper_authors": "Patel JV, Lee KW, Tomson J, Dubb K, Hughes EA, Lip GY",
       "journal": "International journal of cardiology",
       "publisher": "Int J Cardiol",
       "resumen": "Long-chain omega-3 polyunsaturated fatty acids (PUFA) supplementation is used as a therapeutic secondary prevention strategy among post-myocardial infarction (MI) patients. The effects of omega-3 PUFA on markers of energy homeostasis among post-MI patients are unclear."
+    },
+    {
+      "paper_name": "Effect of chia seeds or concentrated fish oil on cardiometabolic risk markers in subjects with hypertriglyceridaemia: a parallel clinical trial.",
+      "paper_year": "2024",
+      "paper_authors": "Shahparvari MR, Nasrollahzadeh J",
+      "journal": "Journal of human nutrition and dietetics : the official journal of the British Dietetic Association",
+      "publisher": "J Hum Nutr Diet",
+      "resumen": "The beneficial effects of n-3 polyunsaturated fatty acids (PUFA) in reducing high blood triglyceride (TG) levels have been well demonstrated. This study aimed to investigate the effect of chia seeds on blood TG and its associated cardiometabolic factors in hypertriglyceridaemic individuals."
+    },
+    {
+      "paper_name": "An acute intake of a walnut-enriched meal improves postprandial adiponectin response in healthy young adults.",
+      "paper_year": "2013",
+      "paper_authors": "Lozano A, Perez-Martinez P, Marin C, Tinahones FJ, Delgado-Lista J, Cruz-Teno C, Gomez-Luna P, Rodriguez-Cantalejo F, Perez-Jimenez F, Lopez-Miranda J",
+      "journal": "Nutrition research (New York, N.Y.)",
+      "publisher": "Nutr Res",
+      "resumen": "A deficit in adiponectin plays an important causal role in insulin resistance and metabolic syndrome. We hypothesized that as seen during the fasting state, the intake of a walnut-enriched meal increased postprandial adiponectin. Twenty-one healthy white men followed a 4-week baseline diet and then consumed 3 fat-loaded meals that included 1 g fat/kg body weight (65% fat) according to a randomized crossover design: olive oil-enriched meal (22% saturated fatty acids [SFA], 38% monounsaturated fatty acids [MUFA], 4% polyunsaturated fatty acids [PUFA]), butter-enriched meal (35% SFA, 22% MUFA, 4% PUFA), and walnut-enriched meal (20% SFA, 24% MUFA, 16% PUFA, and 4% α-linolenic acid). Leptin, resistin, adiponectin, and free fatty acids were determined at 0, 3, 6, and 8.5 hours after the fat load. After the walnut-enriched meal, plasma adiponectin concentrations were higher at 3 and 6 hours (P = .011, P = .046, respectively) compared with the butter-enriched meal and higher at 6 hours compared with the olive oil-enriched meal (P = .036). Free fatty acid levels decreased from baseline at 3 hours after the walnut-enriched meal (P = .001). No differences were observed between the 3 meals for leptin and resistin responses. Our data confirmed a beneficial profile in the postprandial response to walnuts, source of omega-3 PUFA with an increased postprandial adiponectin and lower postprandial free fatty acid responses. These findings suggest that the postprandial state is important for understanding the possible cardioprotective effects associated with omega-3 PUFA dietary fat."
     },
     {
       "paper_name": "Multinutrient supplement containing ephedra and caffeine causes weight loss and improves metabolic risk factors in obese women: a randomized controlled trial.",
@@ -347,12 +227,116 @@
       "resumen": "To determine the safety and efficacy of a dietary supplement with a low dose of ephedra and caffeine in overweight/obese premenopausal female subjects."
     },
     {
-      "paper_name": "[The effect of docosahexaenoic acid on the loss of appetite in pediatric patients with pneumonia].",
-      "paper_year": "2006",
-      "paper_authors": "López-Alarcón M, Furuya-Meguro MM, García-Zúñiga PA, Tadeo-Pulido I",
-      "journal": "Revista medica del Instituto Mexicano del Seguro Social",
-      "publisher": "Rev Med Inst Mex Seguro Soc",
-      "resumen": "To evaluate the role of docosahexaenoic acid (DHA) administered during the acute phase of pneumonia in infants, on appetite, cytokines and leptin concentrations."
+      "paper_name": "Effects of α-lipoic acid and eicosapentaenoic acid in overweight and obese women during weight loss.",
+      "paper_year": "2015",
+      "paper_authors": "Huerta AE, Navas-Carretero S, Prieto-Hontoria PL, Martínez JA, Moreno-Aliaga MJ",
+      "journal": "Obesity (Silver Spring, Md.)",
+      "publisher": "Obesity (Silver Spring)",
+      "resumen": "To evaluate the potential body weight-lowering effects of dietary supplementation with eicosapentaenoic acid (EPA) and α-lipoic acid separately or combined in healthy overweight/obese women following a hypocaloric diet."
+    },
+    {
+      "paper_name": "Effects of seafood consumption and weight loss on fasting leptin and ghrelin concentrations in overweight and obese European young adults.",
+      "paper_year": "2009",
+      "paper_authors": "Ramel A, Parra D, Martinéz JA, Kiely M, Thorsdottir I",
+      "journal": "European journal of nutrition",
+      "publisher": "Eur J Nutr",
+      "resumen": "Energy restriction affects circulating leptin and ghrelin concentrations."
+    },
+    {
+      "paper_name": "The impact of polyunsaturated fatty acid-based dietary supplements on disease biomarkers in a metabolic syndrome/diabetes population.",
+      "paper_year": "2014",
+      "paper_authors": "Lee TC, Ivester P, Hester AG, Sergeant S, Case LD, Morgan T, Kouba EO, Chilton FH",
+      "journal": "Lipids in health and disease",
+      "publisher": "Lipids Health Dis",
+      "resumen": "Ingestion of polyunsaturated fatty acids (PUFAs) has been proposed to influence several chronic diseases including coronary heart disease (CHD) and type-2 diabetes (T2D).There is strong evidence that omega-3 (n-3) PUFAs provide protection against CHD and biomarkers of atherosclerosis. In contrast, there is more limited and inconsistent data for T2D. Few studies have examined the impact of n-3 PUFA-containing botanical oils on T2D."
+    },
+    {
+      "paper_name": "Effect of n-3 fatty acids supplementation during life style modification in women with overweight.",
+      "paper_year": "2018",
+      "paper_authors": "Sedláček P, Plavinová I, Langmajerová J, Dvořáková J, Novák J, Trefil L, Müller L, Buňatová P, Zeman V, Müllerová D",
+      "journal": "Central European journal of public health",
+      "publisher": "Cent Eur J Public Health",
+      "resumen": "The marine n-3 fatty acids eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) exert numerous beneficial effects on health, but their potency to defend against development of peripheral insulin resistance of healthy person with overweight remains poorly characterized. We aimed to evaluate the effect of a combination intervention using EPA + DHA and the lifestyle modification (LSM) in women with overweight."
+    },
+    {
+      "paper_name": "Influence of an eicosapentaenoic and docosahexaenoic acid-enriched enteral nutrition formula on plasma fatty acid composition and biomarkers of insulin resistance in the elderly.",
+      "paper_year": "2010",
+      "paper_authors": "Olza J, Mesa MD, Aguilera CM, Moreno-Torres R, Jiménez A, Pérez de la Cruz A, Gil A",
+      "journal": "Clinical nutrition (Edinburgh, Scotland)",
+      "publisher": "Clin Nutr",
+      "resumen": "n-3 Polyunsaturated fatty acids may improve cardiovascular outcomes in elderly. The aim of this study was to determine the effect of feeding elderly patients exclusively with an n-3 polyunsaturated fatty acid-enriched diet specifically designed for enteral nutrition for 6 months, evaluating modifications in plasma fatty acid profile and some biomarkers of insulin resistance (IR)."
+    },
+    {
+      "paper_name": "Effect of n-3 Polyunsaturated Fatty Acid Supplementation on Metabolic and Inflammatory Biomarkers in Type 2 Diabetes Mellitus Patients.",
+      "paper_year": "2017",
+      "paper_authors": "Jacobo-Cejudo MG, Valdés-Ramos R, Guadarrama-López AL, Pardo-Morales RV, Martínez-Carrillo BE, Harbige LS",
+      "journal": "Nutrients",
+      "publisher": "Nutrients",
+      "resumen": "Type 2 diabetes mellitus (T2DM) is accompanied by chronic low-grade inflammation, with an imbalance in the secretion of adipokines and, worsening insulin resistance. Supplementation with <i>n-</i>3 PUFA in T2DM decreases inflammatory markers, the purpose of the study was to investigate the effect of <i>n-</i>3 PUFA supplementation on adipokines, metabolic control, and lipid profile in T2DM Mexican adults."
+    },
+    {
+      "paper_name": "Inflammation as a predictive biomarker for response to omega-3 fatty acids in major depressive disorder: a proof-of-concept study.",
+      "paper_year": "2016",
+      "paper_authors": "Rapaport MH, Nierenberg AA, Schettler PJ, Kinkead B, Cardoos A, Walker R, Mischoulon D",
+      "journal": "Molecular psychiatry",
+      "publisher": "Mol Psychiatry",
+      "resumen": "This study explores whether inflammatory biomarkers act as moderators of clinical response to omega-3 (n-3) fatty acids in subjects with major depressive disorder (MDD). One hundred fifty-five subjects with Diagnostic and Statistical Manual of Mental Disorders, 4th Edition (DSM-IV) MDD, a baseline 17-item Hamilton Depression Rating Scale (HAM-D-17) score ⩾ 15 and baseline biomarker data (interleukin (IL)-1ra, IL-6, high-sensitivity C-reactive protein (hs-CRP), leptin and adiponectin) were randomized between 18 May 2006 and 30 June 2011 to 8 weeks of double-blind treatment with eicosapentaenoic acid (EPA)-enriched n-3 1060 mg day(-1), docosahexaenoic acid (DHA)-enriched n-3 900 mg day(-1) or placebo. Outcomes were determined using mixed model repeated measures analysis for 'high' and 'low' inflammation groups based on individual and combined biomarkers. Results are presented in terms of standardized treatment effect size (ES) for change in HAM-D-17 from baseline to treatment week 8. Although overall treatment group differences were negligible (ES=-0.13 to +0.04), subjects with any 'high' inflammation improved more on EPA than placebo (ES=-0.39) or DHA (ES=-0.60) and less on DHA than placebo (ES=+0.21); furthermore, EPA-placebo separation increased with increasing numbers of markers of high inflammation. Subjects randomized to EPA with 'high' IL-1ra or hs-CRP or low adiponectin ('high' inflammation) had medium ES decreases in HAM-D-17 scores vs subjects 'low' on these biomarkers. Subjects with 'high' hs-CRP, IL-6 or leptin were less placebo-responsive than subjects with low levels of these biomarkers (medium to large ES differences). Employing multiple markers of inflammation facilitated identification of a more homogeneous cohort of subjects with MDD responding to EPA vs placebo in our cohort. Studies are needed to replicate and extend this proof-of-concept work."
+    },
+    {
+      "paper_name": "A randomized controlled intervention with fish oil versus sunflower oil from 9 to 18 months of age: exploring changes in growth and skinfold thicknesses.",
+      "paper_year": "2011",
+      "paper_authors": "Andersen AD, Michaelsen KF, Hellgren LI, Trolle E, Lauritzen L",
+      "journal": "Pediatric research",
+      "publisher": "Pediatr Res",
+      "resumen": "n-3 long-chain polyunsaturated fatty acids (n-3 LCPUFA), from fish oil (FO), in rodents have been shown to reduce adipogenesis. Evidence of an effect on adipose tissue mass in humans is limited, and no studies have specifically aimed to elucidate this in infancy. To explore whether n-3 LCPUFA intake affects adipose tissue growth, we randomly allocated 154 healthy infants to daily supplementation with FO or sunflower oil (SO) from 9 to 18 mo of age and measured z-score changes in various anthropometric assessments of body size and skinfold thicknesses and plasma adipokine concentrations. Among the 133 completing infants, erythrocyte n-3 PUFA increased more in those receiving FO than in infants receiving SO [12.2 ± 0.7 (mean ± SE) versus 2.0 ± 0.4 fatty acid percentage (FA%), p < 0.001] with a concomitant larger decrease in n-6 PUFA (-8.9 ± 0.7 versus -0.9 ± 0.6 FA%, p < 0.001). We found no association between FO consumption relative to SO consumption and any of the anthropometric measures related to the size of the fat mass, but infants in the FO group had a lower skinfold ratio (triceps/subscapular) at 18 mo than those in SO group (p = 0.02). Our findings do not support the hypothesis that dietary n-3 LCPUFA is important for infant fat mass, but future studies testing this specifically are warranted."
+    },
+    {
+      "paper_name": "Thermogenesis, blood metabolites and hormones, and growth of lambs born to ewes supplemented with algae-derived docosahexaenoic acid.",
+      "paper_year": "2011",
+      "paper_authors": "Keithly JI, Kott RW, Berardinelli JG, Moreaux S, Hatfield PG",
+      "journal": "Journal of animal science",
+      "publisher": "J Anim Sci",
+      "resumen": "Neonatal lamb mortality is a major factor affecting profitability in the sheep industry, and lamb thermogenesis is a key element in neonatal lamb survival. Increased lamb vigor has been reported when ewes were supplemented during late gestation with algae-derived docosahexaenoic acid (DHA); however, the effects of DHA on lamb thermogenesis and immunocompetence have not been investigated. Eighty twin-bearing Targhee ewes (ages 2 to 5 yr; 68.5 ± 3 kg) were assigned randomly to 1 of 2 supplement treatments to determine the effects of feeding DHA to ewes during late gestation and early lactation on lamb thermogenesis, serum metabolites and hormones, and lamb growth. Supplement treatments were 12 g·ewe(-1)·d(-1) of algae-derived DHA (DHA Gold Advanced Bionutrition Corp., Columbia, MD; algae-derived DHA); and no algae-derived DHA (control). Supplements were individually fed daily during the last 30 d (±7 d) of gestation and pen fed (6 pens/treatment with 6 or 7 ewes/pen) during the first 38 d (±7 d) of lactation. One hour after lambing and before nursing, twin-born lambs were weighed, blood sampled via jugular puncture, and placed in a dry cold chamber for 30 min (0°C), and rectal temperatures were recorded every minute for 30 min. Lambs were removed from the cold chamber, blood sampled, warmed for 15 min, and returned to their dam. Ewes were blood sampled, and colostrum samples were collected 1 h postpartum. Ewe and lamb sera were assayed for glucose, NEFA, cortisol, and leptin. Lamb rectal temperature, glucose, NEFA, cortisol, leptin, and birth weights did not differ between treatments. The BW at 38 d was greater (P = 0.03) for lambs born to control ewes than for lambs born to algae-derived DHA-supplemented ewes; however, the colostrum of algae-derived DHA-supplemented ewes had a greater specific gravity (P = 0.05) than for control ewes. Overall, despite a potentially positive effect on ewe colostral IgG concentrations, supplementation of algae-derived DHA during late gestation and early lactation had a negative effect on lamb BW and did not affect indices of lamb thermogenesis."
+    },
+    {
+      "paper_name": "A gene variation (rs12691) in the CCAT/enhancer binding protein α modulates glucose metabolism in metabolic syndrome.",
+      "paper_year": "2013",
+      "paper_authors": "Delgado-Lista J, Perez-Martinez P, Garcia-Rios A, Phillips CM, Hall W, Gjelstad IM, Lairon D, Saris W, Kieć-Wilk B, Karlström B, Drevon CA, Defoort C, Blaak EE, Dembinska-Kieć A, Risérus U, Lovegrove JA, Roche HM, Lopez-Miranda J",
+      "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
+      "publisher": "Nutr Metab Cardiovasc Dis",
+      "resumen": "CCAAT/enhancer-binding protein alpha (CEBPA) is a transcription factor involved in adipogenesis and energy homeostasis. Caloric restriction reduces CEBPA protein expression in patients with metabolic syndrome (MetS). A previous report linked rs12691 SNP in CEBPA to altered concentration of fasting triglycerides. Our objective was to assess the effects of rs12691 in glucose metabolism in Metabolic Syndrome (MetS) patients."
+    },
+    {
+      "paper_name": "Differential dose effect of fish oil on inflammation and adipose tissue gene expression in chronic kidney disease patients.",
+      "paper_year": "2013",
+      "paper_authors": "Guebre-Egziabher F, Debard C, Drai J, Denis L, Pesenti S, Bienvenu J, Vidal H, Laville M, Fouque D",
+      "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+      "publisher": "Nutrition",
+      "resumen": "The beneficial effects of ω-3 polyunsaturated fatty acids (PUFAs) in cardiovascular disease are partly attributed to their anti-inflammatory properties. Their potential effect on the adipose tissue of chronic kidney disease (CKD) patients has never been explored."
+    },
+    {
+      "paper_name": "Highly purified eicosapentaenoic acid reduces cardio-ankle vascular index in association with decreased serum amyloid A-LDL in metabolic syndrome.",
+      "paper_year": "2009",
+      "paper_authors": "Satoh N, Shimatsu A, Kotani K, Himeno A, Majima T, Yamada K, Suganami T, Ogawa Y",
+      "journal": "Hypertension research : official journal of the Japanese Society of Hypertension",
+      "publisher": "Hypertens Res",
+      "resumen": "A recent clinical trial revealed that highly purified eicosapentaenoic acid (EPA), an n-3 polyunsaturated fatty acid, reduces the incidence of cardiovascular diseases. However, the detailed mechanism underlying the anti-atherogenic effect of EPA is still poorly understood. In this study, we examined the effect of EPA on cardio-ankle vascular index (CAVI), a new index of arterial stiffness that is less influenced by blood pressure (BP), as well as on serum amyloid A-low-density lipoprotein (SAA-LDL), an oxidized LDL (oxLDL), in the metabolic syndrome. Ninety-two obese Japanese subjects with metabolic syndromes were randomly divided into two groups (n=46): the EPA-treated group (1.8 g administered daily for 3 months) and the control group. Measurements were taken to assess the changes in glucose-lipid metabolism, SAA-LDL, C-reactive protein (CRP), leptin, adiponectin and pulse wave velocity (PWV), and CAVI. EPA treatment significantly reduced the levels of immunoreactive insulin, triglycerides, SAA-LDL, CRP, PWV and CAVI and increased the levels of adiponectin relative to the control group for 3 months (P<0.05). Stepwise multivariate linear regression analysis revealed that the only significant determinant for a decrease in CAVI by EPA is a reduction in SAA-LDL (P<0.05). Moreover, the EPA-induced reduction of SAA-LDL was only significantly correlated with a decrease in total cholesterol and an increase in adiponectin (P<0.05). This study is the first demonstration that EPA improves arterial stiffness and is less influenced by BP, possibly through the suppression of SAA-LDL, thereby leading to a reduction in the frequency of cardiovascular disease development in metabolic syndrome."
+    },
+    {
+      "paper_name": "Effect of DHA supplementation in a very low-calorie ketogenic diet in the treatment of obesity: a randomized clinical trial.",
+      "paper_year": "2016",
+      "paper_authors": "de Luis D, Domingo JC, Izaola O, Casanueva FF, Bellido D, Sajoux I",
+      "journal": "Endocrine",
+      "publisher": "Endocrine",
+      "resumen": "A VLCK diet supplemented with DHA, commercially available, was tested against an isocaloric VLCK diet without DHA. The main purpose of this study was to compare the effect of DHA supplementation in classic cardiovascular risk factors, adipokine levels, and inflammation-resolving eicosanoids. A total of obese patients were randomized into two groups: a group supplemented with DHA (n = 14) (PnK-DHA group) versus a group with an isocaloric diet free of supplementation (n = 15) (control group). The follow-up period was 6 months. The average weight loss after 6 months of treatment was 20.36 ± 5.02 kg in control group and 19.74 ± 5.10 kg in PnK-DHA group, without statistical differences between both groups. The VLCK diets induced a significant change in some of the biological parameters, such as insulin, HOMA-IR, triglycerides, LDL cholesterol, C-reactive protein, resistin, TNF alpha, and leptin. Following DHA supplementation, the DHA-derived oxylipins were significantly increased in the intervention group. The ratio of proresolution/proinflammatory lipid markers was increased in plasma of the intervention group over the entire study. Similarly, the mean ratios of AA/EPA and AA/DHA in erythrocyte membranes were dramatically reduced in the PnK-DHA group and the anti-inflammatory fatty acid index (AIFAI) was consistently increased after the DHA treatment (p < 0.05). The present study demonstrated that a very low-calorie ketogenic diet supplemented with DHA was significantly superior in the anti-inflammatory effect, without statistical differences in weight loss and metabolic improvement."
+    },
+    {
+      "paper_name": "Supplementation of n3 long-chain polyunsaturated fatty acid synergistically decreases insulin resistance with weight loss of obese prepubertal and pubertal children.",
+      "paper_year": "2011",
+      "paper_authors": "López-Alarcón M, Martínez-Coronado A, Velarde-Castro O, Rendón-Macías E, Fernández J",
+      "journal": "Archives of medical research",
+      "publisher": "Arch Med Res",
+      "resumen": "Supplementation with n3 long-chain polyunsaturated fatty acids (n3-LCPUFA) appears to affect body weight, adipokines, and insulin resistance (IR) in obese individuals. However, it is unclear whether the effect on IR is independent of weight loss and if the same effect is observed in children. We undertook this study to analyze the effect of supplementation with n3-LCPUFA on adipokine concentration and IR of prepubertal and pubertal children, independent of weight loss."
     },
     {
       "paper_name": "The impact of dietary fat composition on serum leptin concentrations in healthy nonobese men and women.",
@@ -361,6 +345,22 @@
       "journal": "The Journal of clinical endocrinology and metabolism",
       "publisher": "J Clin Endocrinol Metab",
       "resumen": "The recently discovered hormone leptin is primarily secreted by adipose tissue and serves as an internal signal indicating the size of body fat stores. The aim of the present study was to investigate the impact of the dietary fatty acid composition on serum leptin concentrations. Therefore, serum leptin levels were measured by RIA in healthy nonobese men (n = 30) and women (n = 25). First, all participants received a baseline high-fat diet, rich in saturated fat, for 2 wk and were then randomly assigned to one of three high-fat dietary treatments, which contained refined olive oil (rich in monounsaturated fatty acids, n = 19), rapeseed oil [rich in monounsaturated fatty acids and alpha-linolenic acid (18:3n-3), n = 17], or sunflower oil (rich in n-6-polyunsaturated fatty acids, n = 19) as the principal source of fat for 4 wk. On the rapeseed oil diet, serum leptin concentrations increased slightly in men [+0.25 ng/ml, T(9) = -2.778, P = 0.021], but decreased distinctly in women [-4.70 ng/ml, T(6) = 5.083, P = 0.002]. Both the olive oil and the sunflower oil diet did not affect serum leptin concentrations. Thus, it is proposed that serum leptin levels were affected by the high amount of alpha-linolenic acid in rapeseed oil. However, questions remain as to why this diet differently affected serum leptin in men and women."
+    },
+    {
+      "paper_name": "Addition of n-3 fatty acids to a 4-hour lipid infusion does not affect insulin sensitivity, insulin secretion, or markers of oxidative stress in subjects with type 2 diabetes mellitus.",
+      "paper_year": "2009",
+      "paper_authors": "Mostad IL, Bjerve KS, Basu S, Sutton P, Frayn KN, Grill V",
+      "journal": "Metabolism: clinical and experimental",
+      "publisher": "Metabolism",
+      "resumen": "Fatty acids (FA) can impair glucose metabolism to a varying degree depending on time of exposure and also of type of FA. Here we tested for acute effects of marine n-3 FA on insulin sensitivity, insulin secretion, energy metabolism, and oxidative stress. This was a randomized, double-blind, crossover study in 11 subjects with type 2 diabetes mellitus. A 4-hour lipid infusion (Intralipid [Fresenius Kabi, Halden, Norway], total of 384 mL) was compared with a similar lipid infusion partly replaced by Omegaven (Fresenius Kabi) that contributed a median of 0.1 g fish oil per kilogram body weight, amounting to 0.04 g/kg of marine n-3 FA. Insulin sensitivity was assessed by isoglycemic hyperinsulinemic clamps; insulin secretion (measured after the clamps), by C-peptide glucagon tests; and energy metabolism, by indirect calorimetry. Infusion of Omegaven increased the proportion of n-3 FA in plasma nonesterified fatty acids (NEFA) compared with Intralipid alone (20:5n-3: median, 1.5% [interquartile range, 0.6%] vs -0.2% [0.2%], P = .001; 22:6n-3: 0.8% [0.4%] vs -0.7% [0.2%], P = .001). However, glucose utilization was not affected; neither was insulin secretion or total energy production (P = .966, .210, and .423, respectively, for the differences between the lipid clamps). Omegaven tended to lower oxidation of fat (P = .062) compared with Intralipid only, correlating with the rise in individual n-3 NEFA (r = 0.627, P = .039). The effects of clamping on phospholipid FA composition, leptin, adiponectin, or F(2)-isoprostane concentrations were not affected by Omegaven. Enrichment of NEFA with n-3 FA during a 4-hour infusion of Intralipid failed to affect insulin sensitivity, insulin secretion, or markers of oxidative stress in subjects with type 2 diabetes mellitus."
+    },
+    {
+      "paper_name": "[The effect of docosahexaenoic acid on the loss of appetite in pediatric patients with pneumonia].",
+      "paper_year": "2006",
+      "paper_authors": "López-Alarcón M, Furuya-Meguro MM, García-Zúñiga PA, Tadeo-Pulido I",
+      "journal": "Revista medica del Instituto Mexicano del Seguro Social",
+      "publisher": "Rev Med Inst Mex Seguro Soc",
+      "resumen": "To evaluate the role of docosahexaenoic acid (DHA) administered during the acute phase of pneumonia in infants, on appetite, cytokines and leptin concentrations."
     }
   ]
 }
