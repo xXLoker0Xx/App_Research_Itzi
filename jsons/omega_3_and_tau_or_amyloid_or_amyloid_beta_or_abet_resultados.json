@@ -1,7 +1,7 @@
 {
   "search_info": {
     "search_engine": "PubMed",
-    "date": "2025-07-09",
+    "date": "2025-07-11",
     "search_terms": "Omega 3 AND ( \"TAU\" OR \"amyloid\" OR \"amyloid beta\" OR \"Abeta42/40\" OR \"Abeta42\") AND \"Randomized Controlled Trial\"[pt]",
     "hits": 27
   },
@@ -11,36 +11,12 @@
   "termino_busqueda": "Omega 3 AND ( \"TAU\" OR \"amyloid\" OR \"amyloid beta\" OR \"Abeta42/40\" OR \"Abeta42\") AND \"Randomized Controlled Trial\"[pt]",
   "resultados": [
     {
-      "paper_name": "Supplementation of medium-chain triglycerides combined with docosahexaenoic acid improves cognitive function in Chinese older adults with mild cognitive impairment: A randomized double-blind, placebo-controlled trial.",
-      "paper_year": "2025",
-      "paper_authors": "Duan H, Yang T, Li C, Xu N, Wang M, Zhang C, Zhao J, Chen Y, Yan J, Li W, Li Z, Ma F, Huang G",
-      "journal": "Journal of affective disorders",
-      "publisher": "J Affect Disord",
-      "resumen": "Medium-chain triglycerides (MCT) and docosahexaenoic acid (DHA) could affect cognitive function, but their combination effects remain unclear. This randomized, double-blind, placebo-controlled trial aimed to evaluate effects of MCT and DHA supplementation, alone or in combination, on mild cognitive impairment (MCI) patients."
-    },
-    {
       "paper_name": "Cognitive impact of multidomain intervention and omega 3 according to blood Aβ42/40 ratio: a subgroup analysis from the randomized MAPT trial.",
       "paper_year": "2023",
       "paper_authors": "Delrieu J, Vellas B, Guyonnet S, Cantet C, Ovod V, Li Y, Bollinger J, Bateman R, Andrieu S",
       "journal": "Alzheimer's research & therapy",
       "publisher": "Alzheimers Res Ther",
       "resumen": "In MAPT (Multidomain Alzheimer Preventive Trial), a cognitive effect of multidomain intervention (MI) was showed in non-demented subjects with positive amyloid PET. However, screening eligible patients for multidomain intervention by PET is difficult to generalize in real-world settings."
-    },
-    {
-      "paper_name": "Regression of Coronary Fatty Plaque and Risk of Cardiac Events According to Blood Pressure Status: Data From a Randomized Trial of Eicosapentaenoic Acid and Docosahexaenoic Acid in Patients With Coronary Artery Disease.",
-      "paper_year": "2023",
-      "paper_authors": "Welty FK, Hariri E, Asbeutah AA, Daher R, Amangurbanova M, Chedid G, Elajami TK, Alfaddagh A, Malik A",
-      "journal": "Journal of the American Heart Association",
-      "publisher": "J Am Heart Assoc",
-      "resumen": "Background Residual risk of cardiovascular events and plaque progression remains despite reduction in low-density lipoprotein cholesterol. Factors contributing to residual risk remain unclear. The authors examined the role of eicosapentaenoic acid and docosahexaenoic acid in coronary plaque regression and its predictors. Methods and Results A total of 240 patients with stable coronary artery disease were randomized to eicosapentaenoic acid plus docosahexaenoic acid (3.36 g/d) or none for 30 months. Patients were stratified by regression or progression of coronary fatty plaque measured by coronary computed tomographic angiography. Cardiac events were ascertained. The mean±SD age was 63.0±7.7 years, mean low-density lipoprotein cholesterol level was <2.07 mmol/L, and median triglyceride level was <1.38 mmol/L. Regressors had a 14.9% reduction in triglycerides that correlated with fatty plaque regression (<i>r</i>=0.135; <i>P</i>=0.036). Compared with regressors, progressors had higher cardiac events (5% vs 22.3%, respectively; <i>P</i><0.001) and a 2.89-fold increased risk of cardiac events (95% CI, 1.1-8.0; <i>P</i>=0.034). Baseline non-high-density lipoprotein cholesterol level <2.59 mmol/L (100 mg/dL) and systolic blood pressure <125 mm Hg were significant independent predictors of fatty plaque regression. Normotensive patients taking eicosapentaenoic acid plus docosahexaenoic acid had regression of noncalcified coronary plaque that correlated with triglyceride reduction (<i>r</i>=0.35; <i>P</i>=0.034) and a significant decrease in neutrophil/lymphocyte ratio. In contrast, hypertensive patients had no change in noncalcified coronary plaque or neutrophil/lymphocyte ratio. Conclusions Triglyceride reduction, systolic blood pressure <125 mm Hg, and non-high-density lipoprotein cholesterol <2.59 mmol/L were associated with coronary plaque regression and reduced cardiac events. Normotensive patients had greater benefit than hypertensive patients potentially due to lower levels of inflammation. Future studies should examine the role of inflammation in plaque regression. Registration URL: https://www.clinicaltrials.gov; Unique identifier: NCT01624727."
-    },
-    {
-      "paper_name": "Effects of Peroral Omega-3 Fatty Acid Supplementation on Cerebrospinal Fluid Biomarkers in Patients with Alzheimer's Disease: A Randomized Controlled Trial-The OmegAD Study.",
-      "paper_year": "2021",
-      "paper_authors": "Tofiq A, Zetterberg H, Blennow K, Basun H, Cederholm T, Eriksdotter M, Faxén-Irving G, Hjorth E, Jernerén F, Schultzberg M, Wahlund LO, Palmblad J, Freund-Levi Y",
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "publisher": "J Alzheimers Dis",
-      "resumen": "Studies have suggested a connection between a decrease in the levels of polyunsaturated fatty acids (PUFAs) and Alzheimer's disease (AD). We aimed to assess the effect of supplementation with omega-3 fatty acids (n-3 FAs) on biomarkers analyzed in the cerebrospinal fluid (CSF) of patients diagnosed with AD."
     },
     {
       "paper_name": "Effects of Folic Acid Combined with DHA Supplementation on Cognitive Function and Amyloid-β-Related Biomarkers in Older Adults with Mild Cognitive Impairment by a Randomized, Double Blind, Placebo-Controlled Trial.",
@@ -51,116 +27,12 @@
       "resumen": "The neuroprotective benefits of combined folic acid and docosahexaenoic acid (DHA) on cognitive function in mild cognitive impairment (MCI) patients are suggested but unconfirmed."
     },
     {
-      "paper_name": "Moody kids years later: Long-term outcomes of youth from the Omega-3 and therapy (OATS) studies.",
-      "paper_year": "2021",
-      "paper_authors": "Fristad MA, Roley-Roberts ME, Black SR, Arnold LE",
-      "journal": "Journal of affective disorders",
-      "publisher": "J Affect Disord",
-      "resumen": "This naturalistic follow-up study examines outcomes for youth with depression (n = 25) or subsyndromal bipolar disorder (n = 13) 2-5 years after participation in randomized clinical trials (RCTs) of omega-3 fatty acids (Ω3), individual family psychoeducational psychotherapy (IF-PEP), and their combination METHODS: Forty percent (38/95) of RCT families completed a follow-up assessment RESULTS: Relapse rates and conversion to bipolar disorder were consistent with published literature. Original treatment assignment did not impact current functioning. Overall, participants' mood severity, executive functioning, and global functioning continued to be better than at RCT baseline. Depressive symptoms increased significantly from end of RCT. Manic symptom severity, executive functioning, and global functioning remained comparable to end of RCT. The majority of parents and youth reported improved youth emotion regulation skills and family communication. They considered study participation beneficial, with increased understanding of mood disorders being the top reason. Half of youth commenced or continued Ω3 and 58% commenced or continued psychotherapy post-RCT, suggesting some degree of consumer satisfaction; these youth had lower depression severity than other participants."
-    },
-    {
-      "paper_name": "The impact of a multi-domain intervention on cerebral glucose metabolism: analysis from the randomized ancillary FDG PET MAPT trial.",
-      "paper_year": "2020",
-      "paper_authors": "Delrieu J, Voisin T, Saint-Aubert L, Carrie I, Cantet C, Vellas B, Payoux P, Andrieu S",
-      "journal": "Alzheimer's research & therapy",
-      "publisher": "Alzheimers Res Ther",
-      "resumen": "The Multidomain Alzheimer Preventive Trial (MAPT) was designed to assess the efficacy of omega-3 fatty acid supplementation, multidomain intervention (MI), or a combination of both on cognition. Although the MAPT study was negative, an effect of MI in maintaining cognitive functions compared to placebo group was showed in positive amyloid subjects. A FDG PET study (MAPT-NI) was implemented to test the impact of MI on brain glucose metabolism."
-    },
-    {
-      "paper_name": "Cortical β-Amyloid in Older Adults Is Associated with Multidomain Interventions with and without Omega 3 Polyunsaturated Fatty Acid Supplementation.",
-      "paper_year": "2020",
-      "paper_authors": "Hooper C, Coley N, De Souto Barreto P, Payoux P, Salabert AS, Andrieu S, Weiner M, Vellas B",
-      "journal": "The journal of prevention of Alzheimer's disease..",
-      "publisher": "J Prev Alzheimers Dis",
-      "resumen": "Multidomain lifestyle interventions (including combinations of physical exercise, cognitive training and nutritional guidance) are attracting increasing research attention for reducing the risk of Alzheimer's disease (AD). Here we examined for the first time the cross-sectional relationship between cortical β-amyloid (Aβ) and multidomain lifestyle interventions (nutritional and exercise counselling and cognitive training), omega 3 polyunsaturated fatty acid (n-3 PUFA) supplementation or their combination in 269 participants of the Multidomain Alzheimer Preventive Trial (MAPT). In adjusted multiple linear regression models, compared to the control group (receiving placebo alone), cortical Aβ, measured once during follow-up (mean 512.7 ± 249.6 days post-baseline), was significantly lower in the groups receiving multidomain lifestyle intervention + placebo (mean difference, -0.088, 95 % CI, -0.148,-0.029, p = 0.004) or multidomain lifestyle intervention + n-3 PUFA (-0.100, 95 % CI, -0.160,-0.041, p = 0.001), but there was no difference in the n-3 PUFA supplementation alone group (-0.011, 95 % CI, -0.072,0.051, p = 0.729). Secondary analysis provided mixed results. Our findings suggest that multidomain interventions both with and without n-3 PUFA supplementation might be associated with lower cerebral Aβ. Future trials should investigate if such multidomain lifestyle interventions are causally associated with a reduction or the prevention of the accumulation of cerebral Aβ."
-    },
-    {
-      "paper_name": "Commentary: Fatty acids and Alzheimer's disease: evidence on cognition and cortical β-amyloid from secondary analyses of the Multidomain Alzheimer Preventive Trial.",
-      "paper_year": "2018",
-      "paper_authors": "Hooper C, Vellas B",
-      "journal": "The journal of prevention of Alzheimer's disease..",
-      "publisher": "J Prev Alzheimers Dis",
-      "resumen": ""
-    },
-    {
-      "paper_name": "Cross-Sectional Associations of Total Plasma Homocysteine with Cortical β-Amyloid Independently and as a Function of Omega 3 Polyunsaturated Fatty Acid Status in Older Adults at Risk of Dementia.",
-      "paper_year": "2017",
-      "paper_authors": "Hooper C, De Souto Barreto P, Coley N, Caussé E, Payoux P, Salabert AS, Cesari M, Andrieu S, Bowman GL, Weiner M, Vellas B",
-      "journal": "The journal of nutrition, health & aging..",
-      "publisher": "J Nutr Health Aging",
-      "resumen": "Elevated total plasma homocysteine is a risk factor for Alzheimer's disease (AD) and there is some evidence that omega-3 polyunsaturated fatty acids (n-3 PUFAs) can modulate the effects of homocysteine-lowering B vitamins on AD related pathologies. Hence we investigated the relationship between total plasma homocysteine and cortical β-amyloid (Aβ) in older adults at risk of dementia. The role of erythrocyte membrane n-3 PUFAs (omega 3 index) on this relationship was also explored."
-    },
-    {
-      "paper_name": "DHA supplementation improves cognitive function via enhancing Aβ-mediated autophagy in Chinese elderly with mild cognitive impairment: a randomised placebo-controlled trial.",
-      "paper_year": "2018",
-      "paper_authors": "Zhang YP, Lou Y, Hu J, Miao R, Ma F",
-      "journal": "Journal of neurology, neurosurgery, and psychiatry",
-      "publisher": "J Neurol Neurosurg Psychiatry",
-      "resumen": "Higher docosahexaenoic acid (DHA) intake is inversely correlated with relative risk of Alzheimer's disease. The potential benefits of DHA supplementation in people with mild cognitive impairment (MCI) have not been fully examined."
-    },
-    {
       "paper_name": "A randomised, double-blind, placebo-controlled trial of minocycline and/or omega-3 fatty acids added to treatment as usual for at-risk mental states (NAYAB): study protocol.",
       "paper_year": "2017",
       "paper_authors": "Qurashi I, Chaudhry IB, Khoso AB, Farooque S, Lane S, Husain MO, Chu S, Sarginson J, Hamarani M, Naqvi HA, Razzaque B, Minhas FA, Yung AR, Deakin JFW, Husain N",
       "journal": "Trials",
       "publisher": "Trials",
       "resumen": "The at-risk mental state (ARMS) describes individuals at high risk of developing schizophrenia or psychosis. The use of antipsychotics in this population is not supported, because most individuals with ARMS are unlikely to develop psychosis. Anti-inflammatory treatments and polyunsaturated fatty acids (PUFAs) may have some beneficial effects in the treatment of ARMS. There have been no controlled clinical trials in which researchers have investigated the use of minocycline for ARMS and no trials involving PUFAs in combination with other proposed treatments. There is a need to find effective, tolerable and inexpensive interventions for individuals with ARMS that are available in high-, low- and middle-income countries."
-    },
-    {
-      "paper_name": "Phytosterols and Omega 3 Supplementation Exert Novel Regulatory Effects on Metabolic and Inflammatory Pathways: A Proteomic Study.",
-      "paper_year": "2017",
-      "paper_authors": "Lambert C, Cubedo J, Padró T, Sánchez-Hernández J, Antonijoan RM, Perez A, Badimon L",
-      "journal": "Nutrients",
-      "publisher": "Nutrients",
-      "resumen": "Cardiovascular disease (CVD) remains one of the major causes of death and disability worldwide. In addition to drug treatment, nutritional interventions or supplementations are becoming a health strategy for CVD prevention. Phytosterols (PhyS) are natural components that have been shown to reduce cholesterol levels; while poly-unsaturated fatty acids (PUFA), mainly omega-3 (ω3) fatty acids, have shown to reduce triglyceride levels. Here we aimed to investigate whether the proteins in the main lipoproteins (low density lipoproteins (LDL) and high density lipoproteins (HDL)) as well as proteins in the lipid free plasma fraction (LPDP) were regulated by the intake of PhyS-milk or ω3-milk, in overweight healthy volunteers by a proteomic based systems biology approach. The study was a longitudinal crossover trial, including thirty-two healthy volunteers with body mass index (BMI) 25-35 kg/m² (Clinical Trial: ISRCTN78753338). Basal samples before any intervention and after 4 weeks of intake of PhyS or ω3-milk were analyzed. Proteomic profiling by two dimensional electrophoresis (2-DE) followed by mass spectrometry-(MALDI/TOF), ELISA, Western blot, conventional biochemical analysis, and in-silico bioinformatics were performed. The intake of PhyS-milk did not induce changes in the lipid associated plasma protein fraction, whereas ω3-milk significantly increased apolipoprotein (Apo)- E LDL content (<i>p =</i> 0.043) and induced a coordinated increase in several HDL-associated proteins, Apo A-I, lecitin cholesterol acyltransferase (LCAT), paraoxonase-1 (PON-1), Apo D, and Apo L1 (<i>p</i> < 0.05 for all). Interestingly, PhyS-milk intake induced a reduction in inflammatory molecules not seen after ω3-milk intake. Serum amyloid P component (SAP) was reduced in the LPDP protein fraction (<i>p</i> = 0.001) of subjects taking PhyS-milk and C-C motif chemokine 2 (CCL2)expression detected by reverse transcription polymerase chain reaction (RT-PCR) analysis in white blood cells was significantly reduced (<i>p</i> = 0.013). No changes were observed in the lipid-free plasma proteome with ω3-milk. Our study provides novel results and highlights that the PhyS-milk induces attenuation of the pro-inflammatory pathways, whereas ω3-milk induces improvement in lipid metabolic pathways."
-    },
-    {
-      "paper_name": "Body weight affects ω-3 polyunsaturated fatty acid (PUFA) accumulation in youth following supplementation in post-hoc analyses of a randomized controlled trial.",
-      "paper_year": "2017",
-      "paper_authors": "Christian LM, Young AS, Mitchell AM, Belury MA, Gracious BL, Arnold LE, Fristad MA",
-      "journal": "PloS one",
-      "publisher": "PLoS One",
-      "resumen": "Guidelines for suggested intake of ω-3 polyunsaturated fatty acids (PUFAs) are limited in youth and rely primarily on age. However, body weight varies considerably within age classifications. The current analyses examined effects of body weight and body mass index (BMI) on fatty acid accumulation in 64 youth (7-14 years) with a diagnosed mood disorder in a double-blind randomized-controlled trial (2000mg ω-3 supplements or a control capsule) across 12 weeks. Weight and height were measured at the first study visit and EPA and DHA levels were determined using fasting blood samples obtained at both the first and end-of-study visits. In the ω-3 supplementation group, higher baseline body weight predicted less plasma accumulation of both EPA [B = -0.047, (95% CI = -0.077; -0.017), β = -0.54, p = 0.003] and DHA [B = -0.02, (95% CI = -0.034; -0.007), β = -0.52, p = 0.004]. Similarly, higher BMI percentile as well as BMI category (underweight, normal weight, overweight/obese) predicted less accumulation of EPA and DHA (ps≤0.01). Adherence to supplementation was negatively correlated with BMI percentile [B = -0.002 (95% CI = -0.004; 0.00), β = -0.44, p = 0.019], but did not meaningfully affect observed associations. As intended, the control supplement exerted no significant effect on plasma levels of relevant fatty acids regardless of youth body parameters. These data show strong linear relationships of both absolute body weight and BMI percentile with ω-3 PUFA accumulation in youth. A dose-response effect was observed across the BMI spectrum. Given increasing variability in weight within BMI percentile ranges as youth age, dosing based on absolute weight should be considered. Moreover, effects of weight should be incorporated into statistical models in studies examining clinical effects of ω-3 PUFAs in youth as well as adults, as weight-related differences in effects may contribute meaningfully to inconsistencies in the current literature."
-    },
-    {
-      "paper_name": "Impact of Adding Eicosapentaenoic Acid to Statin Therapy on Plasma Pentraxin 3 Level in Patients with Stable Coronary Artery Disease: A 6-Month, Randomized Controlled Study.",
-      "paper_year": "2017",
-      "paper_authors": "Tani S, Nagao K, Yagi T, Atsumi W, Hirayama A",
-      "journal": "American journal of cardiovascular drugs : drugs, devices, and other interventions",
-      "publisher": "Am J Cardiovasc Drugs",
-      "resumen": "We hypothesized that the additional administration of eicosapentaenoic acid (EPA) in patients with stable coronary artery disease (CAD) receiving statin has the potential to lower the serum pentraxin 3 (PTX3) level, an indicator of plaque stabilization."
-    },
-    {
-      "paper_name": "The effect of APOE genotype on the delivery of DHA to cerebrospinal fluid in Alzheimer's disease.",
-      "paper_year": "2016",
-      "paper_authors": "Yassine HN, Rawat V, Mack WJ, Quinn JF, Yurko-Mauro K, Bailey-Hall E, Aisen PS, Chui HC, Schneider LS",
-      "journal": "Alzheimer's research & therapy",
-      "publisher": "Alzheimers Res Ther",
-      "resumen": "Apolipoprotein E (APOE) ɛ4 and low cerebrospinal fluid (CSF) amyloid-β42 (Aβ42) levels are predictors for developing Alzheimer's disease (AD). The results of several studies indicate an interaction between docosahexaenoic acid (DHA) consumption and cognitive outcomes by APOE genotype. Our objective in the present study was to examine whether APOE ɛ4 genotype and low CSF Aβ42 levels were associated with reduced delivery of DHA to CSF in the Alzheimer's Disease Cooperative Study-sponsored DHA clinical trial."
-    },
-    {
-      "paper_name": "Effects of n-3 FA supplementation on the release of proresolving lipid mediators by blood mononuclear cells: the OmegAD study.",
-      "paper_year": "2015",
-      "paper_authors": "Wang X, Hjorth E, Vedin I, Eriksdotter M, Freund-Levi Y, Wahlund LO, Cederholm T, Palmblad J, Schultzberg M",
-      "journal": "Journal of lipid research",
-      "publisher": "J Lipid Res",
-      "resumen": "Specialized proresolving mediators (SPMs) induce resolution of inflammation. SPMs are derivatives of n-3 and n-6 PUFAs and may mediate their beneficial effects. It is unknown whether supplementation with PUFAs influences the production of SPMs. Alzheimer's disease (AD) is associated with brain inflammation and reduced levels of SPMs. The OmegAD study is a randomized, double-blind, and placebo-controlled clinical trial on AD patients, in which placebo or a supplement of 1.7 g DHA and 0.6 g EPA was taken daily for 6 months. Plasma levels of arachidonic acid decreased, and DHA and EPA levels increased after 6 months of n-3 FA treatment. Peripheral blood mononuclear cells (PBMCs) were obtained before and after the trial. Analysis of the culture medium of PBMCs incubated with amyloid-β 1-40 showed unchanged levels of the SPMs lipoxin A4 and resolvin D1 in the group supplemented with n-3 FAs, whereas a decrease was seen in the placebo group. The changes in SPMs showed correspondence to cognitive changes. Changes in the levels of SPMs were positively correlated to changes in transthyretin. We conclude that supplementation with n-3 PUFAs for 6 months prevented a reduction in SPMs released from PBMCs of AD patients, which was associated with changes in cognitive function."
-    },
-    {
-      "paper_name": "Increasing serum levels of vitamin A, D and E are associated with alterations of different inflammation markers in patients with multiple sclerosis.",
-      "paper_year": "2014",
-      "paper_authors": "Røsjø E, Myhr KM, Løken-Amsrud KI, Bakke SJ, Beiske AG, Bjerve KS, Hovdal H, Lilleås F, Midgard R, Pedersen T, Benth JS, Torkildsen Ø, Wergeland S, Michelsen AE, Aukrust P, Ueland T, Holmøy T",
-      "journal": "Journal of neuroimmunology",
-      "publisher": "J Neuroimmunol",
-      "resumen": "To explore the relationships between vitamin A, D and E and inflammation in relapsing remitting multiple sclerosis, we assessed their associations with 11 inflammation markers in 9 serial serum samples from 85 patients, before and during interferon-β1a treatment. A negative association was found between vitamin A and pentraxin 3 independent of interferon-β1a use, whereas positive associations between vitamin D and interleukin-1 receptor antagonist and secreted frizzled-related protein 3 were seen before, and between vitamin E and chemokine (C-X-C motif) ligand 16 during interferon-β1a treatment. These findings suggest associations with diverse inflammatory pathways, which may be differentially influenced by interferon-β1a treatment."
-    },
-    {
-      "paper_name": "Transfer of omega-3 fatty acids across the blood-brain barrier after dietary supplementation with a docosahexaenoic acid-rich omega-3 fatty acid preparation in patients with Alzheimer's disease: the OmegAD study.",
-      "paper_year": "2014",
-      "paper_authors": "Freund Levi Y, Vedin I, Cederholm T, Basun H, Faxén Irving G, Eriksdotter M, Hjorth E, Schultzberg M, Vessby B, Wahlund LO, Salem N, Palmblad J",
-      "journal": "Journal of internal medicine",
-      "publisher": "J Intern Med",
-      "resumen": "Little is known about the transfer of essential fatty acids (FAs) across the human blood-brain barrier (BBB) in adulthood. In this study, we investigated whether oral supplementation with omega-3 (n-3) FAs would change the FA profile of the cerebrospinal fluid (CSF)."
     },
     {
       "paper_name": "Omega-3 PUFA supplementation and the response to evoked endotoxemia in healthy volunteers.",
@@ -171,20 +43,76 @@
       "resumen": "Fish oil-derived n-3 PUFA may improve cardiometabolic health through modulation of innate immunity. However, findings in clinical studies are conflicting. We hypothesized that n-3 PUFA supplementation would dose-dependently reduce the systemic inflammatory response to experimental endotoxemia in healthy humans."
     },
     {
-      "paper_name": "Effects on transthyretin in plasma and cerebrospinal fluid by DHA-rich n - 3 fatty acid supplementation in patients with Alzheimer's disease: the OmegAD study.",
-      "paper_year": "2013",
-      "paper_authors": "Faxén-Irving G, Freund-Levi Y, Eriksdotter-Jönhagen M, Basun H, Hjorth E, Palmblad J, Vedin I, Cederholm T, Wahlund LO",
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "publisher": "J Alzheimers Dis",
-      "resumen": "Transthyretin (TTR) binds amyloid-β (Aβ) and may reduce brain Aβ, a pathological feature in Alzheimer's disease (AD). N - 3 fatty acids (FA), docosahexaenoic (DHA), and eicosapentaenoic acid (EPA) may increase TTR transcription in rat hippocampus. We studied effects of n - 3 FA supplementation on TTR-levels in patients with AD. Outpatients were randomized to receive 1.7 g DHA and 0.6 g EPA (n - 3/n - 3 group) or placebo (placebo/n - 3 group) during 6 months. After 6 months, all patients received n - 3 FA for another 6 months. TTR and FA were measured in plasma in all subjects, whereas TTR in cerebrospinal fluid (CSF) was measured in a subgroup. The study was completed by 89 patients in the n - 3/n - 3 group (75 y, 57% w) and 85 in the placebo/n - 3 group (75 y, 46% w). Baseline plasma-TTR was within normal range in both groups. After 6 months, plasma-TTR decreased in the placebo/n - 3 group (p < 0.001 within and p < 0.015 between the groups). No changes were observed in CSF TTR. From 6 to 12 months when both groups were supplemented, plasma-TTR increased significantly in both groups. Repeated measures ANOVA indicated an increase in TTR over time (p = 0.04) in those receiving n - 3 FA for 12 months. By linear regression analyses, n - 3 FA treatment was independently associated with increased plasma-TTR at 6 months (β = -0.172, p = 0.028). Thus, n - 3 FA treatment appeared to increase plasma-TTR in patients with AD. Since TTR may influence Aβ deposition in the brain, the results warrant further exploration."
+      "paper_name": "Phytosterols and Omega 3 Supplementation Exert Novel Regulatory Effects on Metabolic and Inflammatory Pathways: A Proteomic Study.",
+      "paper_year": "2017",
+      "paper_authors": "Lambert C, Cubedo J, Padró T, Sánchez-Hernández J, Antonijoan RM, Perez A, Badimon L",
+      "journal": "Nutrients",
+      "publisher": "Nutrients",
+      "resumen": "Cardiovascular disease (CVD) remains one of the major causes of death and disability worldwide. In addition to drug treatment, nutritional interventions or supplementations are becoming a health strategy for CVD prevention. Phytosterols (PhyS) are natural components that have been shown to reduce cholesterol levels; while poly-unsaturated fatty acids (PUFA), mainly omega-3 (ω3) fatty acids, have shown to reduce triglyceride levels. Here we aimed to investigate whether the proteins in the main lipoproteins (low density lipoproteins (LDL) and high density lipoproteins (HDL)) as well as proteins in the lipid free plasma fraction (LPDP) were regulated by the intake of PhyS-milk or ω3-milk, in overweight healthy volunteers by a proteomic based systems biology approach. The study was a longitudinal crossover trial, including thirty-two healthy volunteers with body mass index (BMI) 25-35 kg/m² (Clinical Trial: ISRCTN78753338). Basal samples before any intervention and after 4 weeks of intake of PhyS or ω3-milk were analyzed. Proteomic profiling by two dimensional electrophoresis (2-DE) followed by mass spectrometry-(MALDI/TOF), ELISA, Western blot, conventional biochemical analysis, and in-silico bioinformatics were performed. The intake of PhyS-milk did not induce changes in the lipid associated plasma protein fraction, whereas ω3-milk significantly increased apolipoprotein (Apo)- E LDL content (<i>p =</i> 0.043) and induced a coordinated increase in several HDL-associated proteins, Apo A-I, lecitin cholesterol acyltransferase (LCAT), paraoxonase-1 (PON-1), Apo D, and Apo L1 (<i>p</i> < 0.05 for all). Interestingly, PhyS-milk intake induced a reduction in inflammatory molecules not seen after ω3-milk intake. Serum amyloid P component (SAP) was reduced in the LPDP protein fraction (<i>p</i> = 0.001) of subjects taking PhyS-milk and C-C motif chemokine 2 (CCL2)expression detected by reverse transcription polymerase chain reaction (RT-PCR) analysis in white blood cells was significantly reduced (<i>p</i> = 0.013). No changes were observed in the lipid-free plasma proteome with ω3-milk. Our study provides novel results and highlights that the PhyS-milk induces attenuation of the pro-inflammatory pathways, whereas ω3-milk induces improvement in lipid metabolic pathways."
     },
     {
-      "paper_name": "Highly purified eicosapentaenoic acid reduces cardio-ankle vascular index in association with decreased serum amyloid A-LDL in metabolic syndrome.",
-      "paper_year": "2009",
-      "paper_authors": "Satoh N, Shimatsu A, Kotani K, Himeno A, Majima T, Yamada K, Suganami T, Ogawa Y",
-      "journal": "Hypertension research : official journal of the Japanese Society of Hypertension",
-      "publisher": "Hypertens Res",
-      "resumen": "A recent clinical trial revealed that highly purified eicosapentaenoic acid (EPA), an n-3 polyunsaturated fatty acid, reduces the incidence of cardiovascular diseases. However, the detailed mechanism underlying the anti-atherogenic effect of EPA is still poorly understood. In this study, we examined the effect of EPA on cardio-ankle vascular index (CAVI), a new index of arterial stiffness that is less influenced by blood pressure (BP), as well as on serum amyloid A-low-density lipoprotein (SAA-LDL), an oxidized LDL (oxLDL), in the metabolic syndrome. Ninety-two obese Japanese subjects with metabolic syndromes were randomly divided into two groups (n=46): the EPA-treated group (1.8 g administered daily for 3 months) and the control group. Measurements were taken to assess the changes in glucose-lipid metabolism, SAA-LDL, C-reactive protein (CRP), leptin, adiponectin and pulse wave velocity (PWV), and CAVI. EPA treatment significantly reduced the levels of immunoreactive insulin, triglycerides, SAA-LDL, CRP, PWV and CAVI and increased the levels of adiponectin relative to the control group for 3 months (P<0.05). Stepwise multivariate linear regression analysis revealed that the only significant determinant for a decrease in CAVI by EPA is a reduction in SAA-LDL (P<0.05). Moreover, the EPA-induced reduction of SAA-LDL was only significantly correlated with a decrease in total cholesterol and an increase in adiponectin (P<0.05). This study is the first demonstration that EPA improves arterial stiffness and is less influenced by BP, possibly through the suppression of SAA-LDL, thereby leading to a reduction in the frequency of cardiovascular disease development in metabolic syndrome."
+      "paper_name": "Effects of Peroral Omega-3 Fatty Acid Supplementation on Cerebrospinal Fluid Biomarkers in Patients with Alzheimer's Disease: A Randomized Controlled Trial-The OmegAD Study.",
+      "paper_year": "2021",
+      "paper_authors": "Tofiq A, Zetterberg H, Blennow K, Basun H, Cederholm T, Eriksdotter M, Faxén-Irving G, Hjorth E, Jernerén F, Schultzberg M, Wahlund LO, Palmblad J, Freund-Levi Y",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "publisher": "J Alzheimers Dis",
+      "resumen": "Studies have suggested a connection between a decrease in the levels of polyunsaturated fatty acids (PUFAs) and Alzheimer's disease (AD). We aimed to assess the effect of supplementation with omega-3 fatty acids (n-3 FAs) on biomarkers analyzed in the cerebrospinal fluid (CSF) of patients diagnosed with AD."
+    },
+    {
+      "paper_name": "Cortical β-Amyloid in Older Adults Is Associated with Multidomain Interventions with and without Omega 3 Polyunsaturated Fatty Acid Supplementation.",
+      "paper_year": "2020",
+      "paper_authors": "Hooper C, Coley N, De Souto Barreto P, Payoux P, Salabert AS, Andrieu S, Weiner M, Vellas B",
+      "journal": "The journal of prevention of Alzheimer's disease..",
+      "publisher": "J Prev Alzheimers Dis",
+      "resumen": "Multidomain lifestyle interventions (including combinations of physical exercise, cognitive training and nutritional guidance) are attracting increasing research attention for reducing the risk of Alzheimer's disease (AD). Here we examined for the first time the cross-sectional relationship between cortical β-amyloid (Aβ) and multidomain lifestyle interventions (nutritional and exercise counselling and cognitive training), omega 3 polyunsaturated fatty acid (n-3 PUFA) supplementation or their combination in 269 participants of the Multidomain Alzheimer Preventive Trial (MAPT). In adjusted multiple linear regression models, compared to the control group (receiving placebo alone), cortical Aβ, measured once during follow-up (mean 512.7 ± 249.6 days post-baseline), was significantly lower in the groups receiving multidomain lifestyle intervention + placebo (mean difference, -0.088, 95 % CI, -0.148,-0.029, p = 0.004) or multidomain lifestyle intervention + n-3 PUFA (-0.100, 95 % CI, -0.160,-0.041, p = 0.001), but there was no difference in the n-3 PUFA supplementation alone group (-0.011, 95 % CI, -0.072,0.051, p = 0.729). Secondary analysis provided mixed results. Our findings suggest that multidomain interventions both with and without n-3 PUFA supplementation might be associated with lower cerebral Aβ. Future trials should investigate if such multidomain lifestyle interventions are causally associated with a reduction or the prevention of the accumulation of cerebral Aβ."
+    },
+    {
+      "paper_name": "Moody kids years later: Long-term outcomes of youth from the Omega-3 and therapy (OATS) studies.",
+      "paper_year": "2021",
+      "paper_authors": "Fristad MA, Roley-Roberts ME, Black SR, Arnold LE",
+      "journal": "Journal of affective disorders",
+      "publisher": "J Affect Disord",
+      "resumen": "This naturalistic follow-up study examines outcomes for youth with depression (n = 25) or subsyndromal bipolar disorder (n = 13) 2-5 years after participation in randomized clinical trials (RCTs) of omega-3 fatty acids (Ω3), individual family psychoeducational psychotherapy (IF-PEP), and their combination METHODS: Forty percent (38/95) of RCT families completed a follow-up assessment RESULTS: Relapse rates and conversion to bipolar disorder were consistent with published literature. Original treatment assignment did not impact current functioning. Overall, participants' mood severity, executive functioning, and global functioning continued to be better than at RCT baseline. Depressive symptoms increased significantly from end of RCT. Manic symptom severity, executive functioning, and global functioning remained comparable to end of RCT. The majority of parents and youth reported improved youth emotion regulation skills and family communication. They considered study participation beneficial, with increased understanding of mood disorders being the top reason. Half of youth commenced or continued Ω3 and 58% commenced or continued psychotherapy post-RCT, suggesting some degree of consumer satisfaction; these youth had lower depression severity than other participants."
+    },
+    {
+      "paper_name": "Body weight affects ω-3 polyunsaturated fatty acid (PUFA) accumulation in youth following supplementation in post-hoc analyses of a randomized controlled trial.",
+      "paper_year": "2017",
+      "paper_authors": "Christian LM, Young AS, Mitchell AM, Belury MA, Gracious BL, Arnold LE, Fristad MA",
+      "journal": "PloS one",
+      "publisher": "PLoS One",
+      "resumen": "Guidelines for suggested intake of ω-3 polyunsaturated fatty acids (PUFAs) are limited in youth and rely primarily on age. However, body weight varies considerably within age classifications. The current analyses examined effects of body weight and body mass index (BMI) on fatty acid accumulation in 64 youth (7-14 years) with a diagnosed mood disorder in a double-blind randomized-controlled trial (2000mg ω-3 supplements or a control capsule) across 12 weeks. Weight and height were measured at the first study visit and EPA and DHA levels were determined using fasting blood samples obtained at both the first and end-of-study visits. In the ω-3 supplementation group, higher baseline body weight predicted less plasma accumulation of both EPA [B = -0.047, (95% CI = -0.077; -0.017), β = -0.54, p = 0.003] and DHA [B = -0.02, (95% CI = -0.034; -0.007), β = -0.52, p = 0.004]. Similarly, higher BMI percentile as well as BMI category (underweight, normal weight, overweight/obese) predicted less accumulation of EPA and DHA (ps≤0.01). Adherence to supplementation was negatively correlated with BMI percentile [B = -0.002 (95% CI = -0.004; 0.00), β = -0.44, p = 0.019], but did not meaningfully affect observed associations. As intended, the control supplement exerted no significant effect on plasma levels of relevant fatty acids regardless of youth body parameters. These data show strong linear relationships of both absolute body weight and BMI percentile with ω-3 PUFA accumulation in youth. A dose-response effect was observed across the BMI spectrum. Given increasing variability in weight within BMI percentile ranges as youth age, dosing based on absolute weight should be considered. Moreover, effects of weight should be incorporated into statistical models in studies examining clinical effects of ω-3 PUFAs in youth as well as adults, as weight-related differences in effects may contribute meaningfully to inconsistencies in the current literature."
+    },
+    {
+      "paper_name": "Cross-Sectional Associations of Total Plasma Homocysteine with Cortical β-Amyloid Independently and as a Function of Omega 3 Polyunsaturated Fatty Acid Status in Older Adults at Risk of Dementia.",
+      "paper_year": "2017",
+      "paper_authors": "Hooper C, De Souto Barreto P, Coley N, Caussé E, Payoux P, Salabert AS, Cesari M, Andrieu S, Bowman GL, Weiner M, Vellas B",
+      "journal": "The journal of nutrition, health & aging..",
+      "publisher": "J Nutr Health Aging",
+      "resumen": "Elevated total plasma homocysteine is a risk factor for Alzheimer's disease (AD) and there is some evidence that omega-3 polyunsaturated fatty acids (n-3 PUFAs) can modulate the effects of homocysteine-lowering B vitamins on AD related pathologies. Hence we investigated the relationship between total plasma homocysteine and cortical β-amyloid (Aβ) in older adults at risk of dementia. The role of erythrocyte membrane n-3 PUFAs (omega 3 index) on this relationship was also explored."
+    },
+    {
+      "paper_name": "Regression of Coronary Fatty Plaque and Risk of Cardiac Events According to Blood Pressure Status: Data From a Randomized Trial of Eicosapentaenoic Acid and Docosahexaenoic Acid in Patients With Coronary Artery Disease.",
+      "paper_year": "2023",
+      "paper_authors": "Welty FK, Hariri E, Asbeutah AA, Daher R, Amangurbanova M, Chedid G, Elajami TK, Alfaddagh A, Malik A",
+      "journal": "Journal of the American Heart Association",
+      "publisher": "J Am Heart Assoc",
+      "resumen": "Background Residual risk of cardiovascular events and plaque progression remains despite reduction in low-density lipoprotein cholesterol. Factors contributing to residual risk remain unclear. The authors examined the role of eicosapentaenoic acid and docosahexaenoic acid in coronary plaque regression and its predictors. Methods and Results A total of 240 patients with stable coronary artery disease were randomized to eicosapentaenoic acid plus docosahexaenoic acid (3.36 g/d) or none for 30 months. Patients were stratified by regression or progression of coronary fatty plaque measured by coronary computed tomographic angiography. Cardiac events were ascertained. The mean±SD age was 63.0±7.7 years, mean low-density lipoprotein cholesterol level was <2.07 mmol/L, and median triglyceride level was <1.38 mmol/L. Regressors had a 14.9% reduction in triglycerides that correlated with fatty plaque regression (<i>r</i>=0.135; <i>P</i>=0.036). Compared with regressors, progressors had higher cardiac events (5% vs 22.3%, respectively; <i>P</i><0.001) and a 2.89-fold increased risk of cardiac events (95% CI, 1.1-8.0; <i>P</i>=0.034). Baseline non-high-density lipoprotein cholesterol level <2.59 mmol/L (100 mg/dL) and systolic blood pressure <125 mm Hg were significant independent predictors of fatty plaque regression. Normotensive patients taking eicosapentaenoic acid plus docosahexaenoic acid had regression of noncalcified coronary plaque that correlated with triglyceride reduction (<i>r</i>=0.35; <i>P</i>=0.034) and a significant decrease in neutrophil/lymphocyte ratio. In contrast, hypertensive patients had no change in noncalcified coronary plaque or neutrophil/lymphocyte ratio. Conclusions Triglyceride reduction, systolic blood pressure <125 mm Hg, and non-high-density lipoprotein cholesterol <2.59 mmol/L were associated with coronary plaque regression and reduced cardiac events. Normotensive patients had greater benefit than hypertensive patients potentially due to lower levels of inflammation. Future studies should examine the role of inflammation in plaque regression. Registration URL: https://www.clinicaltrials.gov; Unique identifier: NCT01624727."
+    },
+    {
+      "paper_name": "Supplementation of medium-chain triglycerides combined with docosahexaenoic acid improves cognitive function in Chinese older adults with mild cognitive impairment: A randomized double-blind, placebo-controlled trial.",
+      "paper_year": "2025",
+      "paper_authors": "Duan H, Yang T, Li C, Xu N, Wang M, Zhang C, Zhao J, Chen Y, Yan J, Li W, Li Z, Ma F, Huang G",
+      "journal": "Journal of affective disorders",
+      "publisher": "J Affect Disord",
+      "resumen": "Medium-chain triglycerides (MCT) and docosahexaenoic acid (DHA) could affect cognitive function, but their combination effects remain unclear. This randomized, double-blind, placebo-controlled trial aimed to evaluate effects of MCT and DHA supplementation, alone or in combination, on mild cognitive impairment (MCI) patients."
+    },
+    {
+      "paper_name": "The effect of APOE genotype on the delivery of DHA to cerebrospinal fluid in Alzheimer's disease.",
+      "paper_year": "2016",
+      "paper_authors": "Yassine HN, Rawat V, Mack WJ, Quinn JF, Yurko-Mauro K, Bailey-Hall E, Aisen PS, Chui HC, Schneider LS",
+      "journal": "Alzheimer's research & therapy",
+      "publisher": "Alzheimers Res Ther",
+      "resumen": "Apolipoprotein E (APOE) ɛ4 and low cerebrospinal fluid (CSF) amyloid-β42 (Aβ42) levels are predictors for developing Alzheimer's disease (AD). The results of several studies indicate an interaction between docosahexaenoic acid (DHA) consumption and cognitive outcomes by APOE genotype. Our objective in the present study was to examine whether APOE ɛ4 genotype and low CSF Aβ42 levels were associated with reduced delivery of DHA to CSF in the Alzheimer's Disease Cooperative Study-sponsored DHA clinical trial."
     },
     {
       "paper_name": "Effects of omega-3 fatty acids on inflammatory markers in cerebrospinal fluid and plasma in Alzheimer's disease: the OmegAD study.",
@@ -195,12 +123,60 @@
       "resumen": "omega-3 fatty acids (omega-3 FAs) found in dietary fish or fish oils are anti-inflammatory agents that may influence Alzheimer's disease (AD)."
     },
     {
+      "paper_name": "Transfer of omega-3 fatty acids across the blood-brain barrier after dietary supplementation with a docosahexaenoic acid-rich omega-3 fatty acid preparation in patients with Alzheimer's disease: the OmegAD study.",
+      "paper_year": "2014",
+      "paper_authors": "Freund Levi Y, Vedin I, Cederholm T, Basun H, Faxén Irving G, Eriksdotter M, Hjorth E, Schultzberg M, Vessby B, Wahlund LO, Salem N, Palmblad J",
+      "journal": "Journal of internal medicine",
+      "publisher": "J Intern Med",
+      "resumen": "Little is known about the transfer of essential fatty acids (FAs) across the human blood-brain barrier (BBB) in adulthood. In this study, we investigated whether oral supplementation with omega-3 (n-3) FAs would change the FA profile of the cerebrospinal fluid (CSF)."
+    },
+    {
+      "paper_name": "Effects of n-3 FA supplementation on the release of proresolving lipid mediators by blood mononuclear cells: the OmegAD study.",
+      "paper_year": "2015",
+      "paper_authors": "Wang X, Hjorth E, Vedin I, Eriksdotter M, Freund-Levi Y, Wahlund LO, Cederholm T, Palmblad J, Schultzberg M",
+      "journal": "Journal of lipid research",
+      "publisher": "J Lipid Res",
+      "resumen": "Specialized proresolving mediators (SPMs) induce resolution of inflammation. SPMs are derivatives of n-3 and n-6 PUFAs and may mediate their beneficial effects. It is unknown whether supplementation with PUFAs influences the production of SPMs. Alzheimer's disease (AD) is associated with brain inflammation and reduced levels of SPMs. The OmegAD study is a randomized, double-blind, and placebo-controlled clinical trial on AD patients, in which placebo or a supplement of 1.7 g DHA and 0.6 g EPA was taken daily for 6 months. Plasma levels of arachidonic acid decreased, and DHA and EPA levels increased after 6 months of n-3 FA treatment. Peripheral blood mononuclear cells (PBMCs) were obtained before and after the trial. Analysis of the culture medium of PBMCs incubated with amyloid-β 1-40 showed unchanged levels of the SPMs lipoxin A4 and resolvin D1 in the group supplemented with n-3 FAs, whereas a decrease was seen in the placebo group. The changes in SPMs showed correspondence to cognitive changes. Changes in the levels of SPMs were positively correlated to changes in transthyretin. We conclude that supplementation with n-3 PUFAs for 6 months prevented a reduction in SPMs released from PBMCs of AD patients, which was associated with changes in cognitive function."
+    },
+    {
+      "paper_name": "Commentary: Fatty acids and Alzheimer's disease: evidence on cognition and cortical β-amyloid from secondary analyses of the Multidomain Alzheimer Preventive Trial.",
+      "paper_year": "2018",
+      "paper_authors": "Hooper C, Vellas B",
+      "journal": "The journal of prevention of Alzheimer's disease..",
+      "publisher": "J Prev Alzheimers Dis",
+      "resumen": ""
+    },
+    {
+      "paper_name": "The impact of a multi-domain intervention on cerebral glucose metabolism: analysis from the randomized ancillary FDG PET MAPT trial.",
+      "paper_year": "2020",
+      "paper_authors": "Delrieu J, Voisin T, Saint-Aubert L, Carrie I, Cantet C, Vellas B, Payoux P, Andrieu S",
+      "journal": "Alzheimer's research & therapy",
+      "publisher": "Alzheimers Res Ther",
+      "resumen": "The Multidomain Alzheimer Preventive Trial (MAPT) was designed to assess the efficacy of omega-3 fatty acid supplementation, multidomain intervention (MI), or a combination of both on cognition. Although the MAPT study was negative, an effect of MI in maintaining cognitive functions compared to placebo group was showed in positive amyloid subjects. A FDG PET study (MAPT-NI) was implemented to test the impact of MI on brain glucose metabolism."
+    },
+    {
       "paper_name": "DHA supplementation decreases serum C-reactive protein and other markers of inflammation in hypertriglyceridemic men.",
       "paper_year": "2009",
       "paper_authors": "Kelley DS, Siegel D, Fedor DM, Adkins Y, Mackey BE",
       "journal": "The Journal of nutrition",
       "publisher": "J Nutr",
       "resumen": "Dietary (n-3) PUFA reduce inflammation, an independent risk factor for cardiovascular disease. The antiinflammatory effects of docosahexaenoic acid (DHA) in hypertriglyceridemic men have not been previously reported, to our knowledge, and were the focus of this study. Hypertriglyceridemic men (n = 17 per group) aged 39-66 y, participated in a double-blind, randomized, placebo-controlled parallel study. They received no supplements for the first 8 d and then received either 7.5 g/d DHA oil (3 g DHA/d) or olive oil (placebo) for the last 90 d. Blood samples were collected from fasting men on study days -7, 0, 45, 84, and 91. DHA supplementation for 45 and 91 d decreased the number of circulating neutrophils by 11.7 and 10.5%, respectively (P < 0.05). It did not alter the circulating concentrations of other inflammatory markers tested within 45 d, but at 91 d it reduced (P < 0.05) concentrations of C-reactive protein (CRP) by 15%, interleukin-6 by 23%, and granulocyte monocyte-colony stimulating factor by 21% and DHA increased the concentration of antiinflammatory matrix metalloproteinase-2 by 7%. The number of circulating neutrophils was positively associated with the weight percent (wt %) of 20:4(n-6) in RBC lipids, and negatively to the wt % of 20:5(n-3) and 22:6(n-3). Concentrations of CRP and serum amyloid A were positively associated with the sum of SFA and negatively with the wt % of 18:1(n-9) and 17:0 in RBC lipids; CRP was also positively associated with the wt % of 20:2(n-6). The mean size of VLDL particles was positively associated with plasma concentrations of neutrophils and CRP. In conclusion, DHA may lessen the inflammatory response by altering blood lipids and their fatty acid composition."
+    },
+    {
+      "paper_name": "Effects on transthyretin in plasma and cerebrospinal fluid by DHA-rich n - 3 fatty acid supplementation in patients with Alzheimer's disease: the OmegAD study.",
+      "paper_year": "2013",
+      "paper_authors": "Faxén-Irving G, Freund-Levi Y, Eriksdotter-Jönhagen M, Basun H, Hjorth E, Palmblad J, Vedin I, Cederholm T, Wahlund LO",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "publisher": "J Alzheimers Dis",
+      "resumen": "Transthyretin (TTR) binds amyloid-β (Aβ) and may reduce brain Aβ, a pathological feature in Alzheimer's disease (AD). N - 3 fatty acids (FA), docosahexaenoic (DHA), and eicosapentaenoic acid (EPA) may increase TTR transcription in rat hippocampus. We studied effects of n - 3 FA supplementation on TTR-levels in patients with AD. Outpatients were randomized to receive 1.7 g DHA and 0.6 g EPA (n - 3/n - 3 group) or placebo (placebo/n - 3 group) during 6 months. After 6 months, all patients received n - 3 FA for another 6 months. TTR and FA were measured in plasma in all subjects, whereas TTR in cerebrospinal fluid (CSF) was measured in a subgroup. The study was completed by 89 patients in the n - 3/n - 3 group (75 y, 57% w) and 85 in the placebo/n - 3 group (75 y, 46% w). Baseline plasma-TTR was within normal range in both groups. After 6 months, plasma-TTR decreased in the placebo/n - 3 group (p < 0.001 within and p < 0.015 between the groups). No changes were observed in CSF TTR. From 6 to 12 months when both groups were supplemented, plasma-TTR increased significantly in both groups. Repeated measures ANOVA indicated an increase in TTR over time (p = 0.04) in those receiving n - 3 FA for 12 months. By linear regression analyses, n - 3 FA treatment was independently associated with increased plasma-TTR at 6 months (β = -0.172, p = 0.028). Thus, n - 3 FA treatment appeared to increase plasma-TTR in patients with AD. Since TTR may influence Aβ deposition in the brain, the results warrant further exploration."
+    },
+    {
+      "paper_name": "DHA supplementation improves cognitive function via enhancing Aβ-mediated autophagy in Chinese elderly with mild cognitive impairment: a randomised placebo-controlled trial.",
+      "paper_year": "2018",
+      "paper_authors": "Zhang YP, Lou Y, Hu J, Miao R, Ma F",
+      "journal": "Journal of neurology, neurosurgery, and psychiatry",
+      "publisher": "J Neurol Neurosurg Psychiatry",
+      "resumen": "Higher docosahexaenoic acid (DHA) intake is inversely correlated with relative risk of Alzheimer's disease. The potential benefits of DHA supplementation in people with mild cognitive impairment (MCI) have not been fully examined."
     },
     {
       "paper_name": "Systemic inflammation in morbidly obese subjects: response to oral supplementation with alpha-linolenic acid.",
@@ -211,6 +187,14 @@
       "resumen": "Morbidly obese patients frequently display asymptomatic chronic activation of acute phase response, with potentially adverse metabolic and cardiovascular consequences. Nutritional preparations to improve this phenomenon have rarely been administered. Aiming to investigate the supplementation of flaxseed flour, a source of omega-3 fatty acids, a prospective randomized double-blind cross-over study was designed."
     },
     {
+      "paper_name": "Dietary alpha-linolenic acid decreases C-reactive protein, serum amyloid A and interleukin-6 in dyslipidaemic patients.",
+      "paper_year": "2003",
+      "paper_authors": "Rallidis LS, Paschos G, Liakos GK, Velissaridou AH, Anastasiadis G, Zampelas A",
+      "journal": "Atherosclerosis",
+      "publisher": "Atherosclerosis",
+      "resumen": "Inflammation plays an important role in the pathogenesis of coronary artery disease. We examined whether dietary supplementation with alpha-linolenic acid (ALA, 18:3n-3) affects the levels of inflammatory markers in dyslipidaemic patients."
+    },
+    {
       "paper_name": "Study of the pharmacokinetic interaction between simvastatin and prescription omega-3-acid ethyl esters.",
       "paper_year": "2006",
       "paper_authors": "McKenney JM, Swearingen D, Di Spirito M, Doyle R, Pantaleon C, Kling D, Shalwitz RA",
@@ -219,12 +203,28 @@
       "resumen": "The coadministration of prescription omega-3-acid ethyl esters (P-OM3) with a statin may present a treatment option for patients with mixed hyperlipidemia. This open-label, randomized, 2-way crossover, drug-drug interaction study evaluated the impact of P-OM3 capsules on plasma simvastatin pharmacokinetics in 24 healthy volunteers. Under fasted conditions, 80 mg simvastatin was administered with or without 4 g P-OM3 for two 14-day periods. After 14 days of dosing to achieve steady state, no significant differences were found in either the extent (AUC(tau)) or rate (Cmax) of exposure to simvastatin or its major beta-hydroxy metabolite after coadministration of P-OM3 with simvastatin compared with administration of simvastatin alone. At steady state, the coadministration of P-OM3 capsules did not appear to affect the pharmacokinetics of simvastatin tablets. The combination of P-OM3 capsules and simvastatin appeared to be well tolerated."
     },
     {
-      "paper_name": "Dietary alpha-linolenic acid decreases C-reactive protein, serum amyloid A and interleukin-6 in dyslipidaemic patients.",
-      "paper_year": "2003",
-      "paper_authors": "Rallidis LS, Paschos G, Liakos GK, Velissaridou AH, Anastasiadis G, Zampelas A",
-      "journal": "Atherosclerosis",
-      "publisher": "Atherosclerosis",
-      "resumen": "Inflammation plays an important role in the pathogenesis of coronary artery disease. We examined whether dietary supplementation with alpha-linolenic acid (ALA, 18:3n-3) affects the levels of inflammatory markers in dyslipidaemic patients."
+      "paper_name": "Increasing serum levels of vitamin A, D and E are associated with alterations of different inflammation markers in patients with multiple sclerosis.",
+      "paper_year": "2014",
+      "paper_authors": "Røsjø E, Myhr KM, Løken-Amsrud KI, Bakke SJ, Beiske AG, Bjerve KS, Hovdal H, Lilleås F, Midgard R, Pedersen T, Benth JS, Torkildsen Ø, Wergeland S, Michelsen AE, Aukrust P, Ueland T, Holmøy T",
+      "journal": "Journal of neuroimmunology",
+      "publisher": "J Neuroimmunol",
+      "resumen": "To explore the relationships between vitamin A, D and E and inflammation in relapsing remitting multiple sclerosis, we assessed their associations with 11 inflammation markers in 9 serial serum samples from 85 patients, before and during interferon-β1a treatment. A negative association was found between vitamin A and pentraxin 3 independent of interferon-β1a use, whereas positive associations between vitamin D and interleukin-1 receptor antagonist and secreted frizzled-related protein 3 were seen before, and between vitamin E and chemokine (C-X-C motif) ligand 16 during interferon-β1a treatment. These findings suggest associations with diverse inflammatory pathways, which may be differentially influenced by interferon-β1a treatment."
+    },
+    {
+      "paper_name": "Impact of Adding Eicosapentaenoic Acid to Statin Therapy on Plasma Pentraxin 3 Level in Patients with Stable Coronary Artery Disease: A 6-Month, Randomized Controlled Study.",
+      "paper_year": "2017",
+      "paper_authors": "Tani S, Nagao K, Yagi T, Atsumi W, Hirayama A",
+      "journal": "American journal of cardiovascular drugs : drugs, devices, and other interventions",
+      "publisher": "Am J Cardiovasc Drugs",
+      "resumen": "We hypothesized that the additional administration of eicosapentaenoic acid (EPA) in patients with stable coronary artery disease (CAD) receiving statin has the potential to lower the serum pentraxin 3 (PTX3) level, an indicator of plaque stabilization."
+    },
+    {
+      "paper_name": "Highly purified eicosapentaenoic acid reduces cardio-ankle vascular index in association with decreased serum amyloid A-LDL in metabolic syndrome.",
+      "paper_year": "2009",
+      "paper_authors": "Satoh N, Shimatsu A, Kotani K, Himeno A, Majima T, Yamada K, Suganami T, Ogawa Y",
+      "journal": "Hypertension research : official journal of the Japanese Society of Hypertension",
+      "publisher": "Hypertens Res",
+      "resumen": "A recent clinical trial revealed that highly purified eicosapentaenoic acid (EPA), an n-3 polyunsaturated fatty acid, reduces the incidence of cardiovascular diseases. However, the detailed mechanism underlying the anti-atherogenic effect of EPA is still poorly understood. In this study, we examined the effect of EPA on cardio-ankle vascular index (CAVI), a new index of arterial stiffness that is less influenced by blood pressure (BP), as well as on serum amyloid A-low-density lipoprotein (SAA-LDL), an oxidized LDL (oxLDL), in the metabolic syndrome. Ninety-two obese Japanese subjects with metabolic syndromes were randomly divided into two groups (n=46): the EPA-treated group (1.8 g administered daily for 3 months) and the control group. Measurements were taken to assess the changes in glucose-lipid metabolism, SAA-LDL, C-reactive protein (CRP), leptin, adiponectin and pulse wave velocity (PWV), and CAVI. EPA treatment significantly reduced the levels of immunoreactive insulin, triglycerides, SAA-LDL, CRP, PWV and CAVI and increased the levels of adiponectin relative to the control group for 3 months (P<0.05). Stepwise multivariate linear regression analysis revealed that the only significant determinant for a decrease in CAVI by EPA is a reduction in SAA-LDL (P<0.05). Moreover, the EPA-induced reduction of SAA-LDL was only significantly correlated with a decrease in total cholesterol and an increase in adiponectin (P<0.05). This study is the first demonstration that EPA improves arterial stiffness and is less influenced by BP, possibly through the suppression of SAA-LDL, thereby leading to a reduction in the frequency of cardiovascular disease development in metabolic syndrome."
     }
   ]
 }
